@@ -1,0 +1,12 @@
+Child Dataset,Foreign Key,Parent Dataset,Parent Key,Invalid References
+Orders,customer_id,Customers,customer_id,0
+Order Items,order_id,Orders,order_id,0
+Order Items,product_id,Products,product_id,0
+Payments,order_id,Orders,order_id,0
+Shipments,order_id,Orders,order_id,0
+Returns,order_id,Orders,order_id,0
+Returns,customer_id,Customers,customer_id,0
+Returns,product_id,Products,product_id,0
+Customer Reviews,order_id,Orders,order_id,0
+Customer Reviews,customer_id,Customers,customer_id,0
+Customer Reviews,product_id,Products,product_id,0

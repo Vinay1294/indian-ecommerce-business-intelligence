@@ -1,0 +1,10 @@
+Dataset,Rows,Columns
+Customers,25000,18
+Orders,100000,16
+Order Items,254331,9
+Products,550,14
+Payments,100000,8
+Shipments,89681,11
+Returns,12075,8
+Customer Reviews,77530,8
+Marketing Campaigns,151,14

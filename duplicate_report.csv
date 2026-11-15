@@ -1,0 +1,10 @@
+Dataset,Total Records,Duplicate Rows
+Customers,25000,0
+Orders,100000,0
+Order Items,254331,0
+Products,550,0
+Payments,100000,0
+Shipments,89681,0
+Returns,12075,0
+Customer Reviews,77530,0
+Marketing Campaigns,151,0

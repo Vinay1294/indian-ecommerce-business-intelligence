@@ -1,0 +1,10 @@
+Dataset,Column,Missing Values
+Customers,age,250
+Customers,preferred_device,125
+Customers,last_order_date,2300
+Orders,coupon_code,33711
+Orders,campaign_id,82821
+Products,rating_average,4
+Shipments,actual_delivery_date,2321
+Shipments,delivery_days,2321
+Customer Reviews,review_sentiment,233

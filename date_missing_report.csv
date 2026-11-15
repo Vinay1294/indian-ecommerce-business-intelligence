@@ -1,0 +1,13 @@
+Dataset,Date Column,Missing Values
+Customers,customer_signup_date,0
+Customers,last_order_date,2300
+Orders,order_date,0
+Products,product_launch_date,0
+Payments,payment_date,0
+Shipments,dispatch_date,0
+Shipments,expected_delivery_date,0
+Shipments,actual_delivery_date,2321
+Returns,return_date,0
+Customer Reviews,review_date,0
+Marketing Campaigns,campaign_start_date,0
+Marketing Campaigns,campaign_end_date,0

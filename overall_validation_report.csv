@@ -1,0 +1,5 @@
+Category,Total Checks,Passed,Failed
+Duplicate Rows,9,9,0
+Primary Keys,9,9,0
+Foreign Keys,11,11,0
+Business Rules,9,9,0

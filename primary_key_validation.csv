@@ -1,0 +1,10 @@
+Dataset,Primary Key,Total Records,Unique Values,Duplicate Keys,Missing Keys
+Customers,customer_id,25000,25000,0,0
+Orders,order_id,100000,100000,0,0
+Order Items,order_item_id,254331,254331,0,0
+Products,product_id,550,550,0,0
+Payments,payment_id,100000,100000,0,0
+Shipments,shipment_id,89681,89681,0,0
+Returns,return_id,12075,12075,0,0
+Customer Reviews,review_id,77530,77530,0,0
+Marketing Campaigns,campaign_id,151,151,0,0

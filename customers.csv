@@ -422,7 +422,7 @@ CUST100419,2025-05-30,Male,37.0,35-44,Punjab,Ludhiana,553,Budget,Mobile App,Cred
 CUST100420,2025-07-09,Female,27.0,25-34,Gujarat,Ahmedabad,307,Premium,Desktop,Cash on Delivery,Paid Search,9,384612.71,2025-12-19,42734.75,Active,Gold
 CUST100421,2025-07-07,Female,29.0,25-34,Bihar,Patna,159,Regular,Mobile App,EMI,Organic Search,4,198289.51,2025-12-06,49572.38,Active,Gold
 CUST100422,2023-05-13,Male,18.0,18-24,Haryana,Gurugram,587,Regular,Mobile Web,Cash on Delivery,Paid Search,1,2677.5,2023-06-09,2677.5,Churned,Bronze
-CUST100423,2023-01-14,Male,,25-34,Andhra Pradesh,Visakhapatnam,604,Premium,Unknown,Cash on Delivery,Social Media - Facebook,7,368110.65,2023-07-26,52587.24,Churned,Gold
+CUST100423,2023-01-14,Male,,25-34,Andhra Pradesh,Visakhapatnam,604,Premium,,Cash on Delivery,Social Media - Facebook,7,368110.65,2023-07-26,52587.24,Churned,Gold
 CUST100424,2023-03-25,Male,30.0,25-34,Karnataka,Bengaluru,515,New,Mobile App,Net Banking,SMS Marketing,1,9775.5,2024-01-28,9775.5,Churned,Bronze
 CUST100425,2023-01-23,Male,22.0,18-24,Maharashtra,Pune,711,Regular,Mobile App,Net Banking,Direct/App,4,8350.44,2023-06-17,2087.61,Churned,Bronze
 CUST100426,2023-07-18,Female,45.0,45-54,Haryana,Faridabad,741,Regular,Desktop,UPI,Direct/App,9,236215.24,2024-09-16,26246.14,Churned,Gold
@@ -732,7 +732,7 @@ CUST100729,2023-08-26,Male,26.0,25-34,Maharashtra,Pune,750,Regular,Mobile Web,Ca
 CUST100730,2023-08-27,Male,18.0,18-24,Uttar Pradesh,Noida,714,Budget,Mobile App,UPI,Organic Search,1,284.78,2023-09-04,284.78,Churned,Bronze
 CUST100731,2025-08-02,Male,27.0,25-34,Madhya Pradesh,Indore,619,Premium,Mobile App,Cash on Delivery,Influencer Marketing,9,196586.2,2025-12-08,21842.91,Active,Gold
 CUST100732,2025-03-02,Male,26.0,25-34,Delhi,New Delhi,303,New,Mobile App,Credit Card,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
-CUST100733,2024-10-19,Female,,35-44,Haryana,Gurugram,241,Budget,Unknown,UPI,Affiliate,1,12392.1,2024-12-03,12392.1,Churned,Bronze
+CUST100733,2024-10-19,Female,,35-44,Haryana,Gurugram,241,Budget,,UPI,Affiliate,1,12392.1,2024-12-03,12392.1,Churned,Bronze
 CUST100734,2024-04-08,Male,38.0,35-44,West Bengal,Howrah,550,Regular,Mobile App,EMI,Social Media - Instagram,1,15501.15,2024-10-11,15501.15,Churned,Bronze
 CUST100735,2025-10-01,Female,49.0,45-54,Karnataka,Mysuru,306,Regular,Mobile App,Cash on Delivery,Paid Search,2,12746.16,2025-12-31,6373.08,Active,Bronze
 CUST100736,2024-05-20,Female,34.0,25-34,Kerala,Kochi,323,Regular,Mobile App,Credit Card,Email Marketing,3,60265.5,2024-08-26,20088.5,Churned,Silver
@@ -865,7 +865,7 @@ CUST100862,2024-10-20,Male,18.0,18-24,Maharashtra,Pune,483,Budget,Mobile App,UPI
 CUST100863,2023-07-15,Male,20.0,18-24,Haryana,Gurugram,447,Budget,Mobile Web,Debit Card,Paid Search,2,85718.43,2024-03-27,42859.22,Churned,Silver
 CUST100864,2023-05-09,Male,38.0,35-44,Tamil Nadu,Chennai,638,Budget,Mobile App,UPI,Social Media - Instagram,1,16449.3,2024-01-21,16449.3,Churned,Bronze
 CUST100865,2023-07-18,Female,41.0,35-44,Kerala,Kochi,243,New,Mobile Web,UPI,Paid Search,1,8718.73,2024-04-28,8718.73,Churned,Bronze
-CUST100866,2023-01-22,Male,,18-24,Telangana,Warangal,830,Premium,Unknown,UPI,Organic Search,5,124086.63,2024-03-06,24817.33,Churned,Silver
+CUST100866,2023-01-22,Male,,18-24,Telangana,Warangal,830,Premium,,UPI,Organic Search,5,124086.63,2024-03-06,24817.33,Churned,Silver
 CUST100867,2023-09-20,Male,44.0,35-44,Tamil Nadu,Coimbatore,475,Regular,Mobile Web,Net Banking,Social Media - Instagram,1,172049.85,2025-05-31,172049.85,Churned,Silver
 CUST100868,2025-09-17,Female,38.0,35-44,Gujarat,Surat,373,New,Desktop,Debit Card,Organic Search,1,4523.61,2025-09-19,4523.61,At Risk,Bronze
 CUST100869,2025-11-19,Female,24.0,18-24,Kerala,Thiruvananthapuram,655,Regular,Mobile App,UPI,Organic Search,3,133547.24,2025-12-05,44515.75,Active,Silver
@@ -1804,7 +1804,7 @@ CUST101801,2025-05-14,Male,18.0,18-24,Karnataka,Bengaluru,445,Budget,Desktop,EMI
 CUST101802,2024-04-01,Male,46.0,45-54,Maharashtra,Mumbai,322,Budget,Mobile App,Debit Card,Social Media - Instagram,2,19834.45,2025-06-04,9917.22,Churned,Bronze
 CUST101803,2024-01-23,Female,18.0,18-24,Bihar,Patna,457,Regular,Mobile App,Net Banking,Email Marketing,9,450394.1,2024-03-19,50043.79,Churned,Platinum
 CUST101804,2024-03-28,Male,22.0,18-24,Rajasthan,Jaipur,122,Regular,Mobile App,UPI,Direct/App,4,17636.75,2025-11-22,4409.19,Active,Bronze
-CUST101805,2025-06-22,Male,,25-34,Gujarat,Ahmedabad,812,Regular,Unknown,UPI,Direct/App,7,27688.71,2025-11-24,3955.53,Active,Bronze
+CUST101805,2025-06-22,Male,,25-34,Gujarat,Ahmedabad,812,Regular,,UPI,Direct/App,7,27688.71,2025-11-24,3955.53,Active,Bronze
 CUST101806,2023-04-15,Male,31.0,25-34,Gujarat,Ahmedabad,669,Regular,Desktop,UPI,Organic Search,4,94825.55,2025-04-30,23706.39,Churned,Silver
 CUST101807,2023-09-24,Female,31.0,25-34,Maharashtra,Nagpur,526,Regular,Mobile Web,Cash on Delivery,Social Media - Instagram,8,35413.14,2023-11-20,4426.64,Churned,Bronze
 CUST101808,2023-04-04,Male,33.0,25-34,Punjab,Amritsar,354,Regular,Desktop,Wallet,Direct/App,8,126922.0,2024-11-09,15865.25,Churned,Silver
@@ -1914,7 +1914,7 @@ CUST101911,2025-10-01,Male,18.0,18-24,Tamil Nadu,Coimbatore,271,Regular,Mobile A
 CUST101912,2025-12-29,Male,50.0,45-54,West Bengal,Howrah,870,Premium,Mobile App,UPI,Organic Search,11,292459.17,2025-12-31,26587.2,Active,Gold
 CUST101913,2024-04-20,Male,29.0,25-34,Telangana,Hyderabad,662,Regular,Mobile Web,Net Banking,Organic Search,3,233254.39,2024-08-26,77751.46,Churned,Gold
 CUST101914,2024-07-29,Male,28.0,25-34,Maharashtra,Pune,768,Regular,Mobile App,Cash on Delivery,Organic Search,5,131173.62,2025-10-09,26234.72,Active,Silver
-CUST101915,2025-04-28,Male,,25-34,Tamil Nadu,Coimbatore,325,Regular,Unknown,Wallet,Direct/App,7,76150.84,2025-12-12,10878.69,Active,Silver
+CUST101915,2025-04-28,Male,,25-34,Tamil Nadu,Coimbatore,325,Regular,,Wallet,Direct/App,7,76150.84,2025-12-12,10878.69,Active,Silver
 CUST101916,2025-10-08,Male,35.0,35-44,West Bengal,Kolkata,227,Regular,Mobile App,Cash on Delivery,Organic Search,5,101625.1,2025-12-28,20325.02,Active,Silver
 CUST101917,2023-03-26,Male,27.0,25-34,Maharashtra,Pune,528,Budget,Mobile App,Debit Card,Affiliate,1,48302.1,2024-09-01,48302.1,Churned,Bronze
 CUST101918,2024-05-19,Male,33.0,25-34,Madhya Pradesh,Indore,511,Regular,Mobile App,Cash on Delivery,Paid Search,4,159102.97,2025-08-06,39775.74,At Risk,Silver
@@ -2226,7 +2226,7 @@ CUST102223,2023-05-05,Female,22.0,18-24,Maharashtra,Nagpur,693,New,Mobile Web,Ca
 CUST102224,2023-04-18,Female,41.0,35-44,Haryana,Faridabad,249,Regular,Mobile App,Credit Card,Influencer Marketing,3,49153.92,2024-05-09,16384.64,Churned,Bronze
 CUST102225,2023-02-01,Male,44.0,35-44,Uttar Pradesh,Noida,228,Premium,Mobile App,Cash on Delivery,Paid Search,9,172648.35,2025-04-01,19183.15,Churned,Silver
 CUST102226,2024-01-28,Female,20.0,18-24,Andhra Pradesh,Vijayawada,888,New,Mobile App,Debit Card,Email Marketing,0,0.0,,0.0,Never Purchased,Bronze
-CUST102227,2023-02-24,Female,,35-44,Maharashtra,Nagpur,830,Regular,Unknown,Wallet,Paid Search,1,43816.71,2023-10-27,43816.71,Churned,Bronze
+CUST102227,2023-02-24,Female,,35-44,Maharashtra,Nagpur,830,Regular,,Wallet,Paid Search,1,43816.71,2023-10-27,43816.71,Churned,Bronze
 CUST102228,2024-01-24,Female,18.0,18-24,Karnataka,Mysuru,624,New,Mobile App,UPI,Organic Search,2,128950.29,2024-02-17,64475.14,Churned,Silver
 CUST102229,2024-01-27,Male,34.0,25-34,Gujarat,Vadodara,793,New,Desktop,Cash on Delivery,Paid Search,2,121124.06,2024-11-27,60562.03,Churned,Silver
 CUST102230,2023-06-02,Other,42.0,35-44,Andhra Pradesh,Vijayawada,686,Regular,Mobile Web,Net Banking,SMS Marketing,2,31583.79,2023-08-12,15791.9,Churned,Bronze
@@ -2517,7 +2517,7 @@ CUST102514,2023-02-05,Male,38.0,35-44,Maharashtra,Mumbai,441,New,Mobile Web,UPI,
 CUST102515,2025-11-04,Female,42.0,35-44,Maharashtra,Nagpur,726,Regular,Mobile App,UPI,Social Media - Facebook,3,85775.76,2025-12-30,28591.92,Active,Silver
 CUST102516,2023-01-29,Female,18.0,18-24,Maharashtra,Pune,325,Regular,Desktop,UPI,Referral,3,35108.74,2024-02-15,11702.91,Churned,Bronze
 CUST102517,2024-09-01,Male,33.0,25-34,Delhi,New Delhi,581,Regular,Desktop,UPI,Social Media - Facebook,2,275121.26,2025-05-20,137560.63,Churned,Gold
-CUST102518,2023-06-19,Male,,35-44,Maharashtra,Mumbai,524,Regular,Unknown,Credit Card,Paid Search,3,20040.3,2025-07-01,6680.1,Churned,Bronze
+CUST102518,2023-06-19,Male,,35-44,Maharashtra,Mumbai,524,Regular,,Credit Card,Paid Search,3,20040.3,2025-07-01,6680.1,Churned,Bronze
 CUST102519,2025-04-29,Other,39.0,35-44,West Bengal,Kolkata,517,Premium,Mobile App,UPI,Affiliate,3,31164.63,2025-12-06,10388.21,Active,Bronze
 CUST102520,2025-03-29,Female,31.0,25-34,Bihar,Patna,454,Budget,Desktop,Credit Card,Email Marketing,3,29185.07,2025-05-16,9728.36,Churned,Bronze
 CUST102521,2023-07-16,Female,36.0,35-44,Telangana,Hyderabad,413,Premium,Desktop,Cash on Delivery,Direct/App,10,186256.14,2025-12-21,18625.61,Active,Silver
@@ -2789,7 +2789,7 @@ CUST102786,2023-03-28,Female,37.0,35-44,Punjab,Amritsar,661,Budget,Mobile App,Wa
 CUST102787,2023-10-09,Female,50.0,45-54,Maharashtra,Mumbai,843,Regular,Desktop,Cash on Delivery,Direct/App,2,7542.83,2024-10-01,3771.42,Churned,Bronze
 CUST102788,2025-11-23,Male,38.0,35-44,Maharashtra,Nagpur,563,Budget,Mobile App,UPI,Referral,1,799.31,2025-12-22,799.31,Active,Bronze
 CUST102789,2025-12-28,Other,29.0,25-34,Kerala,Kochi,520,Budget,Mobile Web,UPI,Direct/App,3,17444.91,2025-12-31,5814.97,Active,Bronze
-CUST102790,2025-04-17,Male,,35-44,Tamil Nadu,Chennai,646,Premium,Unknown,Debit Card,Influencer Marketing,11,335541.64,2025-11-05,30503.79,Active,Gold
+CUST102790,2025-04-17,Male,,35-44,Tamil Nadu,Chennai,646,Premium,,Debit Card,Influencer Marketing,11,335541.64,2025-11-05,30503.79,Active,Gold
 CUST102791,2025-12-18,Female,49.0,45-54,West Bengal,Kolkata,823,Budget,Mobile App,Cash on Delivery,Influencer Marketing,1,343.12,2025-12-25,343.12,Active,Bronze
 CUST102792,2023-07-02,Female,43.0,35-44,Haryana,Faridabad,723,Regular,Mobile App,Cash on Delivery,Paid Search,1,7863.34,2024-07-22,7863.34,Churned,Bronze
 CUST102793,2023-01-04,Male,31.0,25-34,Madhya Pradesh,Bhopal,508,Budget,Mobile Web,UPI,Social Media - Instagram,4,23570.09,2024-01-09,5892.52,Churned,Bronze
@@ -2973,7 +2973,7 @@ CUST102970,2024-05-05,Female,31.0,25-34,Andhra Pradesh,Vijayawada,380,Regular,Mo
 CUST102971,2023-08-25,Female,43.0,35-44,Gujarat,Ahmedabad,226,Premium,Mobile App,UPI,Direct/App,8,130310.36,2024-01-12,16288.8,Churned,Silver
 CUST102972,2025-07-04,Female,38.0,35-44,West Bengal,Kolkata,867,Regular,Mobile Web,Cash on Delivery,Organic Search,2,18413.54,2025-09-03,9206.77,At Risk,Bronze
 CUST102973,2025-05-11,Male,19.0,18-24,Karnataka,Mysuru,748,New,Desktop,UPI,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
-CUST102974,2023-04-25,Female,,35-44,Delhi,New Delhi,558,New,Unknown,Cash on Delivery,SMS Marketing,1,30232.18,2023-12-26,30232.18,Churned,Bronze
+CUST102974,2023-04-25,Female,,35-44,Delhi,New Delhi,558,New,,Cash on Delivery,SMS Marketing,1,30232.18,2023-12-26,30232.18,Churned,Bronze
 CUST102975,2023-02-07,Female,37.0,35-44,Gujarat,Surat,329,Regular,Mobile App,Credit Card,Organic Search,4,10888.64,2025-12-06,2722.16,Active,Bronze
 CUST102976,2025-08-26,Female,29.0,25-34,Uttar Pradesh,Kanpur,761,Regular,Mobile App,EMI,Affiliate,4,30908.12,2025-11-14,7727.03,Active,Bronze
 CUST102977,2023-01-17,Male,26.0,25-34,Haryana,Gurugram,467,Regular,Mobile App,Cash on Delivery,Direct/App,5,32312.0,2023-05-09,6462.4,Churned,Bronze
@@ -3351,7 +3351,7 @@ CUST103348,2023-01-30,Male,31.0,25-34,Tamil Nadu,Chennai,302,Budget,Mobile Web,D
 CUST103349,2023-11-20,Female,20.0,18-24,Delhi,New Delhi,823,Premium,Mobile App,Cash on Delivery,Affiliate,13,273215.05,2024-03-05,21016.54,Churned,Gold
 CUST103350,2023-10-28,Male,33.0,25-34,Karnataka,Bengaluru,156,New,Mobile App,UPI,Organic Search,2,140876.29,2024-12-18,70438.14,Churned,Silver
 CUST103351,2024-06-29,Female,32.0,25-34,Punjab,Ludhiana,411,Budget,Mobile App,Credit Card,Social Media - Facebook,3,169240.94,2025-11-13,56413.65,Active,Silver
-CUST103352,2025-10-22,Male,,18-24,Maharashtra,Nagpur,106,Budget,Unknown,EMI,Organic Search,3,23428.81,2025-11-30,7809.6,Active,Bronze
+CUST103352,2025-10-22,Male,,18-24,Maharashtra,Nagpur,106,Budget,,EMI,Organic Search,3,23428.81,2025-11-30,7809.6,Active,Bronze
 CUST103353,2023-03-23,Female,24.0,18-24,Haryana,Gurugram,483,Premium,Mobile App,Wallet,Direct/App,7,447381.32,2025-08-28,63911.62,At Risk,Platinum
 CUST103354,2023-09-28,Female,25.0,25-34,Kerala,Thiruvananthapuram,306,Premium,Mobile Web,Wallet,Paid Search,5,151892.95,2025-03-19,30378.59,Churned,Silver
 CUST103355,2023-04-25,Male,42.0,35-44,Rajasthan,Jodhpur,566,Regular,Mobile Web,Cash on Delivery,Email Marketing,5,82345.67,2023-11-18,16469.13,Churned,Silver
@@ -3385,7 +3385,7 @@ CUST103382,2023-02-16,Female,33.0,25-34,Kerala,Thiruvananthapuram,531,Premium,De
 CUST103383,2023-12-11,Male,18.0,18-24,Maharashtra,Mumbai,563,Premium,Mobile App,Net Banking,Organic Search,9,439625.48,2025-12-28,48847.28,Active,Platinum
 CUST103384,2023-02-20,Female,38.0,35-44,West Bengal,Kolkata,393,Regular,Mobile App,Debit Card,Social Media - Instagram,4,238159.01,2024-06-08,59539.75,Churned,Gold
 CUST103385,2023-03-03,Male,32.0,25-34,Uttar Pradesh,Noida,760,Budget,Mobile App,Wallet,Organic Search,1,11557.14,2024-07-05,11557.14,Churned,Bronze
-CUST103386,2023-11-22,Male,,25-34,Haryana,Gurugram,695,New,Unknown,Debit Card,Email Marketing,3,14158.31,2025-02-05,4719.44,Churned,Bronze
+CUST103386,2023-11-22,Male,,25-34,Haryana,Gurugram,695,New,,Debit Card,Email Marketing,3,14158.31,2025-02-05,4719.44,Churned,Bronze
 CUST103387,2023-06-22,Male,19.0,18-24,Maharashtra,Nagpur,663,Budget,Mobile Web,Pay Later,Direct/App,4,31443.21,2023-08-31,7860.8,Churned,Bronze
 CUST103388,2023-02-28,Male,39.0,35-44,Maharashtra,Mumbai,852,Budget,Mobile Web,Cash on Delivery,Social Media - Facebook,2,9862.44,2025-07-19,4931.22,At Risk,Bronze
 CUST103389,2023-03-02,Male,49.0,45-54,Uttar Pradesh,Lucknow,573,New,Desktop,Cardless EMI,Influencer Marketing,1,7124.04,2024-04-08,7124.04,Churned,Bronze
@@ -3491,7 +3491,7 @@ CUST103488,2023-02-17,Female,35.0,35-44,Gujarat,Vadodara,440,New,Mobile App,UPI,
 CUST103489,2024-06-27,Female,24.0,18-24,Karnataka,Mysuru,250,Budget,Mobile Web,Credit Card,Direct/App,2,18339.82,2025-04-17,9169.91,Churned,Bronze
 CUST103490,2023-05-03,Male,27.0,25-34,West Bengal,Kolkata,690,Regular,Mobile Web,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST103491,2024-12-31,Male,29.0,25-34,Tamil Nadu,Chennai,705,Regular,Mobile App,UPI,Paid Search,3,369459.3,2025-10-26,123153.1,Active,Gold
-CUST103492,2025-10-04,Female,,18-24,Telangana,Warangal,853,New,Unknown,UPI,Social Media - Instagram,3,20671.35,2025-11-21,6890.45,Active,Bronze
+CUST103492,2025-10-04,Female,,18-24,Telangana,Warangal,853,New,,UPI,Social Media - Instagram,3,20671.35,2025-11-21,6890.45,Active,Bronze
 CUST103493,2023-02-04,Female,24.0,18-24,Kerala,Thiruvananthapuram,394,Budget,Mobile App,Net Banking,Email Marketing,5,48950.41,2024-07-21,9790.08,Churned,Bronze
 CUST103494,2025-02-24,Male,34.0,25-34,Haryana,Gurugram,792,Regular,Mobile App,Credit Card,Email Marketing,8,219836.88,2025-12-20,27479.61,Active,Gold
 CUST103495,2023-10-25,Male,26.0,25-34,Andhra Pradesh,Visakhapatnam,567,Budget,Mobile App,Pay Later,SMS Marketing,2,28926.24,2025-06-04,14463.12,Churned,Bronze
@@ -3502,7 +3502,7 @@ CUST103499,2023-06-20,Female,20.0,18-24,Kerala,Kochi,798,Premium,Mobile App,Debi
 CUST103500,2024-01-10,Female,25.0,25-34,Tamil Nadu,Coimbatore,728,Regular,Desktop,Cash on Delivery,Direct/App,9,65611.83,2025-10-28,7290.2,Active,Silver
 CUST103501,2025-07-21,Male,28.0,25-34,Haryana,Faridabad,231,New,Desktop,Cash on Delivery,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST103502,2023-07-15,Female,30.0,25-34,Kerala,Thiruvananthapuram,227,Regular,Mobile App,Credit Card,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST103503,2023-02-14,Male,,45-54,Rajasthan,Jodhpur,850,Budget,Unknown,UPI,Social Media - Instagram,1,7720.34,2025-09-14,7720.34,At Risk,Bronze
+CUST103503,2023-02-14,Male,,45-54,Rajasthan,Jodhpur,850,Budget,,UPI,Social Media - Instagram,1,7720.34,2025-09-14,7720.34,At Risk,Bronze
 CUST103504,2023-07-09,Male,18.0,18-24,Tamil Nadu,Chennai,813,New,Mobile App,UPI,Influencer Marketing,1,15225.0,2025-06-14,15225.0,Churned,Bronze
 CUST103505,2023-06-08,Male,30.0,25-34,Rajasthan,Jaipur,201,Premium,Mobile App,UPI,Paid Search,11,169200.78,2024-06-06,15381.89,Churned,Silver
 CUST103506,2023-06-05,Male,26.0,25-34,Telangana,Hyderabad,751,New,Mobile App,Credit Card,Social Media - Facebook,2,97298.35,2023-09-26,48649.18,Churned,Silver
@@ -3588,7 +3588,7 @@ CUST103585,2024-03-03,Male,31.0,25-34,Andhra Pradesh,Visakhapatnam,540,Regular,M
 CUST103586,2024-08-04,Female,41.0,35-44,Telangana,Warangal,469,Regular,Desktop,Credit Card,Paid Search,9,97870.88,2024-12-24,10874.54,Churned,Silver
 CUST103587,2025-06-09,Female,26.0,25-34,Delhi,New Delhi,607,Budget,Mobile Web,Cash on Delivery,Referral,1,4208.08,2025-06-20,4208.08,Churned,Bronze
 CUST103588,2023-07-03,Female,,25-34,Kerala,Kochi,780,Budget,Mobile App,Net Banking,SMS Marketing,0,0.0,,0.0,Never Purchased,Bronze
-CUST103589,2023-10-08,Female,,35-44,Uttar Pradesh,Lucknow,574,Budget,Unknown,Debit Card,Organic Search,5,58013.97,2025-12-25,11602.79,Active,Silver
+CUST103589,2023-10-08,Female,,35-44,Uttar Pradesh,Lucknow,574,Budget,,Debit Card,Organic Search,5,58013.97,2025-12-25,11602.79,Active,Silver
 CUST103590,2025-11-23,Male,45.0,45-54,Uttar Pradesh,Noida,745,Regular,Mobile App,Debit Card,Paid Search,2,5823.77,2025-12-23,2911.88,Active,Bronze
 CUST103591,2023-09-11,Female,34.0,25-34,Haryana,Gurugram,436,Budget,Mobile Web,Debit Card,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST103592,2024-11-24,Male,18.0,18-24,Maharashtra,Pune,777,Regular,Mobile Web,Cardless EMI,Organic Search,5,215017.95,2025-12-27,43003.59,Active,Gold
@@ -3608,7 +3608,7 @@ CUST103605,2023-09-21,Male,29.0,25-34,Rajasthan,Jaipur,718,Regular,Mobile Web,UP
 CUST103606,2023-01-26,Female,33.0,25-34,Gujarat,Vadodara,544,Regular,Mobile App,Cash on Delivery,Referral,3,83247.36,2023-07-29,27749.12,Churned,Silver
 CUST103607,2024-01-09,Male,34.0,25-34,Maharashtra,Nagpur,525,Premium,Mobile App,UPI,Organic Search,9,139266.11,2024-09-12,15474.01,Churned,Silver
 CUST103608,2025-11-04,Female,31.0,25-34,Maharashtra,Nagpur,638,Budget,Mobile App,Credit Card,Social Media - Facebook,3,149126.56,2025-12-08,49708.85,Active,Silver
-CUST103609,2023-03-13,Male,,45-54,Kerala,Kochi,530,Budget,Unknown,UPI,Email Marketing,1,47578.23,2024-09-15,47578.23,Churned,Bronze
+CUST103609,2023-03-13,Male,,45-54,Kerala,Kochi,530,Budget,,UPI,Email Marketing,1,47578.23,2024-09-15,47578.23,Churned,Bronze
 CUST103610,2024-11-27,Female,27.0,25-34,Karnataka,Mysuru,230,Regular,Mobile App,Wallet,Email Marketing,3,84562.7,2025-05-31,28187.57,Churned,Silver
 CUST103611,2023-07-28,Female,27.0,25-34,Kerala,Kochi,131,Budget,Mobile App,Gift Card,Organic Search,3,35242.4,2023-09-02,11747.47,Churned,Bronze
 CUST103612,2024-04-28,Female,22.0,18-24,Telangana,Hyderabad,820,New,Mobile App,Net Banking,Organic Search,1,3557.3,2024-06-14,3557.3,Churned,Bronze
@@ -3847,7 +3847,7 @@ CUST103844,2023-08-23,Male,34.0,25-34,Uttar Pradesh,Noida,455,Regular,Mobile App
 CUST103845,2025-02-21,Female,33.0,25-34,Telangana,Hyderabad,729,Regular,Mobile App,UPI,Social Media - Instagram,4,123827.66,2025-11-14,30956.92,Active,Silver
 CUST103846,2025-12-09,Female,27.0,25-34,Maharashtra,Mumbai,372,Regular,Mobile App,Cash on Delivery,Affiliate,4,208068.16,2025-12-31,52017.04,Active,Gold
 CUST103847,2024-11-19,Male,36.0,35-44,Punjab,Amritsar,317,Budget,Mobile Web,Cash on Delivery,Email Marketing,4,40690.28,2025-06-06,10172.57,Churned,Bronze
-CUST103848,2023-02-19,Male,,35-44,Madhya Pradesh,Indore,237,Premium,Unknown,Gift Card,Affiliate,10,92153.93,2024-02-14,9215.39,Churned,Silver
+CUST103848,2023-02-19,Male,,35-44,Madhya Pradesh,Indore,237,Premium,,Gift Card,Affiliate,10,92153.93,2024-02-14,9215.39,Churned,Silver
 CUST103849,2023-04-10,Male,40.0,35-44,Delhi,New Delhi,553,Regular,Mobile Web,Wallet,Direct/App,4,39882.68,2024-06-07,9970.67,Churned,Bronze
 CUST103850,2024-06-20,Female,20.0,18-24,Rajasthan,Jaipur,571,Regular,Mobile App,Cash on Delivery,Organic Search,5,161952.8,2025-01-15,32390.56,Churned,Silver
 CUST103851,2023-06-19,Male,33.0,25-34,Kerala,Thiruvananthapuram,206,Budget,Mobile App,UPI,Social Media - Instagram,3,19815.81,2024-06-13,6605.27,Churned,Bronze
@@ -4404,7 +4404,7 @@ CUST104401,2024-10-15,Male,31.0,25-34,Kerala,Thiruvananthapuram,674,Regular,Desk
 CUST104402,2023-11-25,Female,30.0,25-34,Uttar Pradesh,Lucknow,200,Budget,Mobile Web,Debit Card,SMS Marketing,1,8905.84,2024-02-10,8905.84,Churned,Bronze
 CUST104403,2024-04-07,Female,24.0,18-24,Punjab,Amritsar,504,Regular,Mobile Web,Credit Card,Influencer Marketing,5,25043.4,2024-04-27,5008.68,Churned,Bronze
 CUST104404,2025-12-24,Female,19.0,18-24,Haryana,Faridabad,433,Budget,Mobile App,Cash on Delivery,Organic Search,2,15582.91,2025-12-30,7791.46,Active,Bronze
-CUST104405,2025-03-21,Female,,45-54,Tamil Nadu,Coimbatore,299,Budget,Unknown,Cash on Delivery,Organic Search,2,24818.17,2025-09-18,12409.08,At Risk,Bronze
+CUST104405,2025-03-21,Female,,45-54,Tamil Nadu,Coimbatore,299,Budget,,Cash on Delivery,Organic Search,2,24818.17,2025-09-18,12409.08,At Risk,Bronze
 CUST104406,2025-11-21,Female,26.0,25-34,Kerala,Kochi,710,Regular,Desktop,Debit Card,Direct/App,4,125093.65,2025-12-29,31273.41,Active,Silver
 CUST104407,2023-07-28,Male,25.0,25-34,Madhya Pradesh,Bhopal,134,Premium,Mobile Web,Cash on Delivery,Direct/App,8,106891.87,2023-09-25,13361.48,Churned,Silver
 CUST104408,2024-05-07,Male,43.0,35-44,Telangana,Warangal,671,Budget,Mobile Web,Pay Later,Referral,7,59617.5,2024-05-30,8516.79,Churned,Silver
@@ -4971,7 +4971,7 @@ CUST104968,2023-07-03,Male,39.0,35-44,Tamil Nadu,Chennai,888,Regular,Mobile App,
 CUST104969,2023-04-03,Female,25.0,25-34,Delhi,New Delhi,520,New,Mobile App,Net Banking,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST104970,2024-08-30,Male,41.0,35-44,Gujarat,Surat,228,New,Mobile App,Credit Card,SMS Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST104971,2025-10-17,Female,37.0,35-44,Punjab,Ludhiana,419,Regular,Desktop,Wallet,Organic Search,5,260121.49,2025-11-09,52024.3,Active,Gold
-CUST104972,2024-10-21,Other,,35-44,Gujarat,Surat,199,Regular,Unknown,Credit Card,SMS Marketing,4,32615.94,2025-06-03,8153.98,Churned,Bronze
+CUST104972,2024-10-21,Other,,35-44,Gujarat,Surat,199,Regular,,Credit Card,SMS Marketing,4,32615.94,2025-06-03,8153.98,Churned,Bronze
 CUST104973,2025-04-13,Male,38.0,35-44,Gujarat,Surat,152,Regular,Desktop,UPI,Organic Search,4,22316.91,2025-07-18,5579.23,At Risk,Bronze
 CUST104974,2023-12-02,Male,43.0,35-44,Tamil Nadu,Coimbatore,558,Budget,Mobile Web,Cash on Delivery,Referral,3,4027.24,2024-07-08,1342.41,Churned,Bronze
 CUST104975,2024-07-27,Female,34.0,25-34,Delhi,New Delhi,707,Budget,Mobile App,Cardless EMI,Referral,2,39207.26,2025-09-19,19603.63,At Risk,Bronze
@@ -5034,7 +5034,7 @@ CUST105031,2023-02-19,Female,23.0,18-24,Punjab,Amritsar,621,Budget,Mobile Web,UP
 CUST105032,2024-11-21,Male,47.0,45-54,Gujarat,Vadodara,479,Regular,Mobile App,Cash on Delivery,Organic Search,3,30197.37,2025-08-16,10065.79,At Risk,Bronze
 CUST105033,2024-12-26,Female,30.0,25-34,Telangana,Hyderabad,105,Regular,Desktop,Cardless EMI,Email Marketing,5,118076.39,2025-01-29,23615.28,Churned,Silver
 CUST105034,2023-08-30,Female,31.0,25-34,Punjab,Amritsar,544,Regular,Mobile App,UPI,Social Media - Instagram,3,42650.78,2025-09-21,14216.93,At Risk,Bronze
-CUST105035,2024-05-04,Female,,25-34,West Bengal,Kolkata,798,New,Unknown,Cash on Delivery,Social Media - Facebook,2,4882.31,2025-12-11,2441.16,Active,Bronze
+CUST105035,2024-05-04,Female,,25-34,West Bengal,Kolkata,798,New,,Cash on Delivery,Social Media - Facebook,2,4882.31,2025-12-11,2441.16,Active,Bronze
 CUST105036,2025-01-11,Female,36.0,35-44,Maharashtra,Nagpur,334,Budget,Mobile App,UPI,Paid Search,4,107965.99,2025-08-14,26991.5,At Risk,Silver
 CUST105037,2023-03-04,Female,35.0,35-44,Maharashtra,Mumbai,469,Regular,Mobile Web,Credit Card,Social Media - Instagram,7,147975.35,2024-07-01,21139.34,Churned,Silver
 CUST105038,2023-02-19,Female,32.0,25-34,Andhra Pradesh,Vijayawada,853,Premium,Desktop,Gift Card,Direct/App,15,479555.99,2023-10-24,31970.4,Churned,Platinum
@@ -5099,7 +5099,7 @@ CUST105096,2025-08-31,Male,27.0,25-34,Gujarat,Ahmedabad,589,Budget,Desktop,Cash 
 CUST105097,2023-06-09,Male,26.0,25-34,Punjab,Amritsar,102,Regular,Mobile App,Cash on Delivery,Affiliate,1,9868.32,2025-10-04,9868.32,Active,Bronze
 CUST105098,2024-06-25,Male,35.0,35-44,Tamil Nadu,Coimbatore,848,Premium,Mobile Web,EMI,Organic Search,7,202407.24,2025-07-09,28915.32,At Risk,Gold
 CUST105099,2023-03-01,Male,37.0,35-44,Haryana,Gurugram,215,New,Mobile App,Cardless EMI,Social Media - Instagram,1,9210.6,2023-03-08,9210.6,Churned,Bronze
-CUST105100,2024-07-30,Male,,25-34,Uttar Pradesh,Noida,396,Budget,Unknown,UPI,SMS Marketing,2,14467.16,2024-09-23,7233.58,Churned,Bronze
+CUST105100,2024-07-30,Male,,25-34,Uttar Pradesh,Noida,396,Budget,,UPI,SMS Marketing,2,14467.16,2024-09-23,7233.58,Churned,Bronze
 CUST105101,2023-01-22,Female,26.0,25-34,Tamil Nadu,Chennai,725,Regular,Mobile App,Wallet,Affiliate,3,92756.16,2023-09-20,30918.72,Churned,Silver
 CUST105102,2023-03-10,Male,33.0,25-34,Karnataka,Mysuru,370,Premium,Mobile App,Wallet,Social Media - Facebook,8,166446.27,2024-08-01,20805.78,Churned,Silver
 CUST105103,2023-05-29,Female,31.0,25-34,Gujarat,Ahmedabad,216,Regular,Mobile App,Net Banking,Paid Search,2,69436.71,2023-10-11,34718.36,Churned,Silver
@@ -5688,7 +5688,7 @@ CUST105685,2025-06-06,Male,25.0,25-34,Maharashtra,Nagpur,167,Regular,Mobile App,
 CUST105686,2024-09-28,Male,26.0,25-34,Telangana,Warangal,150,Premium,Mobile App,Debit Card,Direct/App,8,250743.41,2025-11-05,31342.93,Active,Gold
 CUST105687,2025-10-24,Male,26.0,25-34,Uttar Pradesh,Lucknow,558,New,Mobile Web,EMI,Direct/App,4,24579.09,2025-12-14,6144.77,Active,Bronze
 CUST105688,2023-04-30,Male,29.0,25-34,West Bengal,Howrah,117,Regular,Mobile Web,EMI,Influencer Marketing,3,37401.58,2024-11-29,12467.19,Churned,Bronze
-CUST105689,2025-02-10,Female,,35-44,Rajasthan,Jodhpur,720,Budget,Unknown,UPI,Organic Search,4,21333.06,2025-08-22,5333.26,At Risk,Bronze
+CUST105689,2025-02-10,Female,,35-44,Rajasthan,Jodhpur,720,Budget,,UPI,Organic Search,4,21333.06,2025-08-22,5333.26,At Risk,Bronze
 CUST105690,2023-11-13,Male,25.0,25-34,Maharashtra,Pune,880,New,Mobile App,UPI,Referral,1,136624.42,2024-02-11,136624.42,Churned,Silver
 CUST105691,2023-08-17,Male,37.0,35-44,Karnataka,Bengaluru,205,Regular,Mobile App,Debit Card,Organic Search,5,207234.62,2024-05-02,41446.92,Churned,Gold
 CUST105692,2023-01-25,Female,23.0,18-24,Tamil Nadu,Coimbatore,177,Regular,Mobile App,Pay Later,Social Media - Facebook,4,45471.93,2023-03-28,11367.98,Churned,Bronze
@@ -5803,7 +5803,7 @@ CUST105800,2024-01-26,Female,42.0,35-44,Kerala,Kochi,313,Budget,Mobile App,Walle
 CUST105801,2023-05-14,Male,36.0,35-44,Gujarat,Ahmedabad,888,Regular,Mobile App,Debit Card,Organic Search,7,26701.6,2025-08-06,3814.51,At Risk,Bronze
 CUST105802,2023-06-10,Male,25.0,25-34,West Bengal,Kolkata,469,Regular,Mobile App,Cash on Delivery,Organic Search,4,37961.19,2025-03-30,9490.3,Churned,Bronze
 CUST105803,2025-08-04,Female,32.0,25-34,Uttar Pradesh,Lucknow,204,Budget,Mobile App,UPI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
-CUST105804,2024-05-02,Female,,18-24,Gujarat,Surat,504,Budget,Unknown,Wallet,Organic Search,1,4276.28,2025-01-29,4276.28,Churned,Bronze
+CUST105804,2024-05-02,Female,,18-24,Gujarat,Surat,504,Budget,,Wallet,Organic Search,1,4276.28,2025-01-29,4276.28,Churned,Bronze
 CUST105805,2023-05-09,Other,25.0,25-34,Delhi,New Delhi,267,Regular,Mobile App,Wallet,Referral,5,91532.18,2024-01-03,18306.44,Churned,Silver
 CUST105806,2024-03-20,Female,31.0,25-34,Kerala,Thiruvananthapuram,737,Premium,Mobile Web,Gift Card,Paid Search,12,265154.78,2025-05-01,22096.23,Churned,Gold
 CUST105807,2023-05-08,Male,21.0,18-24,Maharashtra,Mumbai,836,Budget,Mobile App,Cash on Delivery,Social Media - Facebook,1,6091.0,2023-06-26,6091.0,Churned,Bronze
@@ -6094,7 +6094,7 @@ CUST106091,2025-06-23,Male,35.0,35-44,Kerala,Kochi,668,Budget,Mobile App,Net Ban
 CUST106092,2024-03-16,Female,18.0,18-24,Karnataka,Mysuru,298,Budget,Mobile App,UPI,Paid Search,3,89349.07,2025-10-28,29783.02,Active,Silver
 CUST106093,2023-02-18,Female,33.0,25-34,Uttar Pradesh,Kanpur,299,Budget,Mobile App,Credit Card,Referral,2,4444.12,2023-07-12,2222.06,Churned,Bronze
 CUST106094,2023-10-18,Female,31.0,25-34,West Bengal,Kolkata,634,Regular,Desktop,UPI,Paid Search,1,15172.5,2023-11-11,15172.5,Churned,Bronze
-CUST106095,2023-06-29,Male,,18-24,Tamil Nadu,Chennai,106,Regular,Unknown,UPI,Organic Search,4,125126.46,2023-11-30,31281.62,Churned,Silver
+CUST106095,2023-06-29,Male,,18-24,Tamil Nadu,Chennai,106,Regular,,UPI,Organic Search,4,125126.46,2023-11-30,31281.62,Churned,Silver
 CUST106096,2023-03-18,Male,26.0,25-34,Delhi,New Delhi,873,Regular,Mobile App,EMI,Social Media - Instagram,4,46764.97,2023-05-28,11691.24,Churned,Bronze
 CUST106097,2025-09-08,Female,46.0,45-54,Uttar Pradesh,Noida,188,Regular,Mobile App,UPI,Organic Search,7,55012.14,2025-12-31,7858.88,Active,Bronze
 CUST106098,2023-10-10,Female,25.0,25-34,Telangana,Warangal,804,New,Desktop,UPI,Email Marketing,3,21431.55,2024-02-21,7143.85,Churned,Bronze
@@ -6252,7 +6252,7 @@ CUST106249,2023-01-21,Male,44.0,35-44,Kerala,Kochi,452,Budget,Mobile App,Cash on
 CUST106250,2023-07-14,Female,29.0,25-34,West Bengal,Howrah,269,Premium,Mobile Web,Credit Card,Social Media - Instagram,5,101645.57,2025-04-02,20329.11,Churned,Silver
 CUST106251,2023-03-24,Male,37.0,35-44,Telangana,Hyderabad,460,Premium,Mobile App,Credit Card,Organic Search,11,173245.45,2024-05-20,15749.59,Churned,Silver
 CUST106252,2024-03-14,Female,29.0,25-34,Haryana,Gurugram,568,Premium,Mobile Web,UPI,Paid Search,11,143868.86,2025-11-10,13078.99,Active,Silver
-CUST106253,2023-01-27,Male,,25-34,Uttar Pradesh,Noida,200,Budget,Unknown,Wallet,Direct/App,1,8615.25,2023-06-14,8615.25,Churned,Bronze
+CUST106253,2023-01-27,Male,,25-34,Uttar Pradesh,Noida,200,Budget,,Wallet,Direct/App,1,8615.25,2023-06-14,8615.25,Churned,Bronze
 CUST106254,2024-05-30,Female,26.0,25-34,Tamil Nadu,Coimbatore,383,Regular,Mobile App,Net Banking,Direct/App,5,48551.08,2025-12-04,9710.22,Active,Bronze
 CUST106255,2023-01-28,Male,25.0,25-34,Haryana,Gurugram,143,Regular,Mobile App,Pay Later,Affiliate,1,21641.76,2025-06-03,21641.76,Churned,Bronze
 CUST106256,2025-01-13,Male,18.0,18-24,Maharashtra,Pune,242,Regular,Mobile App,UPI,SMS Marketing,7,204202.43,2025-03-24,29171.78,Churned,Gold
@@ -6491,7 +6491,7 @@ CUST106488,2024-06-29,Female,22.0,18-24,Gujarat,Vadodara,161,Budget,Mobile App,N
 CUST106489,2025-04-20,Male,32.0,25-34,Haryana,Gurugram,129,Regular,Mobile App,EMI,Organic Search,3,121020.64,2025-09-30,40340.21,At Risk,Silver
 CUST106490,2023-06-24,Female,20.0,18-24,Telangana,Warangal,720,Regular,Mobile App,EMI,Direct/App,5,75055.68,2025-10-25,15011.14,Active,Silver
 CUST106491,2024-01-26,Female,29.0,25-34,Gujarat,Vadodara,700,Regular,Mobile App,Wallet,Social Media - Instagram,7,76693.21,2025-11-17,10956.17,Active,Silver
-CUST106492,2024-06-12,Male,,25-34,Gujarat,Ahmedabad,445,New,Unknown,EMI,Social Media - Facebook,3,106382.96,2025-08-02,35460.99,At Risk,Silver
+CUST106492,2024-06-12,Male,,25-34,Gujarat,Ahmedabad,445,New,,EMI,Social Media - Facebook,3,106382.96,2025-08-02,35460.99,At Risk,Silver
 CUST106493,2023-05-26,Male,21.0,18-24,Punjab,Ludhiana,505,Budget,Mobile App,UPI,Email Marketing,2,90244.04,2023-10-30,45122.02,Churned,Silver
 CUST106494,2023-03-12,Female,40.0,35-44,Karnataka,Mysuru,696,Regular,Mobile Web,UPI,Organic Search,7,152457.74,2025-09-08,21779.68,At Risk,Silver
 CUST106495,2023-07-10,Female,25.0,25-34,Bihar,Patna,686,Budget,Mobile Web,Credit Card,Influencer Marketing,3,75829.43,2024-01-01,25276.48,Churned,Silver
@@ -6514,7 +6514,7 @@ CUST106511,2025-06-30,Male,29.0,25-34,Punjab,Amritsar,762,Regular,Desktop,Wallet
 CUST106512,2025-09-02,Female,32.0,25-34,Telangana,Warangal,671,Budget,Mobile Web,Credit Card,Direct/App,3,109756.28,2025-12-21,36585.43,Active,Silver
 CUST106513,2025-07-17,Female,45.0,45-54,Gujarat,Surat,604,New,Desktop,Cash on Delivery,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST106514,2024-10-06,Male,18.0,18-24,Punjab,Amritsar,743,Budget,Mobile App,Credit Card,Direct/App,2,69780.11,2025-05-21,34890.06,Churned,Silver
-CUST106515,2023-06-18,Female,,25-34,Tamil Nadu,Coimbatore,754,Regular,Unknown,Cash on Delivery,Referral,3,22928.5,2023-08-26,7642.83,Churned,Bronze
+CUST106515,2023-06-18,Female,,25-34,Tamil Nadu,Coimbatore,754,Regular,,Cash on Delivery,Referral,3,22928.5,2023-08-26,7642.83,Churned,Bronze
 CUST106516,2025-09-02,Male,30.0,25-34,Uttar Pradesh,Noida,783,Budget,Mobile App,Net Banking,SMS Marketing,3,148625.82,2025-12-20,49541.94,Active,Silver
 CUST106517,2023-05-18,Male,24.0,18-24,Kerala,Kochi,370,Regular,Mobile App,UPI,Social Media - Facebook,3,70709.94,2023-09-26,23569.98,Churned,Silver
 CUST106518,2025-12-17,Female,37.0,35-44,Gujarat,Surat,715,New,Mobile App,UPI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
@@ -6548,7 +6548,7 @@ CUST106545,2023-05-06,Female,19.0,18-24,Kerala,Kochi,527,Premium,Mobile App,Cred
 CUST106546,2024-11-16,Male,18.0,18-24,Andhra Pradesh,Vijayawada,786,Budget,Mobile Web,Net Banking,Social Media - Instagram,2,89034.44,2025-03-23,44517.22,Churned,Silver
 CUST106547,2024-09-30,Male,35.0,35-44,Bihar,Patna,800,Regular,Mobile App,Cash on Delivery,Email Marketing,2,37134.83,2025-03-14,18567.42,Churned,Bronze
 CUST106548,2023-07-30,Female,33.0,25-34,Andhra Pradesh,Vijayawada,850,Regular,Mobile App,UPI,Affiliate,4,18117.23,2024-04-15,4529.31,Churned,Bronze
-CUST106549,2023-07-03,Other,,25-34,Gujarat,Surat,379,Budget,Unknown,Debit Card,Organic Search,1,286.51,2023-08-06,286.51,Churned,Bronze
+CUST106549,2023-07-03,Other,,25-34,Gujarat,Surat,379,Budget,,Debit Card,Organic Search,1,286.51,2023-08-06,286.51,Churned,Bronze
 CUST106550,2024-03-10,Male,19.0,18-24,West Bengal,Howrah,617,Regular,Mobile App,Cash on Delivery,Direct/App,3,32519.57,2024-07-19,10839.86,Churned,Bronze
 CUST106551,2023-05-26,Female,32.0,25-34,Haryana,Faridabad,690,Budget,Mobile App,Debit Card,Organic Search,1,9922.5,2024-04-02,9922.5,Churned,Bronze
 CUST106552,2023-07-12,Female,34.0,25-34,Haryana,Faridabad,847,Regular,Mobile App,Credit Card,Organic Search,2,164823.8,2023-09-16,82411.9,Churned,Silver
@@ -6648,7 +6648,7 @@ CUST106645,2023-05-20,Male,35.0,35-44,Telangana,Warangal,244,Budget,Mobile App,C
 CUST106646,2025-10-18,Male,18.0,18-24,Tamil Nadu,Chennai,611,Regular,Mobile App,Cardless EMI,Organic Search,4,83399.7,2025-12-30,20849.92,Active,Silver
 CUST106647,2025-10-16,Male,20.0,18-24,Bihar,Patna,130,New,Mobile App,UPI,Organic Search,1,2703.22,2025-11-17,2703.22,Active,Bronze
 CUST106648,2025-03-22,Male,28.0,25-34,Maharashtra,Pune,775,Regular,Desktop,Cash on Delivery,Direct/App,5,123213.62,2025-05-20,24642.72,Churned,Silver
-CUST106649,2025-09-15,Female,,35-44,Maharashtra,Mumbai,872,Premium,Unknown,Wallet,Social Media - Facebook,17,323042.24,2025-12-31,19002.48,Active,Gold
+CUST106649,2025-09-15,Female,,35-44,Maharashtra,Mumbai,872,Premium,,Wallet,Social Media - Facebook,17,323042.24,2025-12-31,19002.48,Active,Gold
 CUST106650,2023-05-10,Female,34.0,25-34,Maharashtra,Pune,567,Premium,Mobile App,UPI,Referral,10,209393.68,2023-08-13,20939.37,Churned,Gold
 CUST106651,2023-02-23,Male,44.0,35-44,West Bengal,Howrah,180,Budget,Mobile Web,Debit Card,SMS Marketing,1,2521.37,2023-05-13,2521.37,Churned,Bronze
 CUST106652,2024-02-23,Female,26.0,25-34,Punjab,Ludhiana,569,Budget,Mobile App,Debit Card,Paid Search,3,49225.15,2025-02-16,16408.38,Churned,Bronze
@@ -6656,7 +6656,7 @@ CUST106653,2023-09-15,Female,21.0,18-24,Kerala,Kochi,898,Premium,Mobile App,EMI,
 CUST106654,2023-11-18,Male,31.0,25-34,Madhya Pradesh,Indore,261,Regular,Mobile App,Cardless EMI,SMS Marketing,8,213725.33,2024-05-28,26715.67,Churned,Gold
 CUST106655,2024-06-21,Male,28.0,25-34,Kerala,Kochi,895,New,Mobile App,Cash on Delivery,Influencer Marketing,1,129558.24,2024-08-27,129558.24,Churned,Silver
 CUST106656,2023-01-30,Male,33.0,25-34,Andhra Pradesh,Vijayawada,296,Regular,Mobile Web,Debit Card,Direct/App,3,20538.53,2023-03-12,6846.18,Churned,Bronze
-CUST106657,2023-01-09,Male,,35-44,Telangana,Warangal,467,Regular,Unknown,Cash on Delivery,Organic Search,4,92099.97,2023-03-13,23024.99,Churned,Silver
+CUST106657,2023-01-09,Male,,35-44,Telangana,Warangal,467,Regular,,Cash on Delivery,Organic Search,4,92099.97,2023-03-13,23024.99,Churned,Silver
 CUST106658,2023-01-19,Male,41.0,35-44,Andhra Pradesh,Vijayawada,764,Premium,Mobile Web,Net Banking,Direct/App,8,257465.72,2023-02-24,32183.22,Churned,Gold
 CUST106659,2024-01-22,Male,33.0,25-34,Telangana,Warangal,849,New,Mobile App,Credit Card,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
 CUST106660,2023-03-21,Male,34.0,25-34,Gujarat,Vadodara,648,Regular,Mobile App,Net Banking,Influencer Marketing,7,222450.45,2023-06-25,31778.64,Churned,Gold
@@ -6867,7 +6867,7 @@ CUST106864,2024-10-28,Male,36.0,35-44,Punjab,Ludhiana,619,Regular,Mobile Web,Cas
 CUST106865,2024-01-31,Female,28.0,25-34,Maharashtra,Pune,171,Budget,Mobile App,Cash on Delivery,Referral,3,71747.87,2025-12-04,23915.96,Active,Silver
 CUST106866,2024-05-20,Male,22.0,18-24,Uttar Pradesh,Kanpur,627,Budget,Mobile Web,UPI,Direct/App,2,17353.77,2024-06-17,8676.88,Churned,Bronze
 CUST106867,2023-09-17,Male,33.0,25-34,Telangana,Hyderabad,429,Budget,Mobile App,UPI,Social Media - Facebook,3,26979.22,2025-01-21,8993.07,Churned,Bronze
-CUST106868,2023-05-17,Female,,18-24,Delhi,New Delhi,871,Regular,Unknown,Wallet,Organic Search,5,209520.79,2023-06-30,41904.16,Churned,Gold
+CUST106868,2023-05-17,Female,,18-24,Delhi,New Delhi,871,Regular,,Wallet,Organic Search,5,209520.79,2023-06-30,41904.16,Churned,Gold
 CUST106869,2025-11-28,Female,42.0,35-44,Gujarat,Surat,507,Budget,Mobile App,Debit Card,Social Media - Instagram,2,107732.52,2025-12-23,53866.26,Active,Silver
 CUST106870,2024-09-30,Male,27.0,25-34,Tamil Nadu,Chennai,777,Budget,Mobile App,UPI,Influencer Marketing,3,69418.97,2025-06-05,23139.66,Churned,Silver
 CUST106871,2023-05-01,Male,44.0,35-44,West Bengal,Kolkata,421,Regular,Mobile Web,UPI,Paid Search,2,68592.03,2024-03-16,34296.02,Churned,Silver
@@ -6890,7 +6890,7 @@ CUST106887,2024-04-07,Female,32.0,25-34,Karnataka,Mysuru,331,Premium,Desktop,UPI
 CUST106888,2023-08-06,Female,27.0,25-34,Uttar Pradesh,Noida,546,Regular,Mobile App,UPI,SMS Marketing,1,7134.75,2023-09-04,7134.75,Churned,Bronze
 CUST106889,2024-10-07,Female,22.0,18-24,Karnataka,Mysuru,386,New,Desktop,Net Banking,Organic Search,1,9198.63,2024-10-31,9198.63,Churned,Bronze
 CUST106890,2023-07-13,Female,43.0,35-44,Telangana,Warangal,846,Premium,Mobile Web,UPI,Social Media - Instagram,3,34503.26,2025-01-06,11501.09,Churned,Bronze
-CUST106891,2025-10-19,Male,,25-34,Kerala,Kochi,735,Regular,Unknown,Net Banking,Social Media - Facebook,1,589.52,2025-12-21,589.52,Active,Bronze
+CUST106891,2025-10-19,Male,,25-34,Kerala,Kochi,735,Regular,,Net Banking,Social Media - Facebook,1,589.52,2025-12-21,589.52,Active,Bronze
 CUST106892,2025-11-06,Female,44.0,35-44,Delhi,New Delhi,623,Premium,Mobile App,UPI,Direct/App,15,337908.23,2025-12-31,22527.22,Active,Gold
 CUST106893,2024-05-09,Male,31.0,25-34,Delhi,New Delhi,227,Regular,Desktop,UPI,Organic Search,7,113228.16,2025-12-28,16175.45,Active,Silver
 CUST106894,2024-09-18,Female,28.0,25-34,Maharashtra,Nagpur,142,Budget,Mobile Web,Credit Card,Affiliate,1,2623.95,2025-11-27,2623.95,Active,Bronze
@@ -7227,7 +7227,7 @@ CUST107224,2025-10-15,Female,34.0,25-34,Haryana,Gurugram,678,Regular,Mobile Web,
 CUST107225,2025-12-10,Male,45.0,45-54,Gujarat,Ahmedabad,741,Regular,Mobile App,UPI,Paid Search,5,209094.89,2025-12-31,41818.98,Active,Gold
 CUST107226,2025-09-15,Male,52.0,45-54,Kerala,Kochi,451,Regular,Mobile App,Cash on Delivery,Influencer Marketing,7,223050.87,2025-12-31,31864.41,Active,Gold
 CUST107227,2023-01-25,Male,39.0,35-44,Telangana,Warangal,732,Premium,Mobile App,Cash on Delivery,Organic Search,10,310644.71,2025-12-03,31064.47,Active,Gold
-CUST107228,2025-11-20,Female,,18-24,Uttar Pradesh,Lucknow,415,Regular,Unknown,Credit Card,Paid Search,5,161350.04,2025-12-31,32270.01,Active,Silver
+CUST107228,2025-11-20,Female,,18-24,Uttar Pradesh,Lucknow,415,Regular,,Credit Card,Paid Search,5,161350.04,2025-12-31,32270.01,Active,Silver
 CUST107229,2024-06-27,Female,30.0,25-34,Gujarat,Surat,237,New,Desktop,UPI,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
 CUST107230,2023-01-14,Female,44.0,35-44,Tamil Nadu,Chennai,710,Budget,Mobile App,Net Banking,Organic Search,2,29232.0,2025-09-09,14616.0,At Risk,Bronze
 CUST107231,2024-07-21,Female,48.0,45-54,Tamil Nadu,Coimbatore,601,New,Mobile Web,UPI,Direct/App,2,13330.8,2025-06-28,6665.4,Churned,Bronze
@@ -7487,7 +7487,7 @@ CUST107484,2023-06-28,Male,41.0,35-44,Gujarat,Surat,502,Budget,Mobile Web,EMI,Af
 CUST107485,2025-03-15,Female,18.0,18-24,West Bengal,Kolkata,562,Premium,Mobile App,Debit Card,Email Marketing,13,338515.76,2025-12-23,26039.67,Active,Gold
 CUST107486,2024-06-24,Female,22.0,18-24,Tamil Nadu,Coimbatore,750,Budget,Desktop,Wallet,Organic Search,2,9754.34,2024-10-05,4877.17,Churned,Bronze
 CUST107487,2025-11-30,Male,25.0,25-34,Gujarat,Surat,463,Budget,Mobile Web,Cardless EMI,Paid Search,7,214796.04,2025-12-30,30685.15,Active,Gold
-CUST107488,2023-07-15,Male,,35-44,Gujarat,Vadodara,593,Budget,Unknown,Cash on Delivery,Organic Search,2,16393.44,2023-11-05,8196.72,Churned,Bronze
+CUST107488,2023-07-15,Male,,35-44,Gujarat,Vadodara,593,Budget,,Cash on Delivery,Organic Search,2,16393.44,2023-11-05,8196.72,Churned,Bronze
 CUST107489,2023-03-26,Female,34.0,25-34,Delhi,New Delhi,819,Regular,Mobile App,Cash on Delivery,Influencer Marketing,3,58354.39,2023-06-03,19451.46,Churned,Silver
 CUST107490,2023-06-09,Male,21.0,18-24,Tamil Nadu,Chennai,869,Budget,Mobile Web,UPI,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
 CUST107491,2024-05-26,Male,32.0,25-34,Uttar Pradesh,Noida,788,New,Desktop,Credit Card,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -7538,7 +7538,7 @@ CUST107535,2025-04-06,Male,29.0,25-34,Maharashtra,Pune,419,Budget,Mobile App,Cre
 CUST107536,2025-07-07,Female,34.0,25-34,Karnataka,Mysuru,651,Regular,Mobile Web,Wallet,Social Media - Instagram,3,28673.45,2025-11-03,9557.82,Active,Bronze
 CUST107537,2023-02-09,Male,30.0,25-34,Maharashtra,Pune,789,Regular,Mobile App,Wallet,Organic Search,4,297355.27,2023-04-23,74338.82,Churned,Gold
 CUST107538,2024-06-04,Male,47.0,45-54,Maharashtra,Mumbai,189,Regular,Mobile Web,Debit Card,Social Media - Instagram,7,98753.13,2025-11-26,14107.59,Active,Silver
-CUST107539,2024-05-22,Male,,35-44,Rajasthan,Jodhpur,699,Regular,Unknown,UPI,Paid Search,2,22382.22,2024-09-10,11191.11,Churned,Bronze
+CUST107539,2024-05-22,Male,,35-44,Rajasthan,Jodhpur,699,Regular,,UPI,Paid Search,2,22382.22,2024-09-10,11191.11,Churned,Bronze
 CUST107540,2023-10-03,Female,37.0,35-44,Madhya Pradesh,Bhopal,719,Budget,Mobile App,UPI,SMS Marketing,4,125556.21,2024-04-05,31389.05,Churned,Silver
 CUST107541,2023-06-13,Male,27.0,25-34,Madhya Pradesh,Indore,690,New,Mobile App,Pay Later,Email Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST107542,2023-04-27,Female,46.0,45-54,Uttar Pradesh,Kanpur,324,Regular,Desktop,Cash on Delivery,Organic Search,3,14793.31,2023-12-04,4931.1,Churned,Bronze
@@ -7612,7 +7612,7 @@ CUST107609,2023-10-25,Female,49.0,45-54,Gujarat,Surat,456,Budget,Mobile App,UPI,
 CUST107610,2024-02-13,Male,45.0,45-54,Maharashtra,Mumbai,492,Budget,Mobile App,Debit Card,Organic Search,1,5067.41,2024-08-25,5067.41,Churned,Bronze
 CUST107611,2023-09-16,Male,34.0,25-34,West Bengal,Kolkata,413,Regular,Mobile Web,Credit Card,Paid Search,4,156841.44,2024-10-11,39210.36,Churned,Silver
 CUST107612,2023-02-15,Other,35.0,35-44,Punjab,Amritsar,227,Regular,Mobile App,Debit Card,Social Media - Instagram,1,7563.26,2023-12-29,7563.26,Churned,Bronze
-CUST107613,2023-06-25,Female,,25-34,Tamil Nadu,Coimbatore,510,New,Unknown,Net Banking,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
+CUST107613,2023-06-25,Female,,25-34,Tamil Nadu,Coimbatore,510,New,,Net Banking,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST107614,2023-11-24,Male,43.0,35-44,Gujarat,Surat,864,Regular,Desktop,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST107615,2024-07-29,Male,27.0,25-34,Haryana,Gurugram,111,Regular,Desktop,UPI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
 CUST107616,2024-02-22,Female,37.0,35-44,Uttar Pradesh,Kanpur,438,Regular,Mobile App,UPI,Social Media - Instagram,5,109166.93,2025-11-01,21833.39,Active,Silver
@@ -7751,7 +7751,7 @@ CUST107748,2024-01-30,Female,46.0,45-54,Uttar Pradesh,Noida,545,Budget,Mobile Ap
 CUST107749,2025-02-28,Male,28.0,25-34,Maharashtra,Mumbai,789,Regular,Desktop,Wallet,Email Marketing,1,2942.62,2025-09-22,2942.62,At Risk,Bronze
 CUST107750,2023-08-19,Male,33.0,25-34,Punjab,Amritsar,878,Regular,Mobile App,UPI,SMS Marketing,1,55573.56,2024-06-18,55573.56,Churned,Bronze
 CUST107751,2025-03-24,Male,21.0,18-24,Delhi,New Delhi,673,Budget,Mobile App,EMI,Direct/App,3,50303.37,2025-07-10,16767.79,At Risk,Bronze
-CUST107752,2023-07-06,Male,,18-24,Maharashtra,Mumbai,608,Budget,Unknown,Cash on Delivery,Organic Search,4,43975.57,2023-10-25,10993.89,Churned,Bronze
+CUST107752,2023-07-06,Male,,18-24,Maharashtra,Mumbai,608,Budget,,Cash on Delivery,Organic Search,4,43975.57,2023-10-25,10993.89,Churned,Bronze
 CUST107753,2024-06-30,Female,21.0,18-24,Uttar Pradesh,Kanpur,731,Budget,Mobile App,Credit Card,Organic Search,1,21349.12,2025-05-03,21349.12,Churned,Bronze
 CUST107754,2023-11-26,Male,30.0,25-34,Kerala,Thiruvananthapuram,117,New,Mobile App,Credit Card,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST107755,2023-06-30,Male,37.0,35-44,Haryana,Faridabad,750,Regular,Mobile Web,UPI,Organic Search,8,225940.85,2023-10-26,28242.61,Churned,Gold
@@ -7810,7 +7810,7 @@ CUST107807,2025-09-11,Male,27.0,25-34,Uttar Pradesh,Lucknow,141,Budget,Mobile We
 CUST107808,2023-06-13,Male,22.0,18-24,Tamil Nadu,Coimbatore,607,Premium,Mobile App,Credit Card,Affiliate,14,693989.26,2023-09-29,49570.66,Churned,Platinum
 CUST107809,2023-01-31,Male,45.0,45-54,Punjab,Ludhiana,749,Regular,Mobile App,Debit Card,Paid Search,4,240319.01,2023-03-19,60079.75,Churned,Gold
 CUST107810,2023-03-15,Male,36.0,35-44,Karnataka,Mysuru,780,Regular,Desktop,EMI,Organic Search,3,304317.4,2023-11-12,101439.13,Churned,Gold
-CUST107811,2023-03-24,Female,,18-24,Punjab,Ludhiana,264,Regular,Unknown,UPI,Organic Search,3,14842.01,2024-01-12,4947.34,Churned,Bronze
+CUST107811,2023-03-24,Female,,18-24,Punjab,Ludhiana,264,Regular,,UPI,Organic Search,3,14842.01,2024-01-12,4947.34,Churned,Bronze
 CUST107812,2023-05-31,Male,18.0,18-24,Andhra Pradesh,Visakhapatnam,542,New,Mobile App,UPI,Influencer Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST107813,2024-07-07,Male,32.0,25-34,Tamil Nadu,Coimbatore,757,Regular,Mobile App,Wallet,Affiliate,4,59252.99,2024-10-20,14813.25,Churned,Silver
 CUST107814,2023-11-11,Male,26.0,25-34,Delhi,New Delhi,423,Premium,Mobile App,Pay Later,Direct/App,18,592013.47,2024-10-28,32889.64,Churned,Platinum
@@ -7885,7 +7885,7 @@ CUST107882,2024-11-07,Male,41.0,35-44,Maharashtra,Mumbai,477,Premium,Mobile App,
 CUST107883,2023-03-10,Male,24.0,18-24,Rajasthan,Jaipur,492,Budget,Mobile App,UPI,Referral,2,29988.0,2023-07-10,14994.0,Churned,Bronze
 CUST107884,2023-06-02,Female,26.0,25-34,Punjab,Ludhiana,253,Budget,Mobile Web,Debit Card,Organic Search,2,163407.45,2024-09-19,81703.73,Churned,Silver
 CUST107885,2025-08-10,Female,43.0,35-44,Karnataka,Bengaluru,731,Regular,Mobile App,Net Banking,Social Media - Facebook,1,13503.32,2025-11-21,13503.32,Active,Bronze
-CUST107886,2023-10-23,Female,,35-44,Maharashtra,Nagpur,499,Regular,Unknown,UPI,Direct/App,7,83890.49,2025-03-06,11984.36,Churned,Silver
+CUST107886,2023-10-23,Female,,35-44,Maharashtra,Nagpur,499,Regular,,UPI,Direct/App,7,83890.49,2025-03-06,11984.36,Churned,Silver
 CUST107887,2023-05-15,Female,41.0,35-44,Madhya Pradesh,Indore,451,New,Desktop,Cash on Delivery,SMS Marketing,1,3878.44,2023-06-08,3878.44,Churned,Bronze
 CUST107888,2024-02-17,Male,28.0,25-34,West Bengal,Kolkata,802,Budget,Mobile Web,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST107889,2024-05-30,Male,42.0,35-44,Maharashtra,Nagpur,640,Regular,Mobile App,Credit Card,Organic Search,1,20772.57,2025-05-31,20772.57,Churned,Bronze
@@ -7945,7 +7945,7 @@ CUST107942,2025-10-19,Female,36.0,35-44,Punjab,Amritsar,463,Premium,Mobile Web,C
 CUST107943,2023-08-27,Male,37.0,35-44,Maharashtra,Nagpur,516,Premium,Mobile App,Cardless EMI,Organic Search,11,364220.75,2025-07-05,33110.98,At Risk,Gold
 CUST107944,2023-01-26,Male,20.0,18-24,West Bengal,Howrah,420,Regular,Mobile App,Credit Card,Organic Search,2,4696.8,2025-03-29,2348.4,Churned,Bronze
 CUST107945,2023-07-25,Male,46.0,45-54,West Bengal,Howrah,452,Regular,Desktop,EMI,Paid Search,5,159987.82,2024-09-13,31997.56,Churned,Silver
-CUST107946,2025-01-19,Male,,45-54,Punjab,Ludhiana,482,New,Unknown,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
+CUST107946,2025-01-19,Male,,45-54,Punjab,Ludhiana,482,New,,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST107947,2025-05-05,Male,44.0,35-44,Telangana,Warangal,306,Regular,Mobile App,UPI,Referral,7,418586.44,2025-12-26,59798.06,Active,Platinum
 CUST107948,2025-11-08,Male,22.0,18-24,Andhra Pradesh,Visakhapatnam,661,Regular,Mobile Web,Credit Card,Organic Search,8,126613.05,2025-12-30,15826.63,Active,Silver
 CUST107949,2023-01-17,Male,45.0,45-54,Telangana,Warangal,621,Budget,Mobile Web,UPI,Paid Search,2,17642.73,2024-03-08,8821.36,Churned,Bronze
@@ -8090,7 +8090,7 @@ CUST108087,2025-05-06,Female,37.0,35-44,Maharashtra,Nagpur,417,Budget,Mobile App
 CUST108088,2023-03-18,Male,33.0,25-34,Tamil Nadu,Coimbatore,320,New,Mobile Web,Wallet,SMS Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST108089,2025-10-06,Female,24.0,18-24,Telangana,Hyderabad,109,Regular,Mobile Web,UPI,Paid Search,6,105474.86,2025-12-26,17579.14,Active,Silver
 CUST108090,2025-09-18,Male,28.0,25-34,Kerala,Thiruvananthapuram,169,Budget,Mobile Web,UPI,Referral,2,14333.55,2025-09-30,7166.78,At Risk,Bronze
-CUST108091,2023-06-16,Male,,35-44,West Bengal,Kolkata,559,New,Unknown,UPI,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
+CUST108091,2023-06-16,Male,,35-44,West Bengal,Kolkata,559,New,,UPI,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
 CUST108092,2023-03-08,Female,23.0,18-24,Telangana,Warangal,731,Regular,Mobile App,Debit Card,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
 CUST108093,2025-12-13,Male,28.0,25-34,Gujarat,Surat,119,Regular,Mobile App,Wallet,SMS Marketing,4,151195.26,2025-12-30,37798.82,Active,Silver
 CUST108094,2023-05-30,Other,39.0,35-44,Haryana,Gurugram,429,Regular,Desktop,Cash on Delivery,Organic Search,9,211621.68,2025-11-01,23513.52,Active,Gold
@@ -8123,7 +8123,7 @@ CUST108120,2024-01-14,Female,35.0,35-44,Tamil Nadu,Chennai,279,Regular,Mobile Ap
 CUST108121,2025-01-23,Male,45.0,45-54,Maharashtra,Mumbai,699,Regular,Desktop,UPI,Direct/App,5,71365.18,2025-03-10,14273.04,Churned,Silver
 CUST108122,2023-01-12,Male,27.0,25-34,Maharashtra,Pune,544,Regular,Mobile Web,UPI,Social Media - Instagram,5,41162.37,2023-06-29,8232.47,Churned,Bronze
 CUST108123,2025-02-20,Female,28.0,25-34,Delhi,New Delhi,688,Budget,Desktop,UPI,SMS Marketing,1,7250.3,2025-05-10,7250.3,Churned,Bronze
-CUST108124,2023-07-11,Female,,45-54,Haryana,Gurugram,422,Budget,Unknown,Debit Card,Paid Search,1,269.5,2024-03-30,269.5,Churned,Bronze
+CUST108124,2023-07-11,Female,,45-54,Haryana,Gurugram,422,Budget,,Debit Card,Paid Search,1,269.5,2024-03-30,269.5,Churned,Bronze
 CUST108125,2023-01-01,Male,27.0,25-34,Uttar Pradesh,Kanpur,391,Regular,Mobile App,Credit Card,Social Media - Facebook,4,81295.93,2023-01-28,20323.98,Churned,Silver
 CUST108126,2023-07-04,Female,29.0,25-34,Kerala,Thiruvananthapuram,752,Regular,Mobile App,UPI,Social Media - Instagram,5,245601.73,2023-08-28,49120.35,Churned,Gold
 CUST108127,2025-11-09,Male,32.0,25-34,Karnataka,Mysuru,662,New,Mobile App,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -8503,7 +8503,7 @@ CUST108500,2024-06-29,Male,27.0,25-34,Bihar,Patna,611,Premium,Mobile App,Credit 
 CUST108501,2024-02-08,Female,18.0,18-24,Madhya Pradesh,Bhopal,738,Regular,Mobile App,Gift Card,Email Marketing,3,42604.48,2025-09-02,14201.49,At Risk,Bronze
 CUST108502,2024-01-03,Male,35.0,35-44,Maharashtra,Pune,498,Regular,Mobile App,Cash on Delivery,Organic Search,5,42474.03,2025-10-26,8494.81,Active,Bronze
 CUST108503,2025-12-10,Male,32.0,25-34,Gujarat,Vadodara,371,Budget,Desktop,Debit Card,Social Media - Instagram,2,4419.87,2025-12-29,2209.94,Active,Bronze
-CUST108504,2023-08-12,Male,,35-44,Maharashtra,Mumbai,395,Budget,Unknown,UPI,Organic Search,6,186889.13,2023-09-30,31148.19,Churned,Silver
+CUST108504,2023-08-12,Male,,35-44,Maharashtra,Mumbai,395,Budget,,UPI,Organic Search,6,186889.13,2023-09-30,31148.19,Churned,Silver
 CUST108505,2025-05-10,Male,31.0,25-34,West Bengal,Howrah,530,Premium,Desktop,Credit Card,Referral,5,127912.31,2025-12-25,25582.46,Active,Silver
 CUST108506,2023-01-01,Female,32.0,25-34,Delhi,New Delhi,342,Regular,Mobile App,EMI,Social Media - Instagram,2,15688.58,2023-03-14,7844.29,Churned,Bronze
 CUST108507,2024-12-22,Male,34.0,25-34,Haryana,Faridabad,853,Regular,Mobile Web,Wallet,Email Marketing,5,28701.8,2025-11-17,5740.36,Active,Bronze
@@ -8613,7 +8613,7 @@ CUST108610,2024-06-21,Female,29.0,25-34,Haryana,Gurugram,770,Regular,Mobile App,
 CUST108611,2025-10-24,Male,40.0,35-44,Gujarat,Ahmedabad,713,Budget,Mobile App,Net Banking,Direct/App,3,74915.19,2025-12-25,24971.73,Active,Silver
 CUST108612,2025-12-27,Male,29.0,25-34,Kerala,Kochi,417,Premium,Mobile App,Debit Card,Influencer Marketing,8,106199.89,2025-12-31,13274.99,Active,Silver
 CUST108613,2023-06-27,Male,38.0,35-44,Gujarat,Vadodara,468,Regular,Mobile App,Net Banking,Referral,7,299528.06,2024-03-07,42789.72,Churned,Gold
-CUST108614,2023-11-13,Male,,35-44,Madhya Pradesh,Indore,254,New,Unknown,Cash on Delivery,Affiliate,1,2733.15,2024-02-24,2733.15,Churned,Bronze
+CUST108614,2023-11-13,Male,,35-44,Madhya Pradesh,Indore,254,New,,Cash on Delivery,Affiliate,1,2733.15,2024-02-24,2733.15,Churned,Bronze
 CUST108615,2025-11-22,Female,34.0,25-34,Tamil Nadu,Coimbatore,143,Regular,Mobile App,Cash on Delivery,Social Media - Instagram,3,9632.06,2025-12-23,3210.69,Active,Bronze
 CUST108616,2025-11-28,Male,18.0,18-24,Telangana,Hyderabad,518,Budget,Mobile App,UPI,Organic Search,2,23626.57,2025-12-14,11813.28,Active,Bronze
 CUST108617,2023-05-23,Male,36.0,35-44,Madhya Pradesh,Bhopal,747,Regular,Desktop,Debit Card,Organic Search,7,468456.45,2023-08-08,66922.35,Churned,Platinum
@@ -9316,7 +9316,7 @@ CUST109313,2024-04-19,Female,21.0,18-24,Karnataka,Mysuru,895,Budget,Mobile App,W
 CUST109314,2024-11-12,Female,35.0,35-44,Maharashtra,Nagpur,815,Budget,Mobile Web,Credit Card,Referral,0,0.0,,0.0,Never Purchased,Bronze
 CUST109315,2023-05-26,Female,29.0,25-34,Telangana,Warangal,758,Regular,Mobile App,Debit Card,Paid Search,3,69183.56,2023-07-26,23061.19,Churned,Silver
 CUST109316,2023-05-13,Male,22.0,18-24,Karnataka,Mysuru,775,Regular,Desktop,Wallet,Social Media - Instagram,2,39791.01,2024-02-03,19895.5,Churned,Bronze
-CUST109317,2023-04-29,Female,,18-24,Uttar Pradesh,Noida,793,Premium,Unknown,Wallet,Affiliate,4,81532.08,2023-10-11,20383.02,Churned,Silver
+CUST109317,2023-04-29,Female,,18-24,Uttar Pradesh,Noida,793,Premium,,Wallet,Affiliate,4,81532.08,2023-10-11,20383.02,Churned,Silver
 CUST109318,2025-02-13,Male,30.0,25-34,Karnataka,Bengaluru,838,Regular,Mobile App,UPI,Organic Search,7,68360.06,2025-05-05,9765.72,Churned,Silver
 CUST109319,2025-05-02,Male,38.0,35-44,Telangana,Hyderabad,256,Regular,Mobile App,UPI,Organic Search,3,219069.48,2025-08-30,73023.16,At Risk,Gold
 CUST109320,2023-10-23,Female,30.0,25-34,Uttar Pradesh,Lucknow,392,Regular,Mobile App,Cash on Delivery,Organic Search,3,63014.48,2024-08-03,21004.83,Churned,Silver
@@ -9514,7 +9514,7 @@ CUST109511,2024-10-28,Male,34.0,25-34,Haryana,Gurugram,248,Regular,Mobile App,Ca
 CUST109512,2023-04-21,Female,34.0,25-34,Telangana,Warangal,877,Regular,Mobile Web,Wallet,Affiliate,6,360642.71,2024-01-02,60107.12,Churned,Gold
 CUST109513,2025-04-03,Female,36.0,35-44,Madhya Pradesh,Indore,365,Premium,Desktop,UPI,Organic Search,11,170258.35,2025-05-10,15478.03,Churned,Silver
 CUST109514,2025-01-18,Female,33.0,25-34,Punjab,Ludhiana,124,Budget,Mobile App,Cash on Delivery,Organic Search,2,128016.42,2025-09-07,64008.21,At Risk,Silver
-CUST109515,2023-09-30,Female,,25-34,Gujarat,Vadodara,524,Regular,Unknown,UPI,Paid Search,4,259948.76,2024-05-21,64987.19,Churned,Gold
+CUST109515,2023-09-30,Female,,25-34,Gujarat,Vadodara,524,Regular,,UPI,Paid Search,4,259948.76,2024-05-21,64987.19,Churned,Gold
 CUST109516,2024-08-23,Male,34.0,25-34,Maharashtra,Mumbai,636,Budget,Mobile App,Wallet,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST109517,2025-04-26,Male,39.0,35-44,Kerala,Kochi,871,Regular,Mobile App,Wallet,Paid Search,1,5751.38,2025-06-29,5751.38,Churned,Bronze
 CUST109518,2024-10-25,Male,28.0,25-34,Haryana,Gurugram,443,New,Mobile App,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -9566,7 +9566,7 @@ CUST109563,2024-10-29,Female,38.0,35-44,Haryana,Faridabad,574,Regular,Mobile Web
 CUST109564,2024-05-03,Female,41.0,35-44,Haryana,Faridabad,696,New,Mobile App,Credit Card,Social Media - Facebook,1,2220.75,2025-05-08,2220.75,Churned,Bronze
 CUST109565,2024-03-17,Male,23.0,18-24,Gujarat,Vadodara,445,Premium,Mobile Web,UPI,Direct/App,11,218505.01,2025-12-14,19864.09,Active,Gold
 CUST109566,2025-01-14,Male,39.0,35-44,Karnataka,Bengaluru,467,Budget,Mobile App,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST109567,2025-10-12,Female,,25-34,Tamil Nadu,Coimbatore,871,Regular,Unknown,UPI,Organic Search,3,18273.78,2025-12-18,6091.26,Active,Bronze
+CUST109567,2025-10-12,Female,,25-34,Tamil Nadu,Coimbatore,871,Regular,,UPI,Organic Search,3,18273.78,2025-12-18,6091.26,Active,Bronze
 CUST109568,2024-09-23,Male,35.0,35-44,Tamil Nadu,Coimbatore,876,Regular,Mobile App,EMI,Organic Search,2,33712.15,2025-12-16,16856.08,Active,Bronze
 CUST109569,2025-08-13,Male,25.0,25-34,Tamil Nadu,Coimbatore,539,Regular,Mobile App,Cash on Delivery,Paid Search,7,57598.53,2025-12-04,8228.36,Active,Bronze
 CUST109570,2024-06-01,Male,32.0,25-34,Bihar,Patna,802,New,Desktop,Wallet,Referral,1,733.32,2025-01-07,733.32,Churned,Bronze
@@ -9601,7 +9601,7 @@ CUST109598,2023-11-20,Female,33.0,25-34,Haryana,Gurugram,821,New,Mobile App,UPI,
 CUST109599,2024-05-28,Male,19.0,18-24,Haryana,Faridabad,688,Premium,Mobile App,Cash on Delivery,Organic Search,5,135636.22,2024-11-13,27127.24,Churned,Silver
 CUST109600,2023-01-29,Female,52.0,45-54,Uttar Pradesh,Noida,263,Regular,Mobile App,Net Banking,Influencer Marketing,3,53316.37,2023-11-16,17772.12,Churned,Bronze
 CUST109601,2025-06-19,Male,34.0,25-34,West Bengal,Howrah,893,Budget,Mobile App,Debit Card,Social Media - Instagram,5,53066.89,2025-12-22,10613.38,Active,Bronze
-CUST109602,2023-07-05,Female,,25-34,Tamil Nadu,Coimbatore,112,Regular,Unknown,Debit Card,SMS Marketing,7,166800.49,2024-06-01,23828.64,Churned,Silver
+CUST109602,2023-07-05,Female,,25-34,Tamil Nadu,Coimbatore,112,Regular,,Debit Card,SMS Marketing,7,166800.49,2024-06-01,23828.64,Churned,Silver
 CUST109603,2023-03-07,Male,18.0,18-24,Uttar Pradesh,Kanpur,233,Budget,Desktop,Debit Card,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
 CUST109604,2023-03-02,Male,34.0,25-34,Punjab,Amritsar,604,Premium,Mobile Web,Debit Card,Influencer Marketing,13,378542.8,2024-12-21,29118.68,Churned,Gold
 CUST109605,2025-06-21,Male,38.0,35-44,Maharashtra,Nagpur,152,Budget,Mobile Web,Wallet,Direct/App,6,197064.52,2025-11-16,32844.09,Active,Gold
@@ -9621,7 +9621,7 @@ CUST109618,2025-04-28,Female,35.0,35-44,Telangana,Warangal,234,New,Mobile Web,UP
 CUST109619,2023-10-01,Female,21.0,18-24,Telangana,Warangal,886,Budget,Mobile App,UPI,Social Media - Facebook,3,431032.56,2024-08-31,143677.52,Churned,Platinum
 CUST109620,2024-07-21,Female,36.0,35-44,West Bengal,Kolkata,317,New,Mobile App,UPI,Social Media - Facebook,2,35527.27,2024-09-09,17763.63,Churned,Bronze
 CUST109621,2023-04-15,Male,28.0,25-34,Karnataka,Bengaluru,465,Regular,Mobile Web,Cash on Delivery,Direct/App,9,185657.8,2024-11-01,20628.64,Churned,Silver
-CUST109622,2024-05-17,Male,,25-34,Maharashtra,Pune,389,Regular,Unknown,Credit Card,Paid Search,3,29842.36,2024-09-01,9947.45,Churned,Bronze
+CUST109622,2024-05-17,Male,,25-34,Maharashtra,Pune,389,Regular,,Credit Card,Paid Search,3,29842.36,2024-09-01,9947.45,Churned,Bronze
 CUST109623,2025-05-18,Male,42.0,35-44,Andhra Pradesh,Visakhapatnam,253,Budget,Mobile Web,Net Banking,Direct/App,2,13316.83,2025-09-07,6658.42,At Risk,Bronze
 CUST109624,2024-05-12,Male,41.0,35-44,Maharashtra,Mumbai,763,Regular,Mobile Web,Wallet,Influencer Marketing,2,33227.35,2024-10-06,16613.68,Churned,Bronze
 CUST109625,2023-04-18,Male,38.0,35-44,Delhi,New Delhi,451,New,Mobile Web,UPI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
@@ -9667,7 +9667,7 @@ CUST109664,2023-06-26,Male,38.0,35-44,Uttar Pradesh,Lucknow,457,New,Mobile Web,W
 CUST109665,2025-05-22,Male,39.0,35-44,Karnataka,Mysuru,494,Budget,Mobile Web,Credit Card,Social Media - Instagram,4,46768.32,2025-12-19,11692.08,Active,Bronze
 CUST109666,2023-03-11,Male,33.0,25-34,Maharashtra,Pune,493,Budget,Mobile Web,Cash on Delivery,Referral,0,0.0,,0.0,Never Purchased,Bronze
 CUST109667,2023-11-03,Female,29.0,25-34,Gujarat,Vadodara,547,Regular,Mobile Web,Credit Card,Paid Search,5,53242.7,2025-07-28,10648.54,At Risk,Bronze
-CUST109668,2025-04-12,Male,,25-34,Haryana,Faridabad,212,New,Unknown,UPI,Social Media - Instagram,1,6403.64,2025-06-04,6403.64,Churned,Bronze
+CUST109668,2025-04-12,Male,,25-34,Haryana,Faridabad,212,New,,UPI,Social Media - Instagram,1,6403.64,2025-06-04,6403.64,Churned,Bronze
 CUST109669,2025-06-30,Female,24.0,18-24,Tamil Nadu,Coimbatore,789,Budget,Mobile Web,Credit Card,Referral,2,90356.91,2025-07-26,45178.46,At Risk,Silver
 CUST109670,2023-05-03,Female,23.0,18-24,Rajasthan,Jaipur,448,Premium,Mobile App,Wallet,Email Marketing,13,483951.94,2024-11-01,37227.07,Churned,Platinum
 CUST109671,2023-07-14,Female,28.0,25-34,Maharashtra,Pune,522,New,Desktop,Cash on Delivery,Organic Search,1,1417.18,2023-10-10,1417.18,Churned,Bronze
@@ -9806,7 +9806,7 @@ CUST109803,2025-03-13,Female,38.0,35-44,Rajasthan,Jodhpur,147,Premium,Mobile App
 CUST109804,2024-11-17,Male,24.0,18-24,Gujarat,Vadodara,694,Premium,Desktop,Gift Card,Social Media - Instagram,5,367525.56,2025-03-23,73505.11,Churned,Gold
 CUST109805,2025-07-07,Female,28.0,25-34,West Bengal,Kolkata,157,Budget,Mobile Web,Credit Card,Organic Search,5,180806.75,2025-12-23,36161.35,Active,Silver
 CUST109806,2025-05-16,Male,40.0,35-44,Delhi,New Delhi,648,Budget,Mobile Web,UPI,Email Marketing,4,88175.85,2025-07-27,22043.96,At Risk,Silver
-CUST109807,2025-01-19,Female,,25-34,Telangana,Warangal,229,Regular,Unknown,Cash on Delivery,Organic Search,4,373688.81,2025-11-17,93422.2,Active,Gold
+CUST109807,2025-01-19,Female,,25-34,Telangana,Warangal,229,Regular,,Cash on Delivery,Organic Search,4,373688.81,2025-11-17,93422.2,Active,Gold
 CUST109808,2025-12-22,Female,44.0,35-44,Tamil Nadu,Coimbatore,733,Budget,Mobile App,EMI,Social Media - Instagram,3,10493.32,2025-12-24,3497.77,Active,Bronze
 CUST109809,2023-04-11,Male,,25-34,Karnataka,Mysuru,436,Regular,Mobile Web,UPI,SMS Marketing,2,98145.18,2024-11-27,49072.59,Churned,Silver
 CUST109810,2023-06-14,Female,28.0,25-34,Rajasthan,Jaipur,415,Regular,Mobile Web,Net Banking,Direct/App,2,2464.56,2024-07-16,1232.28,Churned,Bronze
@@ -9887,7 +9887,7 @@ CUST109884,2023-03-22,Male,28.0,25-34,Bihar,Patna,604,Regular,Desktop,Cash on De
 CUST109885,2025-03-11,Male,36.0,35-44,Maharashtra,Mumbai,415,Regular,Mobile App,Credit Card,Organic Search,8,743792.32,2025-07-28,92974.04,At Risk,Platinum
 CUST109886,2025-10-12,Male,18.0,18-24,Karnataka,Bengaluru,832,Premium,Mobile App,Wallet,Email Marketing,11,335294.24,2025-12-28,30481.29,Active,Gold
 CUST109887,2025-07-22,Male,28.0,25-34,Delhi,New Delhi,391,Budget,Mobile App,Credit Card,Referral,2,1549.8,2025-10-20,774.9,Active,Bronze
-CUST109888,2023-06-26,Male,,35-44,Uttar Pradesh,Kanpur,219,Premium,Unknown,Wallet,Paid Search,13,594311.8,2024-11-24,45716.29,Churned,Platinum
+CUST109888,2023-06-26,Male,,35-44,Uttar Pradesh,Kanpur,219,Premium,,Wallet,Paid Search,13,594311.8,2024-11-24,45716.29,Churned,Platinum
 CUST109889,2023-07-10,Female,50.0,45-54,Kerala,Thiruvananthapuram,195,New,Mobile App,EMI,Influencer Marketing,1,3559.6,2023-08-03,3559.6,Churned,Bronze
 CUST109890,2025-04-23,Male,26.0,25-34,Telangana,Warangal,643,New,Mobile Web,Cash on Delivery,Organic Search,2,22366.05,2025-08-15,11183.02,At Risk,Bronze
 CUST109891,2023-05-03,Male,36.0,35-44,West Bengal,Howrah,791,New,Mobile Web,Cash on Delivery,Direct/App,2,28697.86,2024-10-24,14348.93,Churned,Bronze
@@ -10276,7 +10276,7 @@ CUST110273,2023-05-09,Female,18.0,18-24,Uttar Pradesh,Lucknow,662,Premium,Mobile
 CUST110274,2023-01-21,Male,18.0,18-24,Gujarat,Vadodara,414,Budget,Desktop,Credit Card,Social Media - Facebook,1,13637.4,2023-03-10,13637.4,Churned,Bronze
 CUST110275,2023-01-05,Male,36.0,35-44,Uttar Pradesh,Kanpur,488,Budget,Desktop,UPI,Direct/App,1,11698.26,2023-01-12,11698.26,Churned,Bronze
 CUST110276,2025-01-18,Male,18.0,18-24,Delhi,New Delhi,657,Regular,Mobile Web,Wallet,Social Media - Facebook,8,79674.95,2025-03-03,9959.37,Churned,Silver
-CUST110277,2025-08-18,Male,,55+,Madhya Pradesh,Indore,104,Budget,Unknown,Cash on Delivery,Social Media - Instagram,7,88942.4,2025-12-25,12706.06,Active,Silver
+CUST110277,2025-08-18,Male,,55+,Madhya Pradesh,Indore,104,Budget,,Cash on Delivery,Social Media - Instagram,7,88942.4,2025-12-25,12706.06,Active,Silver
 CUST110278,2024-04-10,Female,33.0,25-34,Uttar Pradesh,Noida,304,Regular,Mobile Web,Wallet,Organic Search,7,293470.44,2024-05-14,41924.35,Churned,Gold
 CUST110279,2023-01-28,Female,37.0,35-44,West Bengal,Howrah,192,Budget,Mobile App,Credit Card,SMS Marketing,1,2330.37,2023-03-16,2330.37,Churned,Bronze
 CUST110280,2023-03-28,Male,27.0,25-34,Maharashtra,Nagpur,834,Regular,Mobile App,EMI,Social Media - Facebook,2,56543.03,2023-06-05,28271.52,Churned,Bronze
@@ -10599,7 +10599,7 @@ CUST110596,2024-11-06,Male,49.0,45-54,Punjab,Amritsar,212,Regular,Mobile App,Cas
 CUST110597,2025-01-03,Female,22.0,18-24,West Bengal,Kolkata,608,Budget,Mobile Web,UPI,Organic Search,3,119350.88,2025-10-27,39783.63,Active,Silver
 CUST110598,2023-05-13,Female,22.0,18-24,Madhya Pradesh,Bhopal,498,Budget,Desktop,UPI,Organic Search,2,108914.19,2023-07-25,54457.1,Churned,Silver
 CUST110599,2024-08-28,Female,35.0,35-44,Tamil Nadu,Coimbatore,174,Budget,Mobile Web,Wallet,Organic Search,3,36912.0,2025-03-29,12304.0,Churned,Bronze
-CUST110600,2023-01-12,Male,,45-54,Karnataka,Bengaluru,415,Budget,Unknown,UPI,Direct/App,4,68499.85,2023-06-30,17124.96,Churned,Silver
+CUST110600,2023-01-12,Male,,45-54,Karnataka,Bengaluru,415,Budget,,UPI,Direct/App,4,68499.85,2023-06-30,17124.96,Churned,Silver
 CUST110601,2023-10-22,Female,25.0,25-34,Kerala,Kochi,473,Regular,Mobile App,UPI,Direct/App,11,252785.09,2025-12-10,22980.46,Active,Gold
 CUST110602,2025-02-26,Male,48.0,45-54,Delhi,New Delhi,156,Regular,Mobile Web,UPI,Organic Search,4,12706.37,2025-10-25,3176.59,Active,Bronze
 CUST110603,2025-10-24,Female,18.0,18-24,Maharashtra,Nagpur,634,Regular,Mobile Web,Net Banking,Direct/App,3,64791.72,2025-12-20,21597.24,Active,Silver
@@ -11505,7 +11505,7 @@ CUST111502,2025-03-13,Male,33.0,25-34,Rajasthan,Jaipur,624,Premium,Mobile App,Wa
 CUST111503,2023-01-05,Male,20.0,18-24,Madhya Pradesh,Bhopal,526,Budget,Mobile App,UPI,Social Media - Instagram,3,9812.88,2025-03-19,3270.96,Churned,Bronze
 CUST111504,2023-02-14,Male,36.0,35-44,Maharashtra,Mumbai,664,Budget,Desktop,Net Banking,Paid Search,1,16707.39,2023-05-05,16707.39,Churned,Bronze
 CUST111505,2023-06-14,Female,34.0,25-34,Kerala,Kochi,343,Regular,Mobile Web,Cash on Delivery,Direct/App,2,12320.91,2025-03-28,6160.46,Churned,Bronze
-CUST111506,2025-10-05,Female,,18-24,Telangana,Warangal,865,Budget,Unknown,Cash on Delivery,Social Media - Facebook,2,2834.47,2025-10-16,1417.24,Active,Bronze
+CUST111506,2025-10-05,Female,,18-24,Telangana,Warangal,865,Budget,,Cash on Delivery,Social Media - Facebook,2,2834.47,2025-10-16,1417.24,Active,Bronze
 CUST111507,2023-08-22,Male,23.0,18-24,Haryana,Gurugram,889,Regular,Mobile App,UPI,Email Marketing,2,6637.52,2025-06-19,3318.76,Churned,Bronze
 CUST111508,2024-03-17,Male,31.0,25-34,Maharashtra,Mumbai,687,Budget,Desktop,Wallet,Direct/App,2,23857.47,2025-01-05,11928.74,Churned,Bronze
 CUST111509,2024-03-11,Female,38.0,35-44,Madhya Pradesh,Indore,519,New,Mobile App,Pay Later,Influencer Marketing,1,88580.52,2024-04-16,88580.52,Churned,Silver
@@ -11815,7 +11815,7 @@ CUST111812,2023-10-05,Male,26.0,25-34,Gujarat,Ahmedabad,495,Budget,Mobile App,UP
 CUST111813,2023-08-23,Male,32.0,25-34,Maharashtra,Nagpur,797,New,Mobile App,Debit Card,Paid Search,2,38248.66,2025-01-02,19124.33,Churned,Bronze
 CUST111814,2023-11-19,Female,34.0,25-34,Telangana,Warangal,601,Regular,Mobile Web,Gift Card,Social Media - Instagram,2,28357.98,2024-05-23,14178.99,Churned,Bronze
 CUST111815,2023-07-18,Female,32.0,25-34,Gujarat,Vadodara,641,Budget,Mobile App,Wallet,Social Media - Instagram,4,149532.34,2024-06-20,37383.08,Churned,Silver
-CUST111816,2024-11-26,Male,,18-24,Delhi,New Delhi,497,Regular,Unknown,Credit Card,Influencer Marketing,4,41036.94,2025-10-25,10259.24,Active,Bronze
+CUST111816,2024-11-26,Male,,18-24,Delhi,New Delhi,497,Regular,,Credit Card,Influencer Marketing,4,41036.94,2025-10-25,10259.24,Active,Bronze
 CUST111817,2023-11-05,Male,42.0,35-44,Maharashtra,Pune,844,New,Mobile App,UPI,Email Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST111818,2023-06-29,Male,32.0,25-34,Haryana,Faridabad,783,Regular,Mobile App,Credit Card,Paid Search,1,2803.5,2024-01-25,2803.5,Churned,Bronze
 CUST111819,2024-02-08,Male,51.0,45-54,Karnataka,Bengaluru,661,New,Mobile App,Net Banking,SMS Marketing,0,0.0,,0.0,Never Purchased,Bronze
@@ -12041,7 +12041,7 @@ CUST112038,2023-02-12,Male,56.0,55+,Haryana,Faridabad,680,New,Mobile App,Net Ban
 CUST112039,2023-10-21,Male,47.0,45-54,Gujarat,Ahmedabad,516,Premium,Mobile App,Net Banking,Paid Search,10,358983.59,2024-04-20,35898.36,Churned,Gold
 CUST112040,2025-01-17,Male,35.0,35-44,Maharashtra,Nagpur,839,Budget,Mobile Web,Debit Card,Social Media - Instagram,1,5198.08,2025-10-06,5198.08,Active,Bronze
 CUST112041,2024-04-07,Male,52.0,45-54,Tamil Nadu,Coimbatore,634,Regular,Mobile Web,Wallet,Paid Search,5,49456.16,2025-11-16,9891.23,Active,Bronze
-CUST112042,2025-09-01,Female,,25-34,Maharashtra,Mumbai,619,Budget,Unknown,UPI,Organic Search,1,4315.5,2025-09-16,4315.5,At Risk,Bronze
+CUST112042,2025-09-01,Female,,25-34,Maharashtra,Mumbai,619,Budget,,UPI,Organic Search,1,4315.5,2025-09-16,4315.5,At Risk,Bronze
 CUST112043,2024-08-04,Male,25.0,25-34,Rajasthan,Jodhpur,662,Budget,Desktop,Cash on Delivery,Organic Search,2,65869.65,2024-10-02,32934.82,Churned,Silver
 CUST112044,2023-07-17,Female,43.0,35-44,Rajasthan,Jaipur,338,Budget,Mobile App,Credit Card,Affiliate,7,190123.5,2023-11-18,27160.5,Churned,Gold
 CUST112045,2023-05-20,Female,18.0,18-24,Bihar,Patna,755,Regular,Mobile App,EMI,Social Media - Facebook,6,65580.64,2024-06-21,10930.11,Churned,Silver
@@ -12057,9 +12057,9 @@ CUST112054,2025-05-27,Male,33.0,25-34,Uttar Pradesh,Noida,586,Budget,Mobile App,
 CUST112055,2024-10-07,Female,29.0,25-34,Gujarat,Vadodara,819,Regular,Desktop,Credit Card,Affiliate,2,2999.43,2025-09-01,1499.72,At Risk,Bronze
 CUST112056,2025-07-30,Female,26.0,25-34,Gujarat,Surat,806,Regular,Desktop,Cash on Delivery,Organic Search,5,23668.58,2025-12-01,4733.72,Active,Bronze
 CUST112057,2024-07-14,Male,25.0,25-34,Maharashtra,Mumbai,343,Regular,Desktop,UPI,Direct/App,5,67568.05,2024-11-09,13513.61,Churned,Silver
-CUST112058,2023-06-30,Female,,45-54,Gujarat,Ahmedabad,150,New,Unknown,UPI,Paid Search,1,4644.36,2023-11-17,4644.36,Churned,Bronze
+CUST112058,2023-06-30,Female,,45-54,Gujarat,Ahmedabad,150,New,,UPI,Paid Search,1,4644.36,2023-11-17,4644.36,Churned,Bronze
 CUST112059,2023-07-03,Male,24.0,18-24,Uttar Pradesh,Noida,370,Regular,Mobile App,UPI,Email Marketing,8,119400.42,2025-12-24,14925.05,Active,Silver
-CUST112060,2025-11-23,Female,,18-24,Andhra Pradesh,Visakhapatnam,615,Budget,Unknown,Credit Card,Social Media - Instagram,7,70784.76,2025-12-29,10112.11,Active,Silver
+CUST112060,2025-11-23,Female,,18-24,Andhra Pradesh,Visakhapatnam,615,Budget,,Credit Card,Social Media - Instagram,7,70784.76,2025-12-29,10112.11,Active,Silver
 CUST112061,2025-07-11,Female,52.0,45-54,Gujarat,Surat,194,Regular,Mobile App,Debit Card,Affiliate,7,487581.04,2025-12-29,69654.43,Active,Platinum
 CUST112062,2024-12-04,Male,31.0,25-34,Maharashtra,Nagpur,708,Budget,Mobile App,Cash on Delivery,Email Marketing,5,68309.27,2025-12-05,13661.85,Active,Silver
 CUST112063,2025-02-11,Female,35.0,35-44,Andhra Pradesh,Visakhapatnam,537,Premium,Mobile App,Credit Card,Affiliate,15,405816.67,2025-12-20,27054.44,Active,Platinum
@@ -12145,7 +12145,7 @@ CUST112142,2025-03-08,Male,40.0,35-44,Bihar,Patna,783,Regular,Mobile App,UPI,Pai
 CUST112143,2023-09-11,Female,43.0,35-44,Maharashtra,Mumbai,726,Regular,Desktop,UPI,Social Media - Facebook,9,191052.19,2025-11-06,21228.02,Active,Gold
 CUST112144,2024-08-28,Male,28.0,25-34,Haryana,Faridabad,231,Budget,Mobile App,Debit Card,Organic Search,2,61717.63,2025-07-18,30858.82,At Risk,Silver
 CUST112145,2025-02-13,Female,26.0,25-34,Maharashtra,Mumbai,595,Regular,Mobile App,Credit Card,Paid Search,1,6792.82,2025-06-02,6792.82,Churned,Bronze
-CUST112146,2023-02-11,Male,,25-34,Uttar Pradesh,Kanpur,749,Budget,Unknown,Cash on Delivery,Direct/App,3,98814.35,2023-10-24,32938.12,Churned,Silver
+CUST112146,2023-02-11,Male,,25-34,Uttar Pradesh,Kanpur,749,Budget,,Cash on Delivery,Direct/App,3,98814.35,2023-10-24,32938.12,Churned,Silver
 CUST112147,2023-01-22,Female,29.0,25-34,Uttar Pradesh,Lucknow,512,Regular,Mobile App,Pay Later,Organic Search,2,11821.64,2024-01-29,5910.82,Churned,Bronze
 CUST112148,2023-07-08,Female,27.0,25-34,Haryana,Faridabad,290,Regular,Mobile Web,Cash on Delivery,Organic Search,9,434825.8,2023-10-06,48313.98,Churned,Platinum
 CUST112149,2023-12-01,Female,53.0,45-54,Gujarat,Surat,277,Budget,Mobile Web,UPI,Affiliate,1,443.38,2024-03-04,443.38,Churned,Bronze
@@ -12278,7 +12278,7 @@ CUST112275,2024-05-18,Male,29.0,25-34,West Bengal,Kolkata,603,Premium,Mobile App
 CUST112276,2025-05-18,Female,34.0,25-34,Uttar Pradesh,Kanpur,713,Budget,Mobile App,Cash on Delivery,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST112277,2023-05-13,Female,34.0,25-34,Telangana,Warangal,496,New,Mobile App,Cardless EMI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
 CUST112278,2025-03-09,Other,34.0,25-34,Karnataka,Mysuru,199,Budget,Mobile Web,Credit Card,Direct/App,3,65641.28,2025-11-19,21880.43,Active,Silver
-CUST112279,2024-05-16,Male,,35-44,Kerala,Thiruvananthapuram,140,Budget,Unknown,Cash on Delivery,Social Media - Instagram,1,3489.47,2024-06-06,3489.47,Churned,Bronze
+CUST112279,2024-05-16,Male,,35-44,Kerala,Thiruvananthapuram,140,Budget,,Cash on Delivery,Social Media - Instagram,1,3489.47,2024-06-06,3489.47,Churned,Bronze
 CUST112280,2024-09-13,Female,27.0,25-34,Telangana,Warangal,779,Regular,Mobile Web,UPI,Organic Search,9,374231.7,2025-10-07,41581.3,Active,Gold
 CUST112281,2025-12-24,Male,51.0,45-54,Maharashtra,Mumbai,203,Budget,Mobile App,Cash on Delivery,Direct/App,3,27140.56,2025-12-31,9046.85,Active,Bronze
 CUST112282,2023-10-28,Male,31.0,25-34,Karnataka,Bengaluru,500,Regular,Mobile App,Cash on Delivery,Paid Search,3,30563.21,2024-02-19,10187.74,Churned,Bronze
@@ -12330,7 +12330,7 @@ CUST112327,2023-06-14,Male,18.0,18-24,Rajasthan,Jaipur,300,Budget,Mobile App,EMI
 CUST112328,2023-02-20,Male,21.0,18-24,West Bengal,Kolkata,791,New,Desktop,Net Banking,Paid Search,1,1204.88,2023-03-08,1204.88,Churned,Bronze
 CUST112329,2023-10-06,Male,31.0,25-34,Haryana,Faridabad,490,Regular,Mobile Web,Wallet,Influencer Marketing,6,297847.82,2023-11-19,49641.3,Churned,Gold
 CUST112330,2025-01-06,Male,18.0,18-24,Maharashtra,Pune,534,Budget,Mobile App,Debit Card,Direct/App,4,108952.68,2025-11-24,27238.17,Active,Silver
-CUST112331,2025-12-21,Female,,35-44,Maharashtra,Pune,530,Regular,Unknown,UPI,Social Media - Facebook,1,525.0,2025-12-27,525.0,Active,Bronze
+CUST112331,2025-12-21,Female,,35-44,Maharashtra,Pune,530,Regular,,UPI,Social Media - Facebook,1,525.0,2025-12-27,525.0,Active,Bronze
 CUST112332,2025-10-05,Male,25.0,25-34,Rajasthan,Jodhpur,856,Regular,Mobile App,Credit Card,Paid Search,1,4368.0,2025-11-02,4368.0,Active,Bronze
 CUST112333,2025-11-27,Male,48.0,45-54,Uttar Pradesh,Kanpur,390,Regular,Mobile Web,Pay Later,Organic Search,3,60843.77,2025-12-22,20281.26,Active,Silver
 CUST112334,2024-03-20,Male,33.0,25-34,Maharashtra,Pune,519,Budget,Desktop,Wallet,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
@@ -12401,7 +12401,7 @@ CUST112398,2023-02-18,Female,36.0,35-44,Rajasthan,Jodhpur,230,Budget,Desktop,Deb
 CUST112399,2023-11-12,Female,42.0,35-44,Rajasthan,Jaipur,817,Regular,Mobile Web,Credit Card,Social Media - Facebook,3,55090.46,2025-08-24,18363.49,At Risk,Bronze
 CUST112400,2025-05-21,Female,21.0,18-24,Madhya Pradesh,Indore,238,Regular,Mobile Web,Cash on Delivery,Referral,4,24989.42,2025-12-25,6247.36,Active,Bronze
 CUST112401,2023-02-25,Female,41.0,35-44,Uttar Pradesh,Kanpur,547,Regular,Mobile App,UPI,Social Media - Instagram,4,71141.55,2023-08-27,17785.39,Churned,Silver
-CUST112402,2023-01-31,Female,,35-44,Kerala,Thiruvananthapuram,600,Regular,Unknown,UPI,Social Media - Instagram,2,42542.96,2023-08-21,21271.48,Churned,Bronze
+CUST112402,2023-01-31,Female,,35-44,Kerala,Thiruvananthapuram,600,Regular,,UPI,Social Media - Instagram,2,42542.96,2023-08-21,21271.48,Churned,Bronze
 CUST112403,2023-12-22,Female,43.0,35-44,Uttar Pradesh,Kanpur,594,New,Mobile App,UPI,Social Media - Instagram,1,29432.97,2025-08-07,29432.97,At Risk,Bronze
 CUST112404,2023-07-06,Female,20.0,18-24,Karnataka,Bengaluru,393,Premium,Mobile App,UPI,Paid Search,7,106266.82,2024-05-01,15180.97,Churned,Silver
 CUST112405,2023-04-15,Male,60.0,55+,Punjab,Amritsar,387,New,Mobile App,Credit Card,Direct/App,2,16818.06,2023-06-15,8409.03,Churned,Bronze
@@ -12455,7 +12455,7 @@ CUST112452,2023-01-23,Female,18.0,18-24,Kerala,Kochi,703,Budget,Mobile App,Credi
 CUST112453,2025-08-05,Female,46.0,45-54,Telangana,Hyderabad,744,Regular,Mobile App,Credit Card,SMS Marketing,3,22861.97,2025-12-30,7620.66,Active,Bronze
 CUST112454,2024-01-27,Female,23.0,18-24,Uttar Pradesh,Kanpur,778,Regular,Mobile App,UPI,Direct/App,4,247817.37,2025-10-14,61954.34,Active,Gold
 CUST112455,2023-08-07,Female,34.0,25-34,Tamil Nadu,Chennai,770,Regular,Mobile Web,UPI,Affiliate,7,138410.06,2023-09-06,19772.87,Churned,Silver
-CUST112456,2023-11-09,Female,,45-54,Kerala,Kochi,257,Regular,Unknown,Cash on Delivery,Social Media - Facebook,7,750381.88,2025-07-24,107197.41,At Risk,Platinum
+CUST112456,2023-11-09,Female,,45-54,Kerala,Kochi,257,Regular,,Cash on Delivery,Social Media - Facebook,7,750381.88,2025-07-24,107197.41,At Risk,Platinum
 CUST112457,2024-08-22,Female,23.0,18-24,Haryana,Faridabad,596,Budget,Mobile App,UPI,Organic Search,5,235268.1,2025-12-12,47053.62,Active,Gold
 CUST112458,2024-06-29,Female,39.0,35-44,Madhya Pradesh,Indore,428,Regular,Mobile App,Credit Card,Direct/App,3,9065.18,2024-11-19,3021.73,Churned,Bronze
 CUST112459,2024-01-13,Male,40.0,35-44,Gujarat,Vadodara,888,Budget,Mobile App,UPI,Influencer Marketing,2,19266.34,2024-04-09,9633.17,Churned,Bronze
@@ -12757,7 +12757,7 @@ CUST112754,2023-07-18,Male,34.0,25-34,Uttar Pradesh,Kanpur,133,Regular,Mobile Ap
 CUST112755,2023-05-24,Female,34.0,25-34,Madhya Pradesh,Bhopal,823,Regular,Mobile Web,Credit Card,Direct/App,6,56364.69,2024-01-23,9394.12,Churned,Bronze
 CUST112756,2024-04-26,Male,36.0,35-44,Gujarat,Surat,401,Regular,Mobile Web,Net Banking,Referral,7,59943.29,2024-08-07,8563.33,Churned,Silver
 CUST112757,2025-09-29,Male,47.0,45-54,Madhya Pradesh,Indore,432,Regular,Mobile App,UPI,Direct/App,4,147804.71,2025-11-17,36951.18,Active,Silver
-CUST112758,2023-10-27,Male,,18-24,Tamil Nadu,Coimbatore,866,New,Unknown,UPI,Social Media - Instagram,1,1659.0,2025-04-05,1659.0,Churned,Bronze
+CUST112758,2023-10-27,Male,,18-24,Tamil Nadu,Coimbatore,866,New,,UPI,Social Media - Instagram,1,1659.0,2025-04-05,1659.0,Churned,Bronze
 CUST112759,2024-02-29,Female,38.0,35-44,Tamil Nadu,Chennai,335,Regular,Mobile App,UPI,Direct/App,3,53681.53,2024-04-13,17893.84,Churned,Bronze
 CUST112760,2023-03-24,Female,35.0,35-44,Tamil Nadu,Chennai,121,Regular,Mobile App,Credit Card,Affiliate,3,30654.06,2025-03-01,10218.02,Churned,Bronze
 CUST112761,2023-07-02,Male,36.0,35-44,Uttar Pradesh,Noida,197,Regular,Desktop,Cash on Delivery,Organic Search,2,3814.34,2024-05-09,1907.17,Churned,Bronze
@@ -12889,7 +12889,7 @@ CUST112886,2024-03-17,Female,38.0,35-44,Gujarat,Surat,505,Budget,Desktop,Cash on
 CUST112887,2023-01-28,Female,37.0,35-44,Telangana,Warangal,325,Budget,Mobile App,UPI,Paid Search,3,21519.0,2023-04-08,7173.0,Churned,Bronze
 CUST112888,2023-02-20,Male,25.0,25-34,Gujarat,Surat,468,Budget,Mobile Web,Credit Card,Social Media - Facebook,4,42508.24,2023-04-28,10627.06,Churned,Bronze
 CUST112889,2025-07-01,Female,19.0,18-24,Uttar Pradesh,Noida,643,Budget,Mobile App,UPI,Organic Search,2,46150.66,2025-11-24,23075.33,Active,Bronze
-CUST112890,2023-01-27,Male,,35-44,West Bengal,Howrah,542,Regular,Unknown,Credit Card,Direct/App,4,114126.4,2023-10-29,28531.6,Churned,Silver
+CUST112890,2023-01-27,Male,,35-44,West Bengal,Howrah,542,Regular,,Credit Card,Direct/App,4,114126.4,2023-10-29,28531.6,Churned,Silver
 CUST112891,2023-01-09,Male,34.0,25-34,Maharashtra,Nagpur,727,Regular,Mobile Web,UPI,Social Media - Instagram,5,261974.64,2024-03-10,52394.93,Churned,Gold
 CUST112892,2023-09-01,Male,18.0,18-24,Telangana,Hyderabad,412,Budget,Mobile App,Wallet,Referral,0,0.0,,0.0,Never Purchased,Bronze
 CUST112893,2025-12-15,Male,38.0,35-44,Gujarat,Ahmedabad,620,Regular,Mobile App,Net Banking,Paid Search,4,25909.69,2025-12-30,6477.42,Active,Bronze
@@ -12908,7 +12908,7 @@ CUST112905,2024-12-22,Male,32.0,25-34,Madhya Pradesh,Indore,368,Budget,Mobile Ap
 CUST112906,2024-11-30,Female,29.0,25-34,Rajasthan,Jodhpur,603,Budget,Mobile App,UPI,Email Marketing,3,14164.5,2024-12-07,4721.5,Churned,Bronze
 CUST112907,2023-02-26,Female,33.0,25-34,Andhra Pradesh,Vijayawada,778,Regular,Mobile App,Cash on Delivery,Organic Search,8,101827.52,2025-06-17,12728.44,Churned,Silver
 CUST112908,2025-07-04,Male,53.0,45-54,Andhra Pradesh,Visakhapatnam,303,Premium,Mobile App,Net Banking,Influencer Marketing,4,237320.95,2025-11-12,59330.24,Active,Gold
-CUST112909,2023-06-24,Male,,18-24,West Bengal,Kolkata,413,Premium,Unknown,UPI,Social Media - Facebook,12,177079.66,2023-09-07,14756.64,Churned,Silver
+CUST112909,2023-06-24,Male,,18-24,West Bengal,Kolkata,413,Premium,,UPI,Social Media - Facebook,12,177079.66,2023-09-07,14756.64,Churned,Silver
 CUST112910,2024-11-10,Male,31.0,25-34,Kerala,Kochi,720,Regular,Mobile App,Net Banking,Influencer Marketing,3,43736.02,2025-10-06,14578.67,Active,Bronze
 CUST112911,2023-04-24,Male,18.0,18-24,Rajasthan,Jaipur,320,Premium,Mobile Web,Debit Card,Influencer Marketing,11,169204.58,2024-05-31,15382.23,Churned,Silver
 CUST112912,2025-12-29,Female,41.0,35-44,Gujarat,Surat,367,Regular,Mobile App,UPI,Organic Search,4,214315.61,2025-12-31,53578.9,Active,Gold
@@ -13337,7 +13337,7 @@ CUST113334,2024-06-19,Female,31.0,25-34,Karnataka,Mysuru,199,Regular,Mobile App,
 CUST113335,2025-05-21,Female,33.0,25-34,Gujarat,Ahmedabad,893,Premium,Mobile Web,EMI,Affiliate,4,118991.09,2025-11-28,29747.77,Active,Silver
 CUST113336,2025-09-12,Male,32.0,25-34,Telangana,Warangal,300,Budget,Mobile App,Debit Card,Paid Search,3,27623.98,2025-10-05,9207.99,Active,Bronze
 CUST113337,2024-02-09,Male,32.0,25-34,Karnataka,Bengaluru,689,Regular,Mobile App,UPI,SMS Marketing,3,34770.56,2024-07-24,11590.19,Churned,Bronze
-CUST113338,2023-07-10,Male,,45-54,Telangana,Warangal,739,Regular,Unknown,UPI,Referral,10,165688.85,2025-02-07,16568.89,Churned,Silver
+CUST113338,2023-07-10,Male,,45-54,Telangana,Warangal,739,Regular,,UPI,Referral,10,165688.85,2025-02-07,16568.89,Churned,Silver
 CUST113339,2024-04-06,Male,46.0,45-54,Uttar Pradesh,Lucknow,644,New,Mobile App,Debit Card,Social Media - Instagram,2,13282.92,2025-01-03,6641.46,Churned,Bronze
 CUST113340,2023-06-05,Male,27.0,25-34,West Bengal,Kolkata,831,Premium,Mobile App,UPI,Email Marketing,11,140674.55,2024-03-19,12788.6,Churned,Silver
 CUST113341,2023-03-07,Male,23.0,18-24,Uttar Pradesh,Lucknow,670,Regular,Mobile App,Wallet,Email Marketing,2,9630.08,2025-05-27,4815.04,Churned,Bronze
@@ -13360,7 +13360,7 @@ CUST113357,2025-12-30,Female,41.0,35-44,Gujarat,Ahmedabad,750,Regular,Mobile Web
 CUST113358,2023-02-15,Female,29.0,25-34,Delhi,New Delhi,889,Premium,Mobile App,Credit Card,Organic Search,11,192013.45,2024-09-25,17455.77,Churned,Gold
 CUST113359,2023-01-20,Female,36.0,35-44,Haryana,Faridabad,615,Budget,Desktop,Cash on Delivery,Paid Search,1,12209.87,2023-05-21,12209.87,Churned,Bronze
 CUST113360,2023-06-13,Male,45.0,45-54,Haryana,Faridabad,837,New,Mobile App,Cash on Delivery,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST113361,2023-04-23,Male,,35-44,Madhya Pradesh,Bhopal,222,Budget,Unknown,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
+CUST113361,2023-04-23,Male,,35-44,Madhya Pradesh,Bhopal,222,Budget,,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST113362,2024-04-05,Female,28.0,25-34,Punjab,Amritsar,882,Regular,Mobile App,Credit Card,Organic Search,7,22099.26,2025-02-12,3157.04,Churned,Bronze
 CUST113363,2024-04-25,Male,36.0,35-44,Maharashtra,Pune,526,Budget,Mobile Web,UPI,Social Media - Facebook,1,34039.22,2024-11-07,34039.22,Churned,Bronze
 CUST113364,2024-02-19,Male,38.0,35-44,Tamil Nadu,Coimbatore,860,Regular,Mobile Web,Cash on Delivery,Paid Search,6,36632.14,2025-09-27,6105.36,At Risk,Bronze
@@ -13569,7 +13569,7 @@ CUST113566,2023-11-09,Female,28.0,25-34,West Bengal,Howrah,345,Budget,Mobile App
 CUST113567,2023-03-03,Male,36.0,35-44,Rajasthan,Jodhpur,362,New,Mobile App,UPI,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
 CUST113568,2023-05-13,Female,41.0,35-44,West Bengal,Howrah,501,Regular,Mobile App,Cash on Delivery,Organic Search,4,31755.68,2024-09-15,7938.92,Churned,Bronze
 CUST113569,2025-09-07,Male,29.0,25-34,Karnataka,Bengaluru,851,Regular,Mobile App,Cash on Delivery,Direct/App,4,64978.99,2025-12-24,16244.75,Active,Silver
-CUST113570,2023-07-31,Female,,45-54,Andhra Pradesh,Visakhapatnam,798,New,Unknown,UPI,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
+CUST113570,2023-07-31,Female,,45-54,Andhra Pradesh,Visakhapatnam,798,New,,UPI,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST113571,2023-04-30,Male,35.0,35-44,Haryana,Gurugram,844,Regular,Mobile Web,Cash on Delivery,Influencer Marketing,8,105392.76,2024-03-21,13174.1,Churned,Silver
 CUST113572,2025-11-09,Female,31.0,25-34,Kerala,Kochi,689,Regular,Desktop,Credit Card,Influencer Marketing,5,15404.47,2025-12-30,3080.89,Active,Bronze
 CUST113573,2023-02-13,Male,21.0,18-24,West Bengal,Kolkata,577,Premium,Mobile App,UPI,Paid Search,5,234108.11,2024-06-19,46821.62,Churned,Gold
@@ -13639,7 +13639,7 @@ CUST113636,2025-05-29,Male,27.0,25-34,Tamil Nadu,Coimbatore,170,Regular,Mobile A
 CUST113637,2023-05-05,Female,19.0,18-24,West Bengal,Kolkata,316,New,Mobile App,UPI,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
 CUST113638,2025-01-06,Male,35.0,35-44,Uttar Pradesh,Lucknow,343,Budget,Mobile App,Debit Card,Direct/App,3,20150.19,2025-12-15,6716.73,Active,Bronze
 CUST113639,2025-03-25,Male,30.0,25-34,Kerala,Kochi,896,Premium,Mobile Web,Debit Card,Affiliate,8,79571.26,2025-07-13,9946.41,At Risk,Silver
-CUST113640,2023-06-30,Female,,25-34,Uttar Pradesh,Kanpur,828,Budget,Unknown,UPI,Direct/App,4,34193.31,2025-04-06,8548.33,Churned,Bronze
+CUST113640,2023-06-30,Female,,25-34,Uttar Pradesh,Kanpur,828,Budget,,UPI,Direct/App,4,34193.31,2025-04-06,8548.33,Churned,Bronze
 CUST113641,2023-06-23,Female,32.0,25-34,Kerala,Kochi,143,New,Mobile Web,Cash on Delivery,Social Media - Instagram,1,2134.44,2025-08-08,2134.44,At Risk,Bronze
 CUST113642,2025-02-09,Other,41.0,35-44,Haryana,Gurugram,440,Budget,Mobile App,Cash on Delivery,Paid Search,1,64932.0,2025-10-02,64932.0,Active,Silver
 CUST113643,2024-11-15,Female,18.0,18-24,Gujarat,Vadodara,315,Premium,Desktop,UPI,Email Marketing,7,139259.81,2025-10-12,19894.26,Active,Silver
@@ -13951,7 +13951,7 @@ CUST113948,2024-10-28,Female,35.0,35-44,Maharashtra,Nagpur,650,Budget,Mobile Web
 CUST113949,2025-10-18,Female,35.0,35-44,Madhya Pradesh,Indore,173,New,Desktop,Cash on Delivery,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST113950,2023-06-20,Male,33.0,25-34,Karnataka,Bengaluru,454,Regular,Mobile App,Pay Later,Paid Search,3,79974.72,2025-08-27,26658.24,At Risk,Silver
 CUST113951,2025-05-31,Female,28.0,25-34,Karnataka,Mysuru,269,Regular,Mobile Web,Debit Card,Affiliate,3,27589.27,2025-11-25,9196.42,Active,Bronze
-CUST113952,2025-12-08,Male,,25-34,Maharashtra,Mumbai,614,Regular,Unknown,Cash on Delivery,Influencer Marketing,8,368396.01,2025-12-31,46049.5,Active,Gold
+CUST113952,2025-12-08,Male,,25-34,Maharashtra,Mumbai,614,Regular,,Cash on Delivery,Influencer Marketing,8,368396.01,2025-12-31,46049.5,Active,Gold
 CUST113953,2023-02-11,Male,39.0,35-44,Haryana,Gurugram,662,Budget,Desktop,Debit Card,Paid Search,3,14730.45,2025-09-21,4910.15,At Risk,Bronze
 CUST113954,2025-12-02,Female,21.0,18-24,Madhya Pradesh,Indore,819,Premium,Mobile App,UPI,Email Marketing,9,315875.8,2025-12-31,35097.31,Active,Gold
 CUST113955,2025-04-13,Male,38.0,35-44,Punjab,Amritsar,641,Regular,Mobile App,Cash on Delivery,Referral,4,71327.65,2025-10-21,17831.91,Active,Silver
@@ -14017,7 +14017,7 @@ CUST114014,2023-07-17,Male,23.0,18-24,Madhya Pradesh,Bhopal,337,Budget,Mobile Ap
 CUST114015,2023-10-22,Male,29.0,25-34,Uttar Pradesh,Lucknow,115,New,Mobile Web,Wallet,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST114016,2025-11-17,Male,18.0,18-24,Tamil Nadu,Coimbatore,367,Budget,Mobile Web,Debit Card,Organic Search,1,4746.0,2025-12-13,4746.0,Active,Bronze
 CUST114017,2023-01-29,Female,21.0,18-24,West Bengal,Howrah,533,Regular,Mobile App,UPI,Influencer Marketing,4,81161.53,2023-08-22,20290.38,Churned,Silver
-CUST114018,2025-12-04,Male,,25-34,Maharashtra,Nagpur,115,Budget,Unknown,Net Banking,Affiliate,2,14338.87,2025-12-25,7169.44,Active,Bronze
+CUST114018,2025-12-04,Male,,25-34,Maharashtra,Nagpur,115,Budget,,Net Banking,Affiliate,2,14338.87,2025-12-25,7169.44,Active,Bronze
 CUST114019,2023-08-06,Male,22.0,18-24,Gujarat,Surat,197,Budget,Mobile App,UPI,Paid Search,4,111719.99,2023-09-02,27930.0,Churned,Silver
 CUST114020,2025-08-07,Female,30.0,25-34,Uttar Pradesh,Kanpur,305,Regular,Mobile Web,Credit Card,Email Marketing,6,199767.24,2025-12-15,33294.54,Active,Gold
 CUST114021,2023-12-29,Male,30.0,25-34,Kerala,Thiruvananthapuram,376,Premium,Mobile App,UPI,Organic Search,4,57530.05,2025-10-26,14382.51,Active,Bronze
@@ -14091,7 +14091,7 @@ CUST114088,2023-01-29,Female,29.0,25-34,Haryana,Gurugram,134,Regular,Mobile App,
 CUST114089,2024-11-02,Female,28.0,25-34,Haryana,Gurugram,812,Budget,Mobile App,UPI,Affiliate,0,0.0,,0.0,Never Purchased,Bronze
 CUST114090,2025-11-27,Male,27.0,25-34,Karnataka,Mysuru,599,Regular,Mobile App,Wallet,Referral,3,35379.91,2025-12-18,11793.3,Active,Bronze
 CUST114091,2023-07-10,Female,40.0,35-44,Gujarat,Ahmedabad,489,Budget,Mobile App,UPI,Social Media - Facebook,1,9363.38,2025-10-26,9363.38,Active,Bronze
-CUST114092,2024-06-23,Female,,35-44,Uttar Pradesh,Kanpur,159,Regular,Unknown,Credit Card,Direct/App,7,169910.1,2024-08-08,24272.87,Churned,Silver
+CUST114092,2024-06-23,Female,,35-44,Uttar Pradesh,Kanpur,159,Regular,,Credit Card,Direct/App,7,169910.1,2024-08-08,24272.87,Churned,Silver
 CUST114093,2025-12-07,Male,36.0,35-44,Uttar Pradesh,Noida,829,Budget,Desktop,Debit Card,Paid Search,3,62246.99,2025-12-25,20749.0,Active,Silver
 CUST114094,2025-03-31,Female,34.0,25-34,Bihar,Patna,570,Premium,Mobile Web,UPI,Social Media - Instagram,11,450004.18,2025-12-19,40909.47,Active,Platinum
 CUST114095,2025-04-25,Male,38.0,35-44,Gujarat,Vadodara,535,Regular,Mobile App,UPI,Influencer Marketing,1,8901.69,2025-09-17,8901.69,At Risk,Bronze
@@ -14336,7 +14336,7 @@ CUST114333,2023-11-19,Female,33.0,25-34,Maharashtra,Pune,230,Premium,Mobile App,
 CUST114334,2024-02-04,Male,30.0,25-34,Tamil Nadu,Coimbatore,614,Budget,Mobile Web,UPI,Paid Search,1,15560.37,2024-02-14,15560.37,Churned,Bronze
 CUST114335,2025-11-30,Male,38.0,35-44,Rajasthan,Jodhpur,659,Regular,Mobile Web,Cash on Delivery,SMS Marketing,8,97044.11,2025-12-29,12130.51,Active,Silver
 CUST114336,2024-12-04,Female,34.0,25-34,Haryana,Gurugram,471,Regular,Mobile App,UPI,Affiliate,3,29549.0,2025-02-25,9849.67,Churned,Bronze
-CUST114337,2023-02-20,Male,,25-34,Karnataka,Mysuru,713,Premium,Unknown,Cash on Delivery,Organic Search,11,656935.9,2023-07-05,59721.45,Churned,Platinum
+CUST114337,2023-02-20,Male,,25-34,Karnataka,Mysuru,713,Premium,,Cash on Delivery,Organic Search,11,656935.9,2023-07-05,59721.45,Churned,Platinum
 CUST114338,2024-04-25,Male,53.0,45-54,Uttar Pradesh,Kanpur,240,Budget,Mobile App,UPI,Organic Search,2,69162.98,2025-12-24,34581.49,Active,Silver
 CUST114339,2024-08-09,Female,39.0,35-44,Maharashtra,Nagpur,472,Regular,Mobile Web,UPI,Paid Search,3,44713.35,2025-04-26,14904.45,Churned,Bronze
 CUST114340,2023-02-03,Female,37.0,35-44,Delhi,New Delhi,453,Budget,Mobile App,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -14353,7 +14353,7 @@ CUST114350,2023-07-08,Female,18.0,18-24,Uttar Pradesh,Lucknow,458,Budget,Mobile 
 CUST114351,2024-08-08,Male,43.0,35-44,Maharashtra,Nagpur,611,Budget,Mobile App,UPI,Direct/App,4,48251.9,2025-12-14,12062.98,Active,Bronze
 CUST114352,2023-12-25,Female,46.0,45-54,Madhya Pradesh,Bhopal,842,Budget,Mobile App,UPI,Social Media - Facebook,3,20007.96,2024-05-27,6669.32,Churned,Bronze
 CUST114353,2024-03-31,Male,44.0,35-44,Maharashtra,Mumbai,598,Premium,Mobile App,Credit Card,Organic Search,8,264181.43,2025-10-04,33022.68,Active,Gold
-CUST114354,2023-05-18,Female,,25-34,Uttar Pradesh,Kanpur,238,Budget,Unknown,Cash on Delivery,Social Media - Facebook,3,41571.23,2023-12-22,13857.08,Churned,Bronze
+CUST114354,2023-05-18,Female,,25-34,Uttar Pradesh,Kanpur,238,Budget,,Cash on Delivery,Social Media - Facebook,3,41571.23,2023-12-22,13857.08,Churned,Bronze
 CUST114355,2024-07-03,Female,22.0,18-24,Tamil Nadu,Chennai,409,Regular,Mobile Web,UPI,Organic Search,8,109933.67,2025-10-11,13741.71,Active,Silver
 CUST114356,2025-12-20,Female,38.0,35-44,Andhra Pradesh,Visakhapatnam,794,New,Mobile App,Credit Card,Affiliate,3,15245.21,2025-12-26,5081.74,Active,Bronze
 CUST114357,2024-03-04,Female,33.0,25-34,Delhi,New Delhi,549,New,Mobile Web,Wallet,Influencer Marketing,0,0.0,,0.0,Never Purchased,Bronze
@@ -14414,7 +14414,7 @@ CUST114411,2025-07-18,Female,22.0,18-24,Karnataka,Bengaluru,429,Premium,Desktop,
 CUST114412,2025-01-04,Female,35.0,35-44,Haryana,Faridabad,725,Premium,Mobile Web,UPI,Social Media - Instagram,11,256952.16,2025-02-05,23359.29,Churned,Gold
 CUST114413,2023-11-08,Female,18.0,18-24,West Bengal,Howrah,741,Budget,Mobile Web,UPI,Organic Search,1,3514.66,2025-04-12,3514.66,Churned,Bronze
 CUST114414,2025-01-06,Male,56.0,55+,Tamil Nadu,Coimbatore,399,Budget,Desktop,UPI,Organic Search,1,997.5,2025-10-21,997.5,Active,Bronze
-CUST114415,2025-01-22,Female,,35-44,Maharashtra,Pune,587,Regular,Unknown,Pay Later,Organic Search,2,25733.56,2025-10-03,12866.78,Active,Bronze
+CUST114415,2025-01-22,Female,,35-44,Maharashtra,Pune,587,Regular,,Pay Later,Organic Search,2,25733.56,2025-10-03,12866.78,Active,Bronze
 CUST114416,2023-05-24,Male,29.0,25-34,Gujarat,Ahmedabad,860,New,Mobile App,Wallet,Organic Search,2,18828.7,2023-12-04,9414.35,Churned,Bronze
 CUST114417,2023-03-12,Male,43.0,35-44,Maharashtra,Pune,202,Regular,Mobile App,UPI,Paid Search,5,56797.55,2023-05-08,11359.51,Churned,Bronze
 CUST114418,2023-01-27,Male,37.0,35-44,Kerala,Thiruvananthapuram,235,Budget,Mobile Web,Debit Card,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -14797,7 +14797,7 @@ CUST114794,2023-10-24,Male,33.0,25-34,West Bengal,Howrah,247,Regular,Mobile App,
 CUST114795,2023-07-16,Male,23.0,18-24,Gujarat,Ahmedabad,878,Premium,Mobile App,UPI,Affiliate,9,154369.74,2025-10-21,17152.19,Active,Silver
 CUST114796,2024-01-14,Female,49.0,45-54,Rajasthan,Jaipur,204,Regular,Mobile App,Net Banking,Referral,4,47225.43,2025-12-25,11806.36,Active,Bronze
 CUST114797,2023-09-26,Female,26.0,25-34,Kerala,Thiruvananthapuram,214,Regular,Mobile App,UPI,Organic Search,8,189600.07,2024-05-04,23700.01,Churned,Gold
-CUST114798,2024-06-07,Female,,18-24,Gujarat,Ahmedabad,200,Budget,Unknown,Credit Card,Organic Search,3,10151.7,2024-12-25,3383.9,Churned,Bronze
+CUST114798,2024-06-07,Female,,18-24,Gujarat,Ahmedabad,200,Budget,,Credit Card,Organic Search,3,10151.7,2024-12-25,3383.9,Churned,Bronze
 CUST114799,2025-05-07,Male,33.0,25-34,Punjab,Amritsar,620,Budget,Mobile Web,Cash on Delivery,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
 CUST114800,2025-12-04,Male,28.0,25-34,Andhra Pradesh,Vijayawada,389,New,Mobile Web,UPI,Direct/App,1,4220.37,2025-12-15,4220.37,Active,Bronze
 CUST114801,2025-07-28,Male,25.0,25-34,Telangana,Hyderabad,166,Budget,Mobile App,Cash on Delivery,Paid Search,1,15876.63,2025-07-30,15876.63,At Risk,Bronze
@@ -14937,7 +14937,7 @@ CUST114934,2023-04-15,Female,29.0,25-34,Telangana,Hyderabad,705,Regular,Mobile W
 CUST114935,2025-11-17,Female,42.0,35-44,Gujarat,Surat,675,Budget,Mobile App,Cash on Delivery,Paid Search,1,7617.17,2025-12-31,7617.17,Active,Bronze
 CUST114936,2025-06-20,Male,32.0,25-34,Kerala,Kochi,761,Regular,Mobile App,UPI,Social Media - Instagram,1,6751.08,2025-12-25,6751.08,Active,Bronze
 CUST114937,2023-05-25,Female,57.0,55+,Karnataka,Mysuru,383,Budget,Mobile Web,Wallet,Referral,2,39990.3,2025-09-12,19995.15,At Risk,Bronze
-CUST114938,2023-01-04,Female,,25-34,Uttar Pradesh,Lucknow,806,Budget,Unknown,UPI,Affiliate,3,51793.14,2024-01-18,17264.38,Churned,Bronze
+CUST114938,2023-01-04,Female,,25-34,Uttar Pradesh,Lucknow,806,Budget,,UPI,Affiliate,3,51793.14,2024-01-18,17264.38,Churned,Bronze
 CUST114939,2025-06-08,Male,40.0,35-44,Gujarat,Vadodara,274,Regular,Desktop,UPI,Social Media - Instagram,6,311581.04,2025-11-30,51930.17,Active,Gold
 CUST114940,2024-09-10,Female,18.0,18-24,Uttar Pradesh,Kanpur,239,Regular,Mobile Web,Wallet,Social Media - Instagram,2,23217.7,2025-10-28,11608.85,Active,Bronze
 CUST114941,2023-10-14,Female,47.0,45-54,Maharashtra,Pune,171,Regular,Mobile App,Cash on Delivery,Email Marketing,3,71567.27,2024-10-20,23855.76,Churned,Silver
@@ -15190,7 +15190,7 @@ CUST115187,2024-10-08,Female,24.0,18-24,Tamil Nadu,Coimbatore,365,Premium,Deskto
 CUST115188,2023-01-18,Female,34.0,25-34,Maharashtra,Mumbai,817,Premium,Mobile Web,Cash on Delivery,Social Media - Facebook,10,464961.56,2023-03-09,46496.16,Churned,Platinum
 CUST115189,2024-11-09,Male,30.0,25-34,Telangana,Warangal,477,Budget,Mobile App,UPI,Social Media - Facebook,2,32681.93,2025-04-28,16340.96,Churned,Bronze
 CUST115190,2025-12-16,Female,28.0,25-34,Uttar Pradesh,Noida,750,Regular,Mobile Web,Cash on Delivery,SMS Marketing,2,32300.31,2025-12-29,16150.16,Active,Bronze
-CUST115191,2023-06-27,Male,,35-44,Maharashtra,Nagpur,872,Regular,Unknown,Net Banking,Social Media - Instagram,7,80041.74,2025-03-22,11434.53,Churned,Silver
+CUST115191,2023-06-27,Male,,35-44,Maharashtra,Nagpur,872,Regular,,Net Banking,Social Media - Instagram,7,80041.74,2025-03-22,11434.53,Churned,Silver
 CUST115192,2024-01-07,Female,42.0,35-44,Kerala,Kochi,480,Premium,Mobile Web,Cash on Delivery,Paid Search,5,76935.76,2025-06-18,15387.15,Churned,Silver
 CUST115193,2023-11-22,Male,41.0,35-44,Maharashtra,Nagpur,640,Regular,Mobile App,Credit Card,Affiliate,1,16346.19,2024-12-21,16346.19,Churned,Bronze
 CUST115194,2023-11-28,Male,33.0,25-34,Haryana,Faridabad,153,Regular,Mobile App,Cash on Delivery,Affiliate,5,139598.24,2024-10-24,27919.65,Churned,Silver
@@ -15656,7 +15656,7 @@ CUST115653,2023-06-21,Female,36.0,35-44,Uttar Pradesh,Lucknow,815,Premium,Mobile
 CUST115654,2025-05-05,Male,31.0,25-34,Telangana,Hyderabad,880,Regular,Mobile App,Cash on Delivery,Organic Search,5,270051.44,2025-08-25,54010.29,At Risk,Gold
 CUST115655,2023-12-02,Female,42.0,35-44,Maharashtra,Nagpur,227,Regular,Mobile App,Cash on Delivery,Organic Search,7,98884.72,2025-10-16,14126.39,Active,Silver
 CUST115656,2023-07-05,Male,37.0,35-44,Punjab,Ludhiana,890,Premium,Mobile Web,Credit Card,Influencer Marketing,4,366190.34,2023-08-10,91547.58,Churned,Gold
-CUST115657,2025-12-19,Male,,25-34,Madhya Pradesh,Bhopal,833,New,Unknown,Wallet,Social Media - Instagram,2,8352.54,2025-12-28,4176.27,Active,Bronze
+CUST115657,2025-12-19,Male,,25-34,Madhya Pradesh,Bhopal,833,New,,Wallet,Social Media - Instagram,2,8352.54,2025-12-28,4176.27,Active,Bronze
 CUST115658,2023-11-24,Male,41.0,35-44,Uttar Pradesh,Kanpur,712,Budget,Mobile App,UPI,Direct/App,2,51152.5,2024-09-18,25576.25,Churned,Bronze
 CUST115659,2024-04-30,Male,29.0,25-34,Delhi,New Delhi,400,Regular,Mobile App,UPI,Organic Search,4,121268.71,2024-07-07,30317.18,Churned,Silver
 CUST115660,2024-01-28,Female,18.0,18-24,Andhra Pradesh,Vijayawada,201,New,Mobile Web,Debit Card,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
@@ -15693,7 +15693,7 @@ CUST115690,2023-06-18,Female,32.0,25-34,Madhya Pradesh,Bhopal,821,Budget,Desktop
 CUST115691,2023-06-24,Male,35.0,35-44,West Bengal,Kolkata,376,Premium,Desktop,UPI,Organic Search,14,334528.86,2023-11-30,23894.92,Churned,Gold
 CUST115692,2024-10-26,Female,32.0,25-34,Tamil Nadu,Chennai,723,Regular,Mobile Web,UPI,Paid Search,4,130798.19,2025-03-13,32699.55,Churned,Silver
 CUST115693,2023-05-01,Male,32.0,25-34,Punjab,Ludhiana,432,Regular,Mobile Web,Debit Card,Referral,6,38871.94,2023-10-01,6478.66,Churned,Bronze
-CUST115694,2023-04-07,Male,,18-24,Telangana,Hyderabad,215,Regular,Unknown,Net Banking,Paid Search,6,213473.3,2023-10-22,35578.88,Churned,Gold
+CUST115694,2023-04-07,Male,,18-24,Telangana,Hyderabad,215,Regular,,Net Banking,Paid Search,6,213473.3,2023-10-22,35578.88,Churned,Gold
 CUST115695,2024-10-16,Female,28.0,25-34,Maharashtra,Nagpur,168,Budget,Desktop,UPI,Influencer Marketing,2,57265.22,2025-03-24,28632.61,Churned,Bronze
 CUST115696,2023-02-22,Male,35.0,35-44,Andhra Pradesh,Vijayawada,731,Premium,Mobile App,Net Banking,Social Media - Facebook,6,81502.0,2025-08-16,13583.67,At Risk,Silver
 CUST115697,2025-04-13,Male,41.0,35-44,Gujarat,Surat,444,Premium,Mobile App,UPI,Email Marketing,11,225702.66,2025-09-09,20518.42,At Risk,Gold
@@ -15764,7 +15764,7 @@ CUST115761,2024-01-18,Female,25.0,25-34,Karnataka,Bengaluru,247,Budget,Desktop,U
 CUST115762,2024-11-09,Male,35.0,35-44,Maharashtra,Nagpur,211,Regular,Mobile App,UPI,Social Media - Facebook,8,70142.94,2025-06-26,8767.87,Churned,Silver
 CUST115763,2023-04-03,Male,21.0,18-24,Tamil Nadu,Chennai,194,Regular,Mobile Web,Wallet,Direct/App,2,38841.7,2023-04-30,19420.85,Churned,Bronze
 CUST115764,2023-07-18,Female,45.0,45-54,Delhi,New Delhi,408,Regular,Desktop,Wallet,Paid Search,4,170465.61,2025-04-26,42616.4,Churned,Silver
-CUST115765,2023-09-19,Female,,25-34,Tamil Nadu,Coimbatore,378,Regular,Unknown,Debit Card,Social Media - Instagram,3,131750.33,2023-12-08,43916.78,Churned,Silver
+CUST115765,2023-09-19,Female,,25-34,Tamil Nadu,Coimbatore,378,Regular,,Debit Card,Social Media - Instagram,3,131750.33,2023-12-08,43916.78,Churned,Silver
 CUST115766,2025-01-26,Female,33.0,25-34,Telangana,Warangal,568,New,Mobile App,Cash on Delivery,Email Marketing,2,12491.59,2025-12-31,6245.8,Active,Bronze
 CUST115767,2025-01-09,Female,26.0,25-34,Gujarat,Ahmedabad,608,New,Mobile App,Cash on Delivery,Direct/App,2,19809.09,2025-08-07,9904.54,At Risk,Bronze
 CUST115768,2024-11-08,Female,21.0,18-24,Punjab,Ludhiana,722,Regular,Mobile App,UPI,Email Marketing,7,45893.66,2025-11-08,6556.24,Active,Bronze
@@ -15819,7 +15819,7 @@ CUST115816,2023-04-05,Male,37.0,35-44,Bihar,Patna,180,Regular,Mobile Web,Credit 
 CUST115817,2025-11-10,Male,18.0,18-24,Madhya Pradesh,Indore,750,Budget,Mobile App,Credit Card,Paid Search,7,136342.57,2025-12-28,19477.51,Active,Silver
 CUST115818,2023-04-05,Male,23.0,18-24,West Bengal,Howrah,231,Regular,Mobile App,Credit Card,Organic Search,5,49728.1,2023-08-13,9945.62,Churned,Bronze
 CUST115819,2023-10-03,Male,30.0,25-34,Maharashtra,Mumbai,545,Budget,Mobile App,UPI,Referral,3,5799.0,2025-11-27,1933.0,Active,Bronze
-CUST115820,2023-01-28,Female,,45-54,Kerala,Thiruvananthapuram,674,Budget,Unknown,Gift Card,Affiliate,2,9796.19,2023-02-16,4898.1,Churned,Bronze
+CUST115820,2023-01-28,Female,,45-54,Kerala,Thiruvananthapuram,674,Budget,,Gift Card,Affiliate,2,9796.19,2023-02-16,4898.1,Churned,Bronze
 CUST115821,2025-09-23,Male,27.0,25-34,Maharashtra,Pune,632,New,Desktop,Wallet,Direct/App,2,18200.7,2025-10-28,9100.35,Active,Bronze
 CUST115822,2025-07-11,Female,52.0,45-54,Haryana,Gurugram,437,Budget,Desktop,Wallet,Social Media - Instagram,4,33681.69,2025-11-01,8420.42,Active,Bronze
 CUST115823,2024-11-30,Female,19.0,18-24,Uttar Pradesh,Noida,124,Regular,Mobile App,Debit Card,Referral,3,49999.0,2025-10-18,16666.33,Active,Bronze
@@ -15977,7 +15977,7 @@ CUST115974,2025-04-06,Female,29.0,25-34,Gujarat,Vadodara,391,Budget,Mobile App,C
 CUST115975,2025-09-12,Male,30.0,25-34,Kerala,Thiruvananthapuram,526,New,Mobile App,UPI,Paid Search,1,4945.5,2025-10-19,4945.5,Active,Bronze
 CUST115976,2024-08-20,Male,20.0,18-24,Uttar Pradesh,Lucknow,109,New,Mobile App,Credit Card,Email Marketing,1,28237.02,2025-12-19,28237.02,Active,Bronze
 CUST115977,2025-08-23,Male,31.0,25-34,Tamil Nadu,Chennai,624,Budget,Mobile App,Pay Later,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST115978,2023-02-09,Male,,25-34,Maharashtra,Pune,418,New,Unknown,UPI,SMS Marketing,0,0.0,,0.0,Never Purchased,Bronze
+CUST115978,2023-02-09,Male,,25-34,Maharashtra,Pune,418,New,,UPI,SMS Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST115979,2023-08-20,Female,32.0,25-34,Telangana,Warangal,669,Budget,Mobile App,UPI,Social Media - Instagram,4,13651.16,2024-08-15,3412.79,Churned,Bronze
 CUST115980,2023-03-06,Male,43.0,35-44,Maharashtra,Nagpur,386,Budget,Mobile App,UPI,Social Media - Instagram,3,164979.31,2023-12-20,54993.1,Churned,Silver
 CUST115981,2023-02-04,Female,26.0,25-34,Maharashtra,Nagpur,526,Budget,Mobile App,Net Banking,Paid Search,4,40175.52,2023-11-09,10043.88,Churned,Bronze
@@ -16446,7 +16446,7 @@ CUST116443,2025-03-29,Male,32.0,25-34,Uttar Pradesh,Noida,875,Premium,Mobile Web
 CUST116444,2023-05-31,Male,23.0,18-24,Gujarat,Ahmedabad,198,Regular,Mobile Web,Cash on Delivery,Organic Search,2,34639.61,2023-11-02,17319.8,Churned,Bronze
 CUST116445,2025-11-12,Female,25.0,25-34,Karnataka,Mysuru,836,Budget,Mobile App,Credit Card,Paid Search,3,30471.11,2025-11-30,10157.04,Active,Bronze
 CUST116446,2025-08-15,Male,30.0,25-34,Maharashtra,Pune,606,New,Mobile App,Cardless EMI,Direct/App,2,9903.44,2025-12-13,4951.72,Active,Bronze
-CUST116447,2025-09-13,Male,,25-34,Bihar,Patna,722,Budget,Unknown,UPI,Paid Search,2,116903.01,2025-11-23,58451.5,Active,Silver
+CUST116447,2025-09-13,Male,,25-34,Bihar,Patna,722,Budget,,UPI,Paid Search,2,116903.01,2025-11-23,58451.5,Active,Silver
 CUST116448,2025-10-21,Female,30.0,25-34,Maharashtra,Mumbai,218,Regular,Mobile App,UPI,Organic Search,4,42501.85,2025-12-28,10625.46,Active,Bronze
 CUST116449,2024-06-09,Male,33.0,25-34,West Bengal,Howrah,695,New,Mobile App,UPI,Affiliate,1,37883.42,2024-12-13,37883.42,Churned,Bronze
 CUST116450,2025-09-03,Female,30.0,25-34,Rajasthan,Jaipur,679,Regular,Mobile App,Pay Later,Referral,3,42227.43,2025-11-04,14075.81,Active,Bronze
@@ -16540,7 +16540,7 @@ CUST116537,2024-05-08,Female,24.0,18-24,Maharashtra,Nagpur,601,Premium,Desktop,U
 CUST116538,2025-01-06,Female,33.0,25-34,Tamil Nadu,Chennai,685,Regular,Mobile App,Cash on Delivery,Affiliate,7,42761.57,2025-08-31,6108.8,At Risk,Bronze
 CUST116539,2025-08-02,Male,37.0,35-44,Delhi,New Delhi,489,New,Mobile Web,Net Banking,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST116540,2023-02-18,Female,37.0,35-44,Gujarat,Ahmedabad,212,Budget,Mobile App,Credit Card,Organic Search,1,32634.21,2024-09-07,32634.21,Churned,Bronze
-CUST116541,2024-08-01,Female,,18-24,Haryana,Gurugram,474,Regular,Unknown,Debit Card,Referral,12,188513.86,2025-12-29,15709.49,Active,Gold
+CUST116541,2024-08-01,Female,,18-24,Haryana,Gurugram,474,Regular,,Debit Card,Referral,12,188513.86,2025-12-29,15709.49,Active,Gold
 CUST116542,2025-06-05,Female,24.0,18-24,Uttar Pradesh,Noida,899,Regular,Mobile App,UPI,Organic Search,3,111907.85,2025-12-19,37302.62,Active,Silver
 CUST116543,2024-11-05,Female,27.0,25-34,Tamil Nadu,Coimbatore,600,Premium,Mobile App,Wallet,Paid Search,15,275017.76,2025-01-17,18334.52,Churned,Gold
 CUST116544,2023-04-16,Male,37.0,35-44,Rajasthan,Jaipur,314,New,Mobile App,UPI,Social Media - Instagram,1,3790.45,2023-07-03,3790.45,Churned,Bronze
@@ -17237,13 +17237,13 @@ CUST117234,2025-06-18,Male,32.0,25-34,Uttar Pradesh,Noida,511,Regular,Mobile Web
 CUST117235,2025-03-01,Female,21.0,18-24,Madhya Pradesh,Bhopal,255,New,Mobile App,Net Banking,Referral,1,3802.05,2025-12-26,3802.05,Active,Bronze
 CUST117236,2023-10-29,Male,23.0,18-24,Maharashtra,Pune,800,Regular,Mobile App,Cash on Delivery,Organic Search,8,221551.16,2024-01-27,27693.9,Churned,Gold
 CUST117237,2023-01-26,Female,37.0,35-44,Andhra Pradesh,Visakhapatnam,135,Regular,Mobile App,Cash on Delivery,Paid Search,5,33127.98,2023-02-14,6625.6,Churned,Bronze
-CUST117238,2025-06-23,Male,,18-24,Delhi,New Delhi,251,Regular,Unknown,Cash on Delivery,Social Media - Instagram,6,221613.63,2025-09-08,36935.61,At Risk,Gold
+CUST117238,2025-06-23,Male,,18-24,Delhi,New Delhi,251,Regular,,Cash on Delivery,Social Media - Instagram,6,221613.63,2025-09-08,36935.61,At Risk,Gold
 CUST117239,2025-11-24,Male,29.0,25-34,Tamil Nadu,Chennai,463,Regular,Mobile App,Net Banking,Paid Search,3,51798.76,2025-12-21,17266.25,Active,Bronze
 CUST117240,2023-04-25,Female,18.0,18-24,Maharashtra,Nagpur,174,Regular,Mobile App,UPI,Paid Search,8,109494.16,2024-02-13,13686.77,Churned,Silver
 CUST117241,2023-01-27,Male,40.0,35-44,Karnataka,Mysuru,770,Regular,Mobile App,UPI,Direct/App,7,70215.98,2023-05-10,10030.85,Churned,Silver
 CUST117242,2024-02-12,Male,26.0,25-34,Maharashtra,Mumbai,732,Premium,Mobile Web,Cash on Delivery,Organic Search,8,217707.73,2024-10-11,27213.47,Churned,Gold
 CUST117243,2023-11-08,Male,18.0,18-24,West Bengal,Howrah,363,New,Desktop,Cash on Delivery,Direct/App,3,3573.47,2024-01-20,1191.16,Churned,Bronze
-CUST117244,2023-05-31,Male,,35-44,Andhra Pradesh,Visakhapatnam,147,Budget,Unknown,UPI,Influencer Marketing,3,135372.98,2025-06-06,45124.33,Churned,Silver
+CUST117244,2023-05-31,Male,,35-44,Andhra Pradesh,Visakhapatnam,147,Budget,,UPI,Influencer Marketing,3,135372.98,2025-06-06,45124.33,Churned,Silver
 CUST117245,2024-12-31,Male,19.0,18-24,Madhya Pradesh,Indore,501,Budget,Mobile App,Debit Card,Organic Search,3,3895.37,2025-04-02,1298.46,Churned,Bronze
 CUST117246,2023-01-15,Male,21.0,18-24,Tamil Nadu,Coimbatore,835,Budget,Mobile App,Cash on Delivery,SMS Marketing,3,125446.55,2024-02-22,41815.52,Churned,Silver
 CUST117247,2023-07-18,Female,39.0,35-44,Tamil Nadu,Chennai,578,Budget,Mobile App,UPI,Referral,3,13823.22,2024-09-03,4607.74,Churned,Bronze
@@ -17517,7 +17517,7 @@ CUST117514,2025-03-07,Male,34.0,25-34,Maharashtra,Pune,250,Budget,Mobile App,Deb
 CUST117515,2025-11-15,Male,27.0,25-34,Punjab,Ludhiana,580,Budget,Mobile Web,Wallet,Organic Search,2,65613.87,2025-12-01,32806.94,Active,Silver
 CUST117516,2025-05-16,Male,24.0,18-24,Maharashtra,Pune,200,Regular,Desktop,UPI,Organic Search,2,65894.96,2025-12-19,32947.48,Active,Silver
 CUST117517,2023-04-10,Male,27.0,25-34,Bihar,Patna,389,Budget,Mobile Web,Net Banking,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST117518,2025-11-08,Female,,18-24,Madhya Pradesh,Bhopal,863,Budget,Unknown,Credit Card,Paid Search,4,60515.67,2025-12-29,15128.92,Active,Silver
+CUST117518,2025-11-08,Female,,18-24,Madhya Pradesh,Bhopal,863,Budget,,Credit Card,Paid Search,4,60515.67,2025-12-29,15128.92,Active,Silver
 CUST117519,2024-09-02,Male,34.0,25-34,Madhya Pradesh,Indore,644,Budget,Desktop,UPI,Paid Search,2,10510.45,2025-03-31,5255.22,Churned,Bronze
 CUST117520,2024-11-18,Male,31.0,25-34,Maharashtra,Pune,666,Budget,Mobile Web,UPI,Direct/App,3,13694.84,2025-01-19,4564.95,Churned,Bronze
 CUST117521,2024-12-22,Male,37.0,35-44,Rajasthan,Jaipur,831,Premium,Mobile App,Cash on Delivery,Email Marketing,17,835511.53,2025-12-20,49147.74,Active,Platinum
@@ -17579,7 +17579,7 @@ CUST117576,2023-02-11,Male,37.0,35-44,Tamil Nadu,Chennai,297,Regular,Mobile Web,
 CUST117577,2023-03-25,Male,46.0,45-54,Telangana,Warangal,835,Regular,Desktop,Credit Card,Organic Search,4,102704.06,2025-06-29,25676.02,Churned,Silver
 CUST117578,2023-04-08,Male,28.0,25-34,Haryana,Gurugram,304,Regular,Mobile Web,Debit Card,Organic Search,8,161160.2,2025-06-13,20145.03,Churned,Silver
 CUST117579,2025-05-08,Female,30.0,25-34,Telangana,Hyderabad,484,Premium,Mobile Web,UPI,Influencer Marketing,7,306072.85,2025-10-22,43724.69,Active,Gold
-CUST117580,2024-09-28,Female,,35-44,Uttar Pradesh,Lucknow,349,Regular,Unknown,Wallet,Paid Search,3,68129.25,2025-04-06,22709.75,Churned,Silver
+CUST117580,2024-09-28,Female,,35-44,Uttar Pradesh,Lucknow,349,Regular,,Wallet,Paid Search,3,68129.25,2025-04-06,22709.75,Churned,Silver
 CUST117581,2024-04-20,Male,27.0,25-34,Bihar,Patna,433,Regular,Mobile App,Debit Card,Organic Search,3,16757.12,2025-10-13,5585.71,Active,Bronze
 CUST117582,2023-06-03,Male,20.0,18-24,Kerala,Thiruvananthapuram,136,New,Mobile Web,UPI,Social Media - Facebook,1,946.05,2023-12-14,946.05,Churned,Bronze
 CUST117583,2025-05-09,Female,37.0,35-44,Telangana,Hyderabad,265,Regular,Mobile App,Wallet,Social Media - Facebook,2,8358.21,2025-12-10,4179.1,Active,Bronze
@@ -17715,7 +17715,7 @@ CUST117712,2025-09-20,Female,40.0,35-44,Uttar Pradesh,Noida,377,Budget,Mobile Ap
 CUST117713,2023-06-04,Male,41.0,35-44,Tamil Nadu,Coimbatore,480,Budget,Mobile App,UPI,Paid Search,2,16432.5,2024-04-24,8216.25,Churned,Bronze
 CUST117714,2024-01-13,Female,36.0,35-44,Uttar Pradesh,Noida,331,Budget,Mobile App,UPI,Referral,0,0.0,,0.0,Never Purchased,Bronze
 CUST117715,2024-03-30,Other,30.0,25-34,Rajasthan,Jodhpur,657,Regular,Mobile Web,Cash on Delivery,Organic Search,2,66097.97,2025-10-25,33048.98,Active,Silver
-CUST117716,2024-03-21,Male,,35-44,Andhra Pradesh,Visakhapatnam,599,New,Unknown,Cash on Delivery,Social Media - Instagram,2,20675.44,2025-05-12,10337.72,Churned,Bronze
+CUST117716,2024-03-21,Male,,35-44,Andhra Pradesh,Visakhapatnam,599,New,,Cash on Delivery,Social Media - Instagram,2,20675.44,2025-05-12,10337.72,Churned,Bronze
 CUST117717,2024-03-01,Female,32.0,25-34,Telangana,Hyderabad,532,Budget,Mobile App,Debit Card,Social Media - Facebook,4,43500.66,2025-03-02,10875.16,Churned,Bronze
 CUST117718,2023-11-22,Male,36.0,35-44,Maharashtra,Mumbai,286,Regular,Mobile App,UPI,Organic Search,9,247189.75,2025-09-21,27465.53,At Risk,Gold
 CUST117719,2023-01-17,Female,18.0,18-24,Delhi,New Delhi,406,Regular,Desktop,EMI,Affiliate,5,148838.34,2023-11-10,29767.67,Churned,Silver
@@ -18352,7 +18352,7 @@ CUST118349,2023-06-10,Male,18.0,18-24,Maharashtra,Nagpur,793,New,Mobile App,Wall
 CUST118350,2023-12-21,Male,43.0,35-44,Uttar Pradesh,Noida,567,Budget,Mobile App,Cash on Delivery,Affiliate,2,9881.65,2024-04-20,4940.82,Churned,Bronze
 CUST118351,2025-10-10,Female,29.0,25-34,Andhra Pradesh,Vijayawada,804,Budget,Mobile App,Debit Card,Paid Search,3,94816.15,2025-12-21,31605.38,Active,Silver
 CUST118352,2025-06-19,Male,18.0,18-24,Telangana,Warangal,752,New,Mobile App,Wallet,Influencer Marketing,1,5812.8,2025-10-08,5812.8,Active,Bronze
-CUST118353,2025-11-04,Male,,25-34,Haryana,Faridabad,776,Regular,Unknown,Wallet,Paid Search,5,82866.42,2025-12-07,16573.28,Active,Silver
+CUST118353,2025-11-04,Male,,25-34,Haryana,Faridabad,776,Regular,,Wallet,Paid Search,5,82866.42,2025-12-07,16573.28,Active,Silver
 CUST118354,2023-04-02,Male,41.0,35-44,Telangana,Warangal,164,Budget,Desktop,Debit Card,Paid Search,3,23442.3,2025-05-18,7814.1,Churned,Bronze
 CUST118355,2025-01-22,Female,38.0,35-44,West Bengal,Howrah,241,New,Mobile App,Credit Card,Social Media - Facebook,2,1703.2,2025-08-18,851.6,At Risk,Bronze
 CUST118356,2023-03-28,Male,41.0,35-44,Rajasthan,Jodhpur,625,Regular,Mobile Web,Credit Card,Organic Search,6,184508.56,2024-02-20,30751.43,Churned,Silver
@@ -18403,7 +18403,7 @@ CUST118400,2025-07-16,Female,42.0,35-44,Tamil Nadu,Chennai,575,Regular,Mobile Ap
 CUST118401,2023-03-26,Male,34.0,25-34,Tamil Nadu,Coimbatore,817,Regular,Mobile App,Gift Card,Paid Search,2,75330.36,2023-07-05,37665.18,Churned,Silver
 CUST118402,2025-12-21,Male,37.0,35-44,Karnataka,Bengaluru,265,New,Mobile App,Debit Card,Influencer Marketing,2,13599.18,2025-12-24,6799.59,Active,Bronze
 CUST118403,2024-12-15,Female,36.0,35-44,Karnataka,Mysuru,820,Premium,Mobile Web,Net Banking,Paid Search,10,246714.4,2025-04-28,24671.44,Churned,Gold
-CUST118404,2023-03-22,Male,,18-24,Tamil Nadu,Coimbatore,723,New,Unknown,Cash on Delivery,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
+CUST118404,2023-03-22,Male,,18-24,Tamil Nadu,Coimbatore,723,New,,Cash on Delivery,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
 CUST118405,2023-03-16,Female,30.0,25-34,Delhi,New Delhi,174,Regular,Mobile App,Net Banking,Influencer Marketing,4,14564.54,2025-08-05,3641.14,At Risk,Bronze
 CUST118406,2025-10-05,Male,30.0,25-34,Rajasthan,Jaipur,327,Budget,Mobile App,Credit Card,SMS Marketing,7,141545.72,2025-12-31,20220.82,Active,Silver
 CUST118407,2025-08-29,Female,29.0,25-34,Maharashtra,Nagpur,611,Budget,Mobile App,Wallet,Influencer Marketing,1,5307.96,2025-11-01,5307.96,Active,Bronze
@@ -18664,7 +18664,7 @@ CUST118661,2023-04-29,Male,30.0,25-34,Maharashtra,Nagpur,821,Regular,Desktop,UPI
 CUST118662,2024-06-01,Male,44.0,35-44,Maharashtra,Pune,355,Regular,Mobile App,UPI,Influencer Marketing,4,55198.98,2025-06-28,13799.74,Churned,Bronze
 CUST118663,2024-10-24,Female,22.0,18-24,Punjab,Ludhiana,221,Regular,Mobile App,Net Banking,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST118664,2023-06-28,Female,19.0,18-24,Tamil Nadu,Chennai,753,Regular,Mobile App,UPI,Direct/App,5,179246.5,2023-11-10,35849.3,Churned,Silver
-CUST118665,2024-11-02,Female,,18-24,Maharashtra,Nagpur,743,Regular,Unknown,UPI,Affiliate,2,10501.05,2025-01-21,5250.52,Churned,Bronze
+CUST118665,2024-11-02,Female,,18-24,Maharashtra,Nagpur,743,Regular,,UPI,Affiliate,2,10501.05,2025-01-21,5250.52,Churned,Bronze
 CUST118666,2023-02-10,Other,40.0,35-44,Maharashtra,Pune,779,Regular,Mobile App,UPI,Paid Search,7,116285.92,2025-08-31,16612.27,At Risk,Silver
 CUST118667,2023-03-05,Female,27.0,25-34,Maharashtra,Pune,444,Regular,Mobile App,Credit Card,Organic Search,4,40875.35,2023-04-08,10218.84,Churned,Bronze
 CUST118668,2025-12-13,Female,37.0,35-44,Tamil Nadu,Chennai,538,Budget,Mobile Web,UPI,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -18723,7 +18723,7 @@ CUST118720,2025-11-03,Male,32.0,25-34,Telangana,Hyderabad,519,Regular,Desktop,Ca
 CUST118721,2023-02-13,Male,29.0,25-34,Andhra Pradesh,Visakhapatnam,298,Budget,Mobile Web,Wallet,Email Marketing,2,2185.52,2024-02-24,1092.76,Churned,Bronze
 CUST118722,2025-12-18,Male,29.0,25-34,Uttar Pradesh,Lucknow,544,Budget,Mobile App,Credit Card,Referral,2,11053.56,2025-12-31,5526.78,Active,Bronze
 CUST118723,2025-07-25,Male,25.0,25-34,Tamil Nadu,Coimbatore,697,Regular,Mobile Web,UPI,Direct/App,6,241013.7,2025-11-12,40168.95,Active,Gold
-CUST118724,2023-01-15,Female,,18-24,West Bengal,Kolkata,577,Regular,Unknown,Cash on Delivery,SMS Marketing,3,18168.52,2023-11-06,6056.17,Churned,Bronze
+CUST118724,2023-01-15,Female,,18-24,West Bengal,Kolkata,577,Regular,,Cash on Delivery,SMS Marketing,3,18168.52,2023-11-06,6056.17,Churned,Bronze
 CUST118725,2024-01-12,Female,40.0,35-44,Punjab,Amritsar,621,New,Mobile App,UPI,Referral,3,93253.81,2024-08-04,31084.6,Churned,Silver
 CUST118726,2023-02-15,Male,33.0,25-34,Madhya Pradesh,Indore,764,Regular,Mobile App,Net Banking,Paid Search,3,21846.73,2024-04-18,7282.24,Churned,Bronze
 CUST118727,2023-02-17,Male,46.0,45-54,Haryana,Gurugram,272,Budget,Mobile Web,UPI,Social Media - Facebook,1,19358.43,2023-08-19,19358.43,Churned,Bronze
@@ -19121,7 +19121,7 @@ CUST119118,2024-11-14,Male,29.0,25-34,Andhra Pradesh,Vijayawada,238,Regular,Mobi
 CUST119119,2025-08-30,Female,19.0,18-24,Uttar Pradesh,Lucknow,133,Regular,Mobile App,Wallet,Direct/App,3,22942.5,2025-12-15,7647.5,Active,Bronze
 CUST119120,2023-08-11,Male,28.0,25-34,Uttar Pradesh,Noida,702,New,Mobile Web,EMI,Social Media - Instagram,2,30215.45,2023-09-22,15107.72,Churned,Bronze
 CUST119121,2023-02-18,Male,36.0,35-44,Tamil Nadu,Chennai,425,Regular,Mobile Web,Debit Card,Social Media - Instagram,4,134437.06,2025-07-05,33609.26,At Risk,Silver
-CUST119122,2023-11-26,Female,,25-34,Telangana,Hyderabad,634,New,Unknown,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
+CUST119122,2023-11-26,Female,,25-34,Telangana,Hyderabad,634,New,,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST119123,2023-01-13,Female,38.0,35-44,Madhya Pradesh,Bhopal,587,New,Mobile Web,Cash on Delivery,SMS Marketing,1,16767.76,2023-03-11,16767.76,Churned,Bronze
 CUST119124,2025-08-16,Male,34.0,25-34,Punjab,Amritsar,818,New,Mobile Web,Wallet,Influencer Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST119125,2024-12-22,Female,41.0,35-44,Telangana,Hyderabad,160,Budget,Mobile App,Wallet,Social Media - Instagram,1,37960.65,2024-12-25,37960.65,Churned,Bronze
@@ -19191,7 +19191,7 @@ CUST119188,2023-02-19,Male,43.0,35-44,Uttar Pradesh,Noida,699,Regular,Desktop,De
 CUST119189,2025-03-14,Male,53.0,45-54,Haryana,Faridabad,313,Regular,Mobile Web,UPI,Organic Search,3,5212.83,2025-08-17,1737.61,At Risk,Bronze
 CUST119190,2023-02-28,Female,30.0,25-34,Madhya Pradesh,Indore,729,Budget,Mobile App,Cash on Delivery,Email Marketing,4,11387.46,2023-04-21,2846.86,Churned,Bronze
 CUST119191,2025-12-21,Male,21.0,18-24,Gujarat,Vadodara,525,Budget,Mobile App,Wallet,Paid Search,2,17046.86,2025-12-28,8523.43,Active,Bronze
-CUST119192,2023-06-13,Male,,45-54,Gujarat,Vadodara,495,Premium,Unknown,Cash on Delivery,Paid Search,13,1091212.75,2025-12-12,83939.44,Active,Platinum
+CUST119192,2023-06-13,Male,,45-54,Gujarat,Vadodara,495,Premium,,Cash on Delivery,Paid Search,13,1091212.75,2025-12-12,83939.44,Active,Platinum
 CUST119193,2023-12-24,Male,40.0,35-44,Maharashtra,Pune,693,Regular,Mobile App,Wallet,Affiliate,7,248257.54,2025-01-17,35465.36,Churned,Gold
 CUST119194,2025-03-20,Male,34.0,25-34,Karnataka,Mysuru,184,Regular,Mobile App,Cash on Delivery,SMS Marketing,2,68690.58,2025-12-18,34345.29,Active,Silver
 CUST119195,2025-12-16,Male,27.0,25-34,Telangana,Warangal,577,New,Mobile App,Credit Card,Paid Search,1,5254.2,2025-12-23,5254.2,Active,Bronze
@@ -19348,7 +19348,7 @@ CUST119345,2025-02-15,Male,31.0,25-34,Telangana,Hyderabad,579,Regular,Desktop,Cr
 CUST119346,2023-10-12,Female,36.0,35-44,Tamil Nadu,Chennai,368,Regular,Mobile Web,UPI,Organic Search,3,38069.49,2024-10-11,12689.83,Churned,Bronze
 CUST119347,2023-02-16,Female,34.0,25-34,Rajasthan,Jaipur,306,Regular,Mobile Web,Debit Card,Organic Search,2,11458.12,2023-05-02,5729.06,Churned,Bronze
 CUST119348,2023-03-23,Male,23.0,18-24,Uttar Pradesh,Noida,137,Regular,Mobile App,EMI,Affiliate,8,76290.54,2023-12-28,9536.32,Churned,Silver
-CUST119349,2025-12-30,Male,,35-44,Madhya Pradesh,Indore,294,Premium,Unknown,UPI,Paid Search,10,290420.92,2025-12-31,29042.09,Active,Gold
+CUST119349,2025-12-30,Male,,35-44,Madhya Pradesh,Indore,294,Premium,,UPI,Paid Search,10,290420.92,2025-12-31,29042.09,Active,Gold
 CUST119350,2023-02-15,Female,45.0,45-54,Uttar Pradesh,Lucknow,563,Budget,Mobile App,Debit Card,Organic Search,2,51493.78,2023-04-22,25746.89,Churned,Bronze
 CUST119351,2023-05-29,Female,46.0,45-54,West Bengal,Kolkata,421,Budget,Desktop,Wallet,Organic Search,3,8138.34,2024-06-17,2712.78,Churned,Bronze
 CUST119352,2023-04-22,Male,34.0,25-34,Tamil Nadu,Coimbatore,818,Premium,Mobile Web,UPI,Direct/App,5,257443.62,2024-07-18,51488.72,Churned,Gold
@@ -19838,7 +19838,7 @@ CUST119835,2023-04-04,Male,27.0,25-34,Karnataka,Mysuru,164,Premium,Desktop,UPI,D
 CUST119836,2023-05-11,Male,36.0,35-44,Maharashtra,Mumbai,167,New,Mobile App,Credit Card,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
 CUST119837,2024-05-14,Female,35.0,35-44,Telangana,Hyderabad,320,New,Mobile App,Credit Card,Social Media - Instagram,1,8001.0,2024-11-01,8001.0,Churned,Bronze
 CUST119838,2023-06-01,Male,41.0,35-44,Punjab,Ludhiana,707,Regular,Mobile App,Debit Card,Email Marketing,3,51557.9,2025-01-04,17185.97,Churned,Bronze
-CUST119839,2025-10-10,Female,,18-24,Madhya Pradesh,Indore,768,Regular,Unknown,Debit Card,Paid Search,5,40161.77,2025-12-14,8032.35,Active,Bronze
+CUST119839,2025-10-10,Female,,18-24,Madhya Pradesh,Indore,768,Regular,,Debit Card,Paid Search,5,40161.77,2025-12-14,8032.35,Active,Bronze
 CUST119840,2025-12-25,Female,40.0,35-44,Kerala,Thiruvananthapuram,221,Budget,Mobile App,UPI,Affiliate,3,122837.08,2025-12-31,40945.69,Active,Silver
 CUST119841,2024-11-25,Male,48.0,45-54,West Bengal,Kolkata,665,New,Desktop,EMI,Paid Search,1,2798.83,2025-01-01,2798.83,Churned,Bronze
 CUST119842,2023-06-08,Male,31.0,25-34,Madhya Pradesh,Bhopal,533,New,Mobile App,Net Banking,Social Media - Facebook,1,14648.66,2023-06-19,14648.66,Churned,Bronze
@@ -19945,7 +19945,7 @@ CUST119942,2025-12-15,Male,39.0,35-44,Gujarat,Ahmedabad,703,Premium,Mobile Web,N
 CUST119943,2025-08-11,Male,42.0,35-44,Delhi,New Delhi,567,Regular,Mobile App,Debit Card,Organic Search,4,227556.21,2025-11-20,56889.05,Active,Gold
 CUST119944,2024-07-13,Female,28.0,25-34,Madhya Pradesh,Bhopal,123,Premium,Mobile App,Wallet,Social Media - Instagram,10,115016.39,2025-12-25,11501.64,Active,Silver
 CUST119945,2024-10-31,Female,33.0,25-34,Telangana,Hyderabad,173,Budget,Mobile App,Wallet,Organic Search,1,28350.0,2025-06-23,28350.0,Churned,Bronze
-CUST119946,2024-01-01,Male,,18-24,Gujarat,Surat,642,Regular,Unknown,Credit Card,Social Media - Instagram,1,1803.38,2025-08-20,1803.38,At Risk,Bronze
+CUST119946,2024-01-01,Male,,18-24,Gujarat,Surat,642,Regular,,Credit Card,Social Media - Instagram,1,1803.38,2025-08-20,1803.38,At Risk,Bronze
 CUST119947,2023-08-26,Male,29.0,25-34,Tamil Nadu,Coimbatore,866,Budget,Mobile App,Credit Card,Social Media - Instagram,2,42460.53,2024-02-16,21230.26,Churned,Bronze
 CUST119948,2024-09-07,Male,29.0,25-34,Gujarat,Vadodara,401,Budget,Mobile App,Net Banking,SMS Marketing,3,35621.98,2025-02-03,11873.99,Churned,Bronze
 CUST119949,2024-08-16,Female,38.0,35-44,Bihar,Patna,697,Regular,Mobile App,Wallet,Paid Search,8,69879.66,2025-06-18,8734.96,Churned,Silver
@@ -20138,7 +20138,7 @@ CUST120135,2023-02-07,Female,28.0,25-34,Rajasthan,Jodhpur,635,Premium,Desktop,UP
 CUST120136,2023-12-02,Male,47.0,45-54,Uttar Pradesh,Lucknow,846,Regular,Mobile Web,Credit Card,Referral,4,316522.82,2025-10-03,79130.7,Active,Gold
 CUST120137,2023-09-15,Male,27.0,25-34,West Bengal,Howrah,514,Regular,Mobile App,UPI,Direct/App,3,8794.01,2024-07-13,2931.34,Churned,Bronze
 CUST120138,2025-06-21,Male,18.0,18-24,Delhi,New Delhi,664,Regular,Mobile App,Net Banking,Influencer Marketing,7,682692.83,2025-10-07,97527.55,Active,Platinum
-CUST120139,2024-02-24,Female,,25-34,Maharashtra,Pune,429,New,Unknown,Credit Card,Paid Search,1,3951.26,2024-03-13,3951.26,Churned,Bronze
+CUST120139,2024-02-24,Female,,25-34,Maharashtra,Pune,429,New,,Credit Card,Paid Search,1,3951.26,2024-03-13,3951.26,Churned,Bronze
 CUST120140,2023-01-03,Male,41.0,35-44,Uttar Pradesh,Kanpur,158,Budget,Mobile App,Wallet,Influencer Marketing,2,4192.55,2024-08-20,2096.28,Churned,Bronze
 CUST120141,2023-09-09,Male,24.0,18-24,Gujarat,Surat,757,Premium,Mobile App,Credit Card,Referral,13,275050.87,2024-06-09,21157.76,Churned,Gold
 CUST120142,2024-09-19,Male,29.0,25-34,Uttar Pradesh,Noida,847,Regular,Mobile App,UPI,Social Media - Instagram,5,39654.83,2025-09-03,7930.97,At Risk,Bronze
@@ -20180,7 +20180,7 @@ CUST120177,2023-02-04,Female,37.0,35-44,Delhi,New Delhi,847,Regular,Mobile App,C
 CUST120178,2024-02-16,Female,40.0,35-44,Uttar Pradesh,Noida,749,Regular,Desktop,UPI,Paid Search,4,104274.98,2024-04-05,26068.74,Churned,Silver
 CUST120179,2023-09-24,Female,28.0,25-34,Andhra Pradesh,Visakhapatnam,669,New,Mobile Web,UPI,Social Media - Instagram,2,4092.49,2024-11-08,2046.24,Churned,Bronze
 CUST120180,2025-11-08,Female,21.0,18-24,Gujarat,Surat,748,Budget,Mobile App,UPI,Paid Search,3,110400.99,2025-12-21,36800.33,Active,Silver
-CUST120181,2025-03-07,Female,,35-44,Andhra Pradesh,Vijayawada,598,Regular,Unknown,UPI,Email Marketing,4,119118.04,2025-09-14,29779.51,At Risk,Silver
+CUST120181,2025-03-07,Female,,35-44,Andhra Pradesh,Vijayawada,598,Regular,,UPI,Email Marketing,4,119118.04,2025-09-14,29779.51,At Risk,Silver
 CUST120182,2025-10-24,Female,41.0,35-44,Tamil Nadu,Chennai,618,Regular,Mobile App,UPI,Social Media - Facebook,8,51193.7,2025-12-26,6399.21,Active,Bronze
 CUST120183,2025-12-10,Female,32.0,25-34,Maharashtra,Pune,672,Budget,Mobile App,Debit Card,Email Marketing,1,1050.63,2025-12-22,1050.63,Active,Bronze
 CUST120184,2024-09-24,Female,21.0,18-24,Delhi,New Delhi,248,Regular,Desktop,Credit Card,Paid Search,5,124045.95,2024-12-21,24809.19,Churned,Silver
@@ -20197,7 +20197,7 @@ CUST120194,2024-04-24,Male,20.0,18-24,Punjab,Amritsar,659,New,Mobile App,UPI,Org
 CUST120195,2025-07-25,Male,20.0,18-24,Telangana,Hyderabad,440,Regular,Mobile Web,UPI,Organic Search,8,178227.27,2025-12-17,22278.41,Active,Silver
 CUST120196,2024-10-29,Female,29.0,25-34,Gujarat,Vadodara,796,Regular,Mobile App,Cash on Delivery,Paid Search,5,18327.69,2025-04-28,3665.54,Churned,Bronze
 CUST120197,2023-05-24,Female,31.0,25-34,Haryana,Gurugram,825,Regular,Mobile Web,UPI,Organic Search,7,303962.48,2024-01-26,43423.21,Churned,Gold
-CUST120198,2025-07-15,Female,,25-34,Haryana,Gurugram,799,Regular,Unknown,Credit Card,Social Media - Instagram,5,42854.86,2025-12-15,8570.97,Active,Bronze
+CUST120198,2025-07-15,Female,,25-34,Haryana,Gurugram,799,Regular,,Credit Card,Social Media - Instagram,5,42854.86,2025-12-15,8570.97,Active,Bronze
 CUST120199,2025-11-24,Female,34.0,25-34,West Bengal,Kolkata,602,Budget,Mobile App,Cash on Delivery,Organic Search,2,2655.24,2025-12-11,1327.62,Active,Bronze
 CUST120200,2023-01-18,Male,30.0,25-34,Tamil Nadu,Chennai,610,Premium,Mobile App,Cash on Delivery,Social Media - Instagram,12,424550.86,2023-09-07,35379.24,Churned,Platinum
 CUST120201,2024-05-19,Female,24.0,18-24,Haryana,Faridabad,886,Regular,Mobile App,UPI,Direct/App,3,3470.18,2025-09-06,1156.73,At Risk,Bronze
@@ -20478,7 +20478,7 @@ CUST120475,2025-07-25,Female,25.0,25-34,Haryana,Faridabad,756,Premium,Mobile App
 CUST120476,2024-12-12,Male,30.0,25-34,Rajasthan,Jodhpur,607,Budget,Mobile Web,UPI,Organic Search,1,1582.35,2025-04-30,1582.35,Churned,Bronze
 CUST120477,2024-12-31,Male,31.0,25-34,Gujarat,Surat,832,Regular,Mobile Web,UPI,Social Media - Instagram,1,4382.49,2025-04-18,4382.49,Churned,Bronze
 CUST120478,2023-10-13,Female,40.0,35-44,Kerala,Kochi,335,New,Desktop,Debit Card,Direct/App,0,0.0,,0.0,Never Purchased,Bronze
-CUST120479,2024-03-22,Male,,45-54,Gujarat,Surat,703,Budget,Unknown,UPI,Organic Search,2,30630.6,2024-08-23,15315.3,Churned,Bronze
+CUST120479,2024-03-22,Male,,45-54,Gujarat,Surat,703,Budget,,UPI,Organic Search,2,30630.6,2024-08-23,15315.3,Churned,Bronze
 CUST120480,2025-09-02,Male,37.0,35-44,Bihar,Patna,492,Regular,Mobile App,Net Banking,Email Marketing,2,3742.64,2025-11-24,1871.32,Active,Bronze
 CUST120481,2023-05-08,Male,32.0,25-34,Telangana,Warangal,181,Budget,Mobile App,UPI,Direct/App,1,29089.3,2024-04-08,29089.3,Churned,Bronze
 CUST120482,2023-05-20,Female,39.0,35-44,Bihar,Patna,436,Budget,Mobile App,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -20522,7 +20522,7 @@ CUST120519,2024-09-23,Male,34.0,25-34,Uttar Pradesh,Noida,529,New,Mobile Web,UPI
 CUST120520,2024-01-15,Female,40.0,35-44,Gujarat,Vadodara,448,Budget,Mobile App,Debit Card,SMS Marketing,1,3469.83,2024-04-12,3469.83,Churned,Bronze
 CUST120521,2025-06-17,Male,24.0,18-24,Uttar Pradesh,Noida,764,Regular,Mobile App,Wallet,Social Media - Instagram,4,24482.9,2025-10-04,6120.72,Active,Bronze
 CUST120522,2023-05-12,Female,19.0,18-24,Haryana,Gurugram,698,Budget,Desktop,Wallet,Referral,3,16079.88,2024-03-12,5359.96,Churned,Bronze
-CUST120523,2025-06-13,Male,,35-44,Gujarat,Vadodara,542,Budget,Unknown,UPI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
+CUST120523,2025-06-13,Male,,35-44,Gujarat,Vadodara,542,Budget,,UPI,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
 CUST120524,2023-06-08,Female,35.0,35-44,Punjab,Amritsar,401,Regular,Mobile App,Debit Card,Paid Search,4,91882.88,2023-12-19,22970.72,Churned,Silver
 CUST120525,2023-07-01,Female,38.0,35-44,Gujarat,Vadodara,601,New,Mobile App,Net Banking,Referral,1,7810.42,2023-12-13,7810.42,Churned,Bronze
 CUST120526,2023-06-01,Female,39.0,35-44,Andhra Pradesh,Vijayawada,249,New,Mobile App,Debit Card,Organic Search,1,6155.1,2023-07-21,6155.1,Churned,Bronze
@@ -21077,9 +21077,9 @@ CUST121074,2023-11-22,Male,44.0,35-44,Uttar Pradesh,Kanpur,838,Budget,Mobile App
 CUST121075,2023-01-29,Male,40.0,35-44,Haryana,Gurugram,125,Budget,Mobile App,Net Banking,Influencer Marketing,2,13568.1,2024-07-28,6784.05,Churned,Bronze
 CUST121076,2023-11-25,Male,18.0,18-24,Rajasthan,Jodhpur,404,Budget,Mobile App,UPI,Organic Search,3,23671.2,2025-06-08,7890.4,Churned,Bronze
 CUST121077,2025-02-20,Male,20.0,18-24,Tamil Nadu,Chennai,521,Budget,Mobile Web,Wallet,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
-CUST121078,2023-03-30,Male,,35-44,Tamil Nadu,Coimbatore,464,Budget,Unknown,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
+CUST121078,2023-03-30,Male,,35-44,Tamil Nadu,Coimbatore,464,Budget,,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST121079,2023-06-17,Male,28.0,25-34,Punjab,Ludhiana,728,Budget,Mobile Web,UPI,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST121080,2025-10-25,Female,,45-54,Haryana,Faridabad,771,New,Unknown,Credit Card,Paid Search,2,3127.32,2025-12-31,1563.66,Active,Bronze
+CUST121080,2025-10-25,Female,,45-54,Haryana,Faridabad,771,New,,Credit Card,Paid Search,2,3127.32,2025-12-31,1563.66,Active,Bronze
 CUST121081,2025-07-09,Female,42.0,35-44,Tamil Nadu,Coimbatore,624,Regular,Mobile Web,Pay Later,Direct/App,6,88421.92,2025-12-13,14736.99,Active,Silver
 CUST121082,2023-07-11,Male,35.0,35-44,Uttar Pradesh,Lucknow,164,New,Mobile App,Credit Card,Email Marketing,1,3878.8,2024-04-29,3878.8,Churned,Bronze
 CUST121083,2025-11-02,Male,18.0,18-24,Kerala,Thiruvananthapuram,671,Regular,Mobile App,Cash on Delivery,Social Media - Instagram,2,166882.59,2025-12-27,83441.3,Active,Silver
@@ -21134,7 +21134,7 @@ CUST121131,2023-01-21,Male,23.0,18-24,Telangana,Warangal,793,New,Mobile Web,UPI,
 CUST121132,2024-07-19,Male,25.0,25-34,Maharashtra,Pune,870,Budget,Mobile Web,Cash on Delivery,Social Media - Facebook,3,6424.8,2025-04-20,2141.6,Churned,Bronze
 CUST121133,2025-02-12,Male,41.0,35-44,West Bengal,Howrah,397,Regular,Mobile Web,Debit Card,Paid Search,2,102601.49,2025-04-28,51300.74,Churned,Silver
 CUST121134,2023-07-16,Female,42.0,35-44,Punjab,Amritsar,458,Regular,Mobile App,Cash on Delivery,Organic Search,1,33983.04,2024-02-11,33983.04,Churned,Bronze
-CUST121135,2023-09-12,Female,,25-34,Delhi,New Delhi,262,Premium,Unknown,Debit Card,Email Marketing,8,136922.04,2023-11-12,17115.26,Churned,Silver
+CUST121135,2023-09-12,Female,,25-34,Delhi,New Delhi,262,Premium,,Debit Card,Email Marketing,8,136922.04,2023-11-12,17115.26,Churned,Silver
 CUST121136,2023-07-10,Male,26.0,25-34,Rajasthan,Jodhpur,244,Regular,Mobile Web,Cash on Delivery,Social Media - Instagram,3,202899.38,2023-11-12,67633.13,Churned,Gold
 CUST121137,2025-01-09,Male,26.0,25-34,West Bengal,Howrah,453,Budget,Mobile App,Wallet,Referral,3,46140.85,2025-02-08,15380.28,Churned,Bronze
 CUST121138,2023-08-27,Male,28.0,25-34,Tamil Nadu,Chennai,492,Premium,Mobile App,Credit Card,Social Media - Facebook,9,197450.99,2024-01-28,21939.0,Churned,Gold
@@ -21181,7 +21181,7 @@ CUST121178,2024-06-14,Female,35.0,35-44,Punjab,Amritsar,878,Premium,Mobile App,U
 CUST121179,2024-02-05,Male,48.0,45-54,Maharashtra,Nagpur,618,Premium,Mobile App,Cash on Delivery,Organic Search,8,88591.45,2025-11-07,11073.93,Active,Silver
 CUST121180,2023-08-13,Female,19.0,18-24,Gujarat,Surat,319,Budget,Mobile App,Cash on Delivery,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST121181,2025-08-27,Male,45.0,45-54,Gujarat,Vadodara,839,Regular,Mobile Web,Net Banking,Organic Search,11,547548.33,2025-12-28,49777.12,Active,Platinum
-CUST121182,2023-04-03,Male,,18-24,Maharashtra,Nagpur,483,Regular,Unknown,Credit Card,Organic Search,2,26656.25,2023-11-14,13328.12,Churned,Bronze
+CUST121182,2023-04-03,Male,,18-24,Maharashtra,Nagpur,483,Regular,,Credit Card,Organic Search,2,26656.25,2023-11-14,13328.12,Churned,Bronze
 CUST121183,2023-06-18,Male,24.0,18-24,Telangana,Warangal,170,Regular,Desktop,UPI,Direct/App,3,8564.53,2025-11-14,2854.84,Active,Bronze
 CUST121184,2024-02-04,Male,34.0,25-34,Uttar Pradesh,Lucknow,739,New,Mobile App,UPI,Influencer Marketing,1,3088.47,2025-03-22,3088.47,Churned,Bronze
 CUST121185,2023-08-22,Female,25.0,25-34,Haryana,Gurugram,525,Budget,Mobile App,UPI,Organic Search,2,30185.3,2024-10-16,15092.65,Churned,Bronze
@@ -21422,7 +21422,7 @@ CUST121419,2024-11-03,Male,19.0,18-24,Uttar Pradesh,Noida,886,Budget,Mobile App,
 CUST121420,2023-06-26,Female,20.0,18-24,Maharashtra,Pune,292,Regular,Mobile App,Debit Card,Referral,7,420832.34,2025-05-04,60118.91,Churned,Platinum
 CUST121421,2023-10-14,Female,29.0,25-34,Kerala,Kochi,181,Budget,Mobile App,Debit Card,Social Media - Facebook,1,8840.53,2025-02-12,8840.53,Churned,Bronze
 CUST121422,2024-09-10,Male,24.0,18-24,Maharashtra,Pune,506,Regular,Mobile App,Credit Card,Organic Search,3,67214.97,2025-12-25,22404.99,Active,Silver
-CUST121423,2025-01-01,Male,,18-24,Karnataka,Mysuru,380,Regular,Unknown,Credit Card,Organic Search,4,38803.38,2025-06-23,9700.84,Churned,Bronze
+CUST121423,2025-01-01,Male,,18-24,Karnataka,Mysuru,380,Regular,,Credit Card,Organic Search,4,38803.38,2025-06-23,9700.84,Churned,Bronze
 CUST121424,2023-08-21,Male,32.0,25-34,Delhi,New Delhi,397,Budget,Mobile App,UPI,Paid Search,1,16472.19,2024-01-02,16472.19,Churned,Bronze
 CUST121425,2025-06-26,Male,36.0,35-44,Haryana,Faridabad,313,Regular,Mobile Web,Pay Later,Organic Search,3,32632.95,2025-11-24,10877.65,Active,Bronze
 CUST121426,2024-01-26,Male,25.0,25-34,Maharashtra,Pune,135,Budget,Mobile App,UPI,Influencer Marketing,0,0.0,,0.0,Never Purchased,Bronze
@@ -21741,7 +21741,7 @@ CUST121738,2023-01-13,Male,26.0,25-34,Gujarat,Vadodara,696,Regular,Mobile App,Cr
 CUST121739,2023-06-03,Male,39.0,35-44,Uttar Pradesh,Noida,267,Regular,Mobile Web,Cash on Delivery,Organic Search,8,594715.48,2025-01-28,74339.44,Churned,Platinum
 CUST121740,2023-07-01,Male,18.0,18-24,Madhya Pradesh,Bhopal,897,Regular,Desktop,UPI,Influencer Marketing,5,445042.82,2024-12-08,89008.56,Churned,Platinum
 CUST121741,2024-01-18,Female,35.0,35-44,Bihar,Patna,573,Regular,Mobile Web,UPI,Organic Search,5,194884.0,2025-11-10,38976.8,Active,Gold
-CUST121742,2024-05-24,Female,,35-44,Karnataka,Bengaluru,403,Budget,Unknown,Cash on Delivery,Organic Search,7,75205.46,2025-12-21,10743.64,Active,Silver
+CUST121742,2024-05-24,Female,,35-44,Karnataka,Bengaluru,403,Budget,,Cash on Delivery,Organic Search,7,75205.46,2025-12-21,10743.64,Active,Silver
 CUST121743,2024-11-10,Male,28.0,25-34,Telangana,Warangal,322,Regular,Mobile App,UPI,Social Media - Instagram,4,153786.26,2025-12-01,38446.56,Active,Silver
 CUST121744,2024-01-18,Female,22.0,18-24,Maharashtra,Pune,645,Budget,Mobile App,Credit Card,Affiliate,1,11521.12,2024-11-05,11521.12,Churned,Bronze
 CUST121745,2023-05-23,Male,38.0,35-44,Uttar Pradesh,Lucknow,124,Budget,Mobile App,Credit Card,Paid Search,2,723.69,2024-01-03,361.84,Churned,Bronze
@@ -21915,7 +21915,7 @@ CUST121912,2025-08-06,Female,22.0,18-24,Maharashtra,Nagpur,193,Budget,Desktop,Wa
 CUST121913,2023-03-21,Female,18.0,18-24,Haryana,Gurugram,568,New,Mobile Web,UPI,Organic Search,1,4961.25,2023-06-19,4961.25,Churned,Bronze
 CUST121914,2025-04-04,Male,38.0,35-44,Rajasthan,Jodhpur,703,Budget,Mobile Web,UPI,Organic Search,2,9471.53,2025-05-18,4735.77,Churned,Bronze
 CUST121915,2024-07-17,Male,26.0,25-34,Punjab,Ludhiana,581,Regular,Mobile App,Net Banking,Referral,0,0.0,,0.0,Never Purchased,Bronze
-CUST121916,2023-04-23,Other,,35-44,Haryana,Faridabad,269,Regular,Unknown,Cash on Delivery,Influencer Marketing,3,36889.55,2023-12-30,12296.52,Churned,Bronze
+CUST121916,2023-04-23,Other,,35-44,Haryana,Faridabad,269,Regular,,Cash on Delivery,Influencer Marketing,3,36889.55,2023-12-30,12296.52,Churned,Bronze
 CUST121917,2025-11-04,Female,29.0,25-34,Telangana,Warangal,331,Regular,Desktop,Debit Card,Affiliate,4,173103.32,2025-12-26,43275.83,Active,Silver
 CUST121918,2025-05-27,Male,37.0,35-44,Maharashtra,Pune,429,Regular,Mobile App,Wallet,Organic Search,7,122005.96,2025-12-27,17429.42,Active,Silver
 CUST121919,2024-07-21,Male,37.0,35-44,Gujarat,Surat,711,Regular,Mobile App,Cash on Delivery,Organic Search,5,150425.05,2024-08-19,30085.01,Churned,Silver
@@ -22162,7 +22162,7 @@ CUST122159,2023-07-09,Female,34.0,25-34,Gujarat,Ahmedabad,551,Regular,Mobile App
 CUST122160,2024-05-24,Male,29.0,25-34,Karnataka,Bengaluru,377,Regular,Mobile App,Cash on Delivery,Direct/App,7,302566.06,2025-08-07,43223.72,At Risk,Gold
 CUST122161,2023-07-03,Male,27.0,25-34,Gujarat,Ahmedabad,339,Regular,Mobile App,EMI,Organic Search,5,232261.42,2023-09-29,46452.28,Churned,Gold
 CUST122162,2023-01-13,Male,28.0,25-34,Uttar Pradesh,Lucknow,895,Budget,Mobile App,Debit Card,Organic Search,3,24557.71,2023-07-21,8185.9,Churned,Bronze
-CUST122163,2024-10-18,Male,,18-24,Punjab,Ludhiana,851,Budget,Unknown,UPI,Email Marketing,0,0.0,,0.0,Never Purchased,Bronze
+CUST122163,2024-10-18,Male,,18-24,Punjab,Ludhiana,851,Budget,,UPI,Email Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST122164,2023-05-15,Female,30.0,25-34,Haryana,Faridabad,506,Regular,Desktop,Credit Card,Organic Search,5,37420.64,2023-10-05,7484.13,Churned,Bronze
 CUST122165,2025-11-11,Male,23.0,18-24,Haryana,Gurugram,132,New,Mobile App,Debit Card,Paid Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST122166,2023-11-10,Male,20.0,18-24,Madhya Pradesh,Bhopal,491,Budget,Mobile App,UPI,Social Media - Instagram,2,8606.12,2024-07-04,4303.06,Churned,Bronze
@@ -22388,7 +22388,7 @@ CUST122385,2023-07-16,Male,34.0,25-34,Kerala,Thiruvananthapuram,687,Regular,Mobi
 CUST122386,2025-02-26,Female,25.0,25-34,Maharashtra,Pune,581,Premium,Mobile App,Net Banking,Direct/App,13,517396.63,2025-12-22,39799.74,Active,Platinum
 CUST122387,2023-11-22,Male,36.0,35-44,Punjab,Ludhiana,485,New,Mobile App,UPI,Organic Search,1,4977.0,2024-04-27,4977.0,Churned,Bronze
 CUST122388,2025-11-13,Male,18.0,18-24,West Bengal,Kolkata,664,Regular,Mobile App,Debit Card,Affiliate,3,21023.47,2025-12-31,7007.82,Active,Bronze
-CUST122389,2023-01-17,Other,,35-44,Tamil Nadu,Coimbatore,207,Regular,Unknown,Cash on Delivery,Influencer Marketing,3,39454.03,2024-11-02,13151.34,Churned,Bronze
+CUST122389,2023-01-17,Other,,35-44,Tamil Nadu,Coimbatore,207,Regular,,Cash on Delivery,Influencer Marketing,3,39454.03,2024-11-02,13151.34,Churned,Bronze
 CUST122390,2023-01-09,Male,44.0,35-44,Delhi,New Delhi,643,New,Mobile App,Cash on Delivery,Direct/App,1,4066.65,2024-10-11,4066.65,Churned,Bronze
 CUST122391,2024-10-02,Female,32.0,25-34,Maharashtra,Mumbai,344,Budget,Mobile Web,UPI,Social Media - Facebook,1,794.43,2025-12-30,794.43,Active,Bronze
 CUST122392,2024-09-14,Other,18.0,18-24,Punjab,Amritsar,828,Regular,Mobile App,UPI,Direct/App,2,13392.38,2025-03-22,6696.19,Churned,Bronze
@@ -22487,7 +22487,7 @@ CUST122484,2023-07-16,Male,26.0,25-34,Telangana,Warangal,757,Premium,Mobile App,
 CUST122485,2023-02-23,Male,41.0,35-44,Delhi,New Delhi,770,Regular,Mobile App,Credit Card,Organic Search,5,249924.84,2025-03-03,49984.97,Churned,Gold
 CUST122486,2025-11-15,Male,29.0,25-34,Telangana,Hyderabad,306,Regular,Mobile App,Net Banking,Social Media - Instagram,8,96923.76,2025-12-21,12115.47,Active,Silver
 CUST122487,2023-04-14,Female,30.0,25-34,Maharashtra,Pune,227,Budget,Mobile App,Debit Card,Organic Search,2,11037.4,2025-07-20,5518.7,At Risk,Bronze
-CUST122488,2023-03-21,Female,,35-44,West Bengal,Kolkata,582,Regular,Unknown,Net Banking,Organic Search,4,141447.07,2025-02-26,35361.77,Churned,Silver
+CUST122488,2023-03-21,Female,,35-44,West Bengal,Kolkata,582,Regular,,Net Banking,Organic Search,4,141447.07,2025-02-26,35361.77,Churned,Silver
 CUST122489,2023-03-14,Male,35.0,35-44,Uttar Pradesh,Kanpur,178,Premium,Mobile App,Debit Card,Social Media - Instagram,10,121872.19,2023-09-18,12187.22,Churned,Silver
 CUST122490,2023-06-14,Female,32.0,25-34,Tamil Nadu,Coimbatore,409,Budget,Mobile App,UPI,Paid Search,4,56836.39,2024-01-06,14209.1,Churned,Bronze
 CUST122491,2023-06-10,Male,18.0,18-24,Maharashtra,Pune,781,Budget,Mobile Web,Cash on Delivery,Social Media - Facebook,2,31502.0,2024-01-13,15751.0,Churned,Bronze
@@ -22664,7 +22664,7 @@ CUST122661,2024-10-12,Female,29.0,25-34,Tamil Nadu,Chennai,513,Regular,Mobile Ap
 CUST122662,2025-05-19,Male,22.0,18-24,West Bengal,Kolkata,544,Budget,Mobile App,Net Banking,Organic Search,2,25938.08,2025-11-18,12969.04,Active,Bronze
 CUST122663,2025-03-19,Female,36.0,35-44,Gujarat,Vadodara,810,Budget,Mobile App,Credit Card,Paid Search,2,110170.31,2025-04-12,55085.16,Churned,Silver
 CUST122664,2025-09-06,Female,25.0,25-34,Madhya Pradesh,Bhopal,637,New,Mobile App,Pay Later,Organic Search,3,24387.82,2025-10-26,8129.27,Active,Bronze
-CUST122665,2023-10-29,Male,,25-34,Delhi,New Delhi,825,Budget,Unknown,Credit Card,Social Media - Instagram,2,12145.72,2024-04-17,6072.86,Churned,Bronze
+CUST122665,2023-10-29,Male,,25-34,Delhi,New Delhi,825,Budget,,Credit Card,Social Media - Instagram,2,12145.72,2024-04-17,6072.86,Churned,Bronze
 CUST122666,2023-04-17,Male,22.0,18-24,Tamil Nadu,Chennai,528,New,Mobile Web,Wallet,Email Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST122667,2023-04-16,Female,26.0,25-34,Gujarat,Surat,141,New,Mobile Web,Wallet,Direct/App,5,58957.81,2024-11-17,11791.56,Churned,Silver
 CUST122668,2023-09-06,Male,37.0,35-44,Maharashtra,Pune,661,Regular,Mobile App,EMI,Affiliate,3,36189.61,2024-04-05,12063.2,Churned,Bronze
@@ -22682,7 +22682,7 @@ CUST122679,2025-06-26,Male,31.0,25-34,West Bengal,Howrah,316,Regular,Mobile App,
 CUST122680,2025-09-29,Male,34.0,25-34,Uttar Pradesh,Lucknow,459,Regular,Desktop,UPI,Direct/App,3,230658.12,2025-11-26,76886.04,Active,Gold
 CUST122681,2023-08-15,Male,47.0,45-54,Gujarat,Ahmedabad,757,Regular,Mobile Web,Debit Card,Organic Search,5,30963.17,2024-01-10,6192.63,Churned,Bronze
 CUST122682,2023-03-31,Female,24.0,18-24,Telangana,Hyderabad,514,Budget,Mobile App,Wallet,Organic Search,1,143910.43,2023-05-29,143910.43,Churned,Silver
-CUST122683,2023-12-05,Female,,18-24,Telangana,Warangal,424,Premium,Unknown,Credit Card,Direct/App,15,156919.04,2024-01-30,10461.27,Churned,Silver
+CUST122683,2023-12-05,Female,,18-24,Telangana,Warangal,424,Premium,,Credit Card,Direct/App,15,156919.04,2024-01-30,10461.27,Churned,Silver
 CUST122684,2023-01-12,Female,18.0,18-24,Andhra Pradesh,Visakhapatnam,419,Regular,Mobile App,Wallet,Organic Search,5,230536.32,2023-03-05,46107.26,Churned,Gold
 CUST122685,2025-10-19,Female,35.0,35-44,Gujarat,Surat,515,Regular,Mobile App,UPI,Social Media - Facebook,2,20670.3,2025-12-02,10335.15,Active,Bronze
 CUST122686,2024-08-05,Male,39.0,35-44,Maharashtra,Mumbai,314,Regular,Mobile Web,Wallet,Influencer Marketing,3,37263.98,2025-11-13,12421.33,Active,Bronze
@@ -22713,7 +22713,7 @@ CUST122710,2023-11-05,Male,28.0,25-34,Karnataka,Bengaluru,692,Budget,Mobile Web,
 CUST122711,2023-07-07,Female,31.0,25-34,Maharashtra,Nagpur,711,Regular,Mobile App,UPI,Influencer Marketing,5,36743.54,2023-10-02,7348.71,Churned,Bronze
 CUST122712,2025-10-21,Male,43.0,35-44,Rajasthan,Jaipur,874,New,Mobile App,UPI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST122713,2023-06-11,Male,33.0,25-34,Karnataka,Bengaluru,407,Premium,Mobile App,Credit Card,Social Media - Facebook,9,331088.73,2023-07-20,36787.64,Churned,Gold
-CUST122714,2023-02-28,Male,,35-44,Andhra Pradesh,Visakhapatnam,178,Regular,Unknown,UPI,Organic Search,5,111910.57,2025-08-11,22382.11,At Risk,Silver
+CUST122714,2023-02-28,Male,,35-44,Andhra Pradesh,Visakhapatnam,178,Regular,,UPI,Organic Search,5,111910.57,2025-08-11,22382.11,At Risk,Silver
 CUST122715,2023-04-26,Male,31.0,25-34,Madhya Pradesh,Indore,765,Regular,Mobile Web,EMI,Organic Search,9,209628.94,2024-01-23,23292.1,Churned,Gold
 CUST122716,2023-11-24,Male,26.0,25-34,Uttar Pradesh,Noida,693,Budget,Desktop,Cash on Delivery,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
 CUST122717,2023-12-05,Female,26.0,25-34,Madhya Pradesh,Indore,712,Budget,Mobile App,Cash on Delivery,Social Media - Instagram,0,0.0,,0.0,Never Purchased,Bronze
@@ -23084,7 +23084,7 @@ CUST123081,2025-07-07,Male,38.0,35-44,Maharashtra,Mumbai,188,New,Mobile App,Net 
 CUST123082,2023-03-13,Female,29.0,25-34,Andhra Pradesh,Vijayawada,395,Regular,Mobile Web,Debit Card,Organic Search,8,61547.63,2024-06-12,7693.45,Churned,Silver
 CUST123083,2024-04-30,Female,18.0,18-24,Bihar,Patna,582,Regular,Mobile Web,Wallet,Social Media - Facebook,2,6167.33,2025-12-29,3083.66,Active,Bronze
 CUST123084,2024-12-03,Male,30.0,25-34,Punjab,Amritsar,801,Regular,Mobile Web,Debit Card,Organic Search,5,117188.56,2025-12-16,23437.71,Active,Silver
-CUST123085,2023-03-11,Male,,45-54,West Bengal,Kolkata,888,Budget,Unknown,EMI,Paid Search,2,6645.24,2024-12-13,3322.62,Churned,Bronze
+CUST123085,2023-03-11,Male,,45-54,West Bengal,Kolkata,888,Budget,,EMI,Paid Search,2,6645.24,2024-12-13,3322.62,Churned,Bronze
 CUST123086,2024-04-08,Male,18.0,18-24,Tamil Nadu,Coimbatore,872,Budget,Mobile App,Debit Card,SMS Marketing,1,6419.91,2025-04-28,6419.91,Churned,Bronze
 CUST123087,2023-05-26,Other,51.0,45-54,Kerala,Kochi,676,Regular,Mobile App,UPI,Social Media - Facebook,2,15778.71,2024-04-30,7889.36,Churned,Bronze
 CUST123088,2025-08-23,Other,32.0,25-34,Maharashtra,Mumbai,336,New,Mobile App,Credit Card,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
@@ -23588,7 +23588,7 @@ CUST123585,2023-05-08,Male,26.0,25-34,Uttar Pradesh,Kanpur,760,Regular,Mobile Ap
 CUST123586,2024-09-22,Male,23.0,18-24,Gujarat,Surat,770,New,Desktop,UPI,Organic Search,3,11142.6,2025-12-31,3714.2,Active,Bronze
 CUST123587,2025-11-07,Male,50.0,45-54,West Bengal,Howrah,564,Regular,Desktop,Wallet,Organic Search,4,32913.2,2025-12-31,8228.3,Active,Bronze
 CUST123588,2025-10-16,Male,24.0,18-24,Madhya Pradesh,Indore,615,Budget,Mobile Web,Cash on Delivery,Referral,2,91841.19,2025-12-04,45920.6,Active,Silver
-CUST123589,2024-03-14,Male,,25-34,Tamil Nadu,Coimbatore,676,Budget,Unknown,Wallet,Direct/App,2,20462.61,2024-04-09,10231.3,Churned,Bronze
+CUST123589,2024-03-14,Male,,25-34,Tamil Nadu,Coimbatore,676,Budget,,Wallet,Direct/App,2,20462.61,2024-04-09,10231.3,Churned,Bronze
 CUST123590,2024-10-27,Male,22.0,18-24,Uttar Pradesh,Kanpur,880,Regular,Mobile Web,Cash on Delivery,Social Media - Instagram,7,121041.69,2025-06-15,17291.67,Churned,Silver
 CUST123591,2023-02-01,Male,40.0,35-44,Uttar Pradesh,Noida,410,Regular,Mobile Web,Cash on Delivery,Direct/App,3,16824.46,2023-04-06,5608.15,Churned,Bronze
 CUST123592,2023-01-06,Female,18.0,18-24,Punjab,Ludhiana,370,Premium,Mobile App,Debit Card,Organic Search,13,104511.44,2024-04-06,8039.34,Churned,Silver
@@ -23947,7 +23947,7 @@ CUST123944,2023-02-24,Male,37.0,35-44,West Bengal,Howrah,860,Regular,Mobile App,
 CUST123945,2025-06-06,Female,20.0,18-24,Haryana,Gurugram,729,Budget,Mobile App,Cash on Delivery,Email Marketing,4,131707.74,2025-07-10,32926.94,At Risk,Silver
 CUST123946,2024-11-10,Female,25.0,25-34,Gujarat,Vadodara,852,Premium,Mobile App,Cash on Delivery,Organic Search,7,113922.91,2025-12-22,16274.7,Active,Silver
 CUST123947,2025-07-01,Female,24.0,18-24,Madhya Pradesh,Indore,139,Regular,Mobile Web,UPI,Email Marketing,3,63452.87,2025-09-27,21150.96,At Risk,Silver
-CUST123948,2025-04-02,Male,,25-34,Tamil Nadu,Coimbatore,484,Premium,Unknown,Wallet,Social Media - Instagram,5,141203.07,2025-10-24,28240.61,Active,Silver
+CUST123948,2025-04-02,Male,,25-34,Tamil Nadu,Coimbatore,484,Premium,,Wallet,Social Media - Instagram,5,141203.07,2025-10-24,28240.61,Active,Silver
 CUST123949,2025-10-22,Female,39.0,35-44,Madhya Pradesh,Bhopal,302,New,Mobile App,Net Banking,Affiliate,0,0.0,,0.0,Never Purchased,Bronze
 CUST123950,2025-10-07,Female,36.0,35-44,Uttar Pradesh,Lucknow,716,Regular,Mobile App,Cash on Delivery,Email Marketing,4,25932.8,2025-12-26,6483.2,Active,Bronze
 CUST123951,2025-07-06,Male,27.0,25-34,Tamil Nadu,Chennai,754,Budget,Mobile App,Credit Card,Organic Search,3,35083.18,2025-11-25,11694.39,Active,Bronze
@@ -24015,7 +24015,7 @@ CUST124012,2023-01-26,Male,29.0,25-34,Tamil Nadu,Chennai,612,New,Desktop,Debit C
 CUST124013,2023-01-24,Female,32.0,25-34,Maharashtra,Mumbai,577,Regular,Mobile App,Cash on Delivery,Direct/App,4,41606.46,2023-04-09,10401.62,Churned,Bronze
 CUST124014,2023-02-07,Male,21.0,18-24,Maharashtra,Pune,293,New,Mobile App,UPI,Organic Search,2,9560.46,2023-06-26,4780.23,Churned,Bronze
 CUST124015,2023-07-18,Female,29.0,25-34,Maharashtra,Mumbai,510,Regular,Mobile Web,Net Banking,Organic Search,3,94517.85,2023-10-28,31505.95,Churned,Silver
-CUST124016,2023-09-22,Male,,35-44,Karnataka,Mysuru,412,Budget,Unknown,UPI,Organic Search,3,9958.57,2024-07-07,3319.52,Churned,Bronze
+CUST124016,2023-09-22,Male,,35-44,Karnataka,Mysuru,412,Budget,,UPI,Organic Search,3,9958.57,2024-07-07,3319.52,Churned,Bronze
 CUST124017,2025-06-19,Female,36.0,35-44,Andhra Pradesh,Visakhapatnam,171,New,Mobile Web,UPI,Influencer Marketing,0,0.0,,0.0,Never Purchased,Bronze
 CUST124018,2023-12-05,Female,41.0,35-44,Gujarat,Surat,566,Regular,Mobile Web,Wallet,Paid Search,9,135634.62,2024-03-28,15070.51,Churned,Silver
 CUST124019,2023-10-03,Other,21.0,18-24,Karnataka,Bengaluru,752,Budget,Mobile App,Credit Card,Social Media - Instagram,2,27541.94,2023-11-09,13770.97,Churned,Bronze
@@ -24418,7 +24418,7 @@ CUST124415,2023-12-29,Female,21.0,18-24,Andhra Pradesh,Visakhapatnam,372,New,Mob
 CUST124416,2023-04-13,Male,24.0,18-24,Karnataka,Mysuru,466,Budget,Mobile Web,Pay Later,Organic Search,1,42920.96,2023-04-19,42920.96,Churned,Bronze
 CUST124417,2024-11-21,Male,28.0,25-34,Uttar Pradesh,Lucknow,456,Budget,Mobile App,UPI,Email Marketing,4,94558.24,2025-12-27,23639.56,Active,Silver
 CUST124418,2025-11-16,Male,22.0,18-24,Maharashtra,Pune,589,Regular,Mobile App,UPI,Referral,7,75292.62,2025-12-31,10756.09,Active,Silver
-CUST124419,2023-03-04,Female,,25-34,Gujarat,Surat,695,New,Unknown,Cash on Delivery,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
+CUST124419,2023-03-04,Female,,25-34,Gujarat,Surat,695,New,,Cash on Delivery,Social Media - Facebook,0,0.0,,0.0,Never Purchased,Bronze
 CUST124420,2025-11-11,Female,27.0,25-34,Karnataka,Bengaluru,423,Budget,Mobile App,Wallet,Direct/App,5,96662.06,2025-12-09,19332.41,Active,Silver
 CUST124421,2025-07-23,Male,33.0,25-34,Punjab,Ludhiana,891,Regular,Mobile App,Credit Card,Social Media - Instagram,4,39930.24,2025-12-07,9982.56,Active,Bronze
 CUST124422,2023-07-08,Female,34.0,25-34,Andhra Pradesh,Visakhapatnam,494,Premium,Mobile Web,Credit Card,Paid Search,10,106890.67,2024-11-05,10689.07,Churned,Silver
@@ -24426,7 +24426,7 @@ CUST124423,2025-07-05,Female,43.0,35-44,Maharashtra,Nagpur,270,Budget,Mobile App
 CUST124424,2024-12-30,Female,30.0,25-34,Tamil Nadu,Chennai,249,Regular,Mobile App,Cash on Delivery,Paid Search,4,74651.51,2025-11-26,18662.88,Active,Silver
 CUST124425,2023-11-23,Male,33.0,25-34,Maharashtra,Mumbai,660,Budget,Mobile App,Credit Card,Influencer Marketing,1,15832.42,2024-01-24,15832.42,Churned,Bronze
 CUST124426,2023-09-30,Male,50.0,45-54,Punjab,Amritsar,466,Budget,Mobile App,EMI,SMS Marketing,3,75697.96,2025-01-06,25232.65,Churned,Silver
-CUST124427,2025-09-21,Male,,25-34,Tamil Nadu,Coimbatore,702,Budget,Unknown,UPI,Affiliate,4,69570.75,2025-11-09,17392.69,Active,Silver
+CUST124427,2025-09-21,Male,,25-34,Tamil Nadu,Coimbatore,702,Budget,,UPI,Affiliate,4,69570.75,2025-11-09,17392.69,Active,Silver
 CUST124428,2025-05-01,Female,48.0,45-54,Punjab,Ludhiana,583,Regular,Mobile Web,Credit Card,Email Marketing,4,244065.71,2025-07-01,61016.43,Churned,Gold
 CUST124429,2023-10-27,Male,41.0,35-44,Kerala,Kochi,215,Regular,Mobile App,UPI,Direct/App,4,37797.75,2024-04-12,9449.44,Churned,Bronze
 CUST124430,2025-01-08,Female,30.0,25-34,Rajasthan,Jodhpur,128,Budget,Mobile Web,Net Banking,Paid Search,2,160383.35,2025-04-29,80191.68,Churned,Silver
@@ -24660,7 +24660,7 @@ CUST124657,2024-06-25,Male,25.0,25-34,Telangana,Warangal,891,New,Mobile App,Cash
 CUST124658,2023-05-22,Female,43.0,35-44,Uttar Pradesh,Noida,455,Budget,Mobile App,Credit Card,Organic Search,2,58371.39,2024-03-06,29185.7,Churned,Silver
 CUST124659,2023-06-06,Female,29.0,25-34,Gujarat,Vadodara,369,Budget,Mobile App,Credit Card,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
 CUST124660,2024-12-10,Female,38.0,35-44,Bihar,Patna,357,Budget,Mobile App,Cardless EMI,Organic Search,0,0.0,,0.0,Never Purchased,Bronze
-CUST124661,2025-12-16,Male,,25-34,Kerala,Thiruvananthapuram,529,Budget,Unknown,Wallet,Paid Search,2,58716.84,2025-12-28,29358.42,Active,Silver
+CUST124661,2025-12-16,Male,,25-34,Kerala,Thiruvananthapuram,529,Budget,,Wallet,Paid Search,2,58716.84,2025-12-28,29358.42,Active,Silver
 CUST124662,2024-11-28,Male,26.0,25-34,Karnataka,Mysuru,258,Regular,Mobile App,Cash on Delivery,Paid Search,2,18576.5,2025-02-06,9288.25,Churned,Bronze
 CUST124663,2023-03-09,Female,36.0,35-44,Madhya Pradesh,Bhopal,657,Regular,Mobile App,Cash on Delivery,SMS Marketing,2,112726.26,2023-07-28,56363.13,Churned,Silver
 CUST124664,2024-07-23,Female,33.0,25-34,Karnataka,Mysuru,299,Regular,Desktop,Cash on Delivery,Organic Search,5,63886.36,2025-11-26,12777.27,Active,Silver
